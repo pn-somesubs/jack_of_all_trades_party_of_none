@@ -1,0 +1,400 @@
+[Script Info]
+Title: pn-SomeSubs - Jack-of-All-Trades, Party of None
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main,Arial Black,79,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.9,0,2,62,62,69,1
+Style: Italics,Arial Black,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.9,0,2,62,61,70,1
+Style: Flashback,Arial Black,77,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Flashback_Italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Narration,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback_Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.41,0:00:10.24,Sign_Basic,Sign,0,0,0,,HER İŞİ YAPAN, HİÇBİR PARTİYE ÜYESİ OLMAYAN
+Dialogue: 0,0:00:10.53,0:00:17.79,Sign_Basic,Sign,0,0,0,,HER İŞİ YAPAN, HİÇBİR PARTİYE ÜYESİ OLMAYAN
+Dialogue: 0,0:01:29.98,0:01:35.36,Sign_Basic,Sign,0,0,0,,BÖLÜM 4: KAHRAMANLAR PARTİSİ GERİ BAKIYOR
+Dialogue: 0,0:01:35.36,0:01:37.72,Italics,Orhun,0,0,0,,{\pos(124,196)}{\fs45\an4\fe162\b\fad(400,400)\bord3\blur4\fnVestaPro-Bold\shad\pos(41.67,107.41)}{\c&HFFFFFF&}{\4c&HF3F3FC&\b1}\N{\fsp3.5}Çevirmen:{\4c&HFF3A00&\t(0,3000,\c&HFF3A00&)} Hana\N{\c&HFFFFFF&}{\4c&HF3F3FC&}{\fsp3.5}Encode:{\4c&HFFC4FA&\t(0,3000,\c&HFFC4FA&)} Bocchi Gardaş\N{\4c&HFFFFFF&\c&HFEB342&)}SomeSub \N(bölüm paneli)
+Dialogue: 0,0:01:35.36,0:01:37.72,Italics,Orhun,0,0,0,,Sanırım bugün bu manzarayı son kez görüyorum.
+Dialogue: 0,0:01:37.72,0:01:39.62,Main,Caroline,0,0,0,,Günaydın, Efendim
+Dialogue: 0,0:01:39.97,0:01:41.65,Main,All,0,0,0,,Günaydın!
+Dialogue: 0,0:01:41.65,0:01:43.37,Main,Orhun,0,0,0,,Günaydın, millet.
+Dialogue: 0,0:01:43.76,0:01:45.62,Main,Logan,0,0,0,,Sonunda son gün geldi, ha?
+Dialogue: 0,0:01:46.07,0:01:49.96,Main,Orhun,0,0,0,,Evet. Dikkatli olalım, böylece hepimiz sağ salim geri dönebiliriz.
+Dialogue: 0,0:01:50.24,0:01:51.88,Main,Caroline,0,0,0,,Hey, hey, Efendim!
+Dialogue: 0,0:01:51.88,0:01:55.76,Main,Caroline,0,0,0,,Bunu başardığımız için bir ödül alsak \Nçok mutlu olurum!
+Dialogue: 0,0:01:55.76,0:01:56.97,Main,Caroline,0,0,0,,Anlıyor musun?
+Dialogue: 0,0:01:57.23,0:01:59.52,Main,Logan,0,0,0,,Ödül mü?
+Dialogue: 0,0:01:59.52,0:02:01.85,Main,Logan,0,0,0,,İstediğin bir şey var mı?
+Dialogue: 0,0:02:01.85,0:02:02.97,Main,Caroline,0,0,0,,Elbette var!
+Dialogue: 0,0:02:02.97,0:02:04.53,Main,Caroline,0,0,0,,Değil mi, Sophia?
+Dialogue: 0,0:02:05.57,0:02:10.69,Flashback,Sophia,0,0,0,,Keşke Orhun, Gece Gökyüzü Tavşanları\N ile kalabilseydi...
+Dialogue: 0,0:02:15.93,0:02:19.70,Main,Sophia,0,0,0,,Bence Sophia'nın da senden istediği bir şey var.
+Dialogue: 0,0:02:20.21,0:02:21.25,Main,Orhun,0,0,0,,O'nun istediği bir şey mi?
+Dialogue: 0,0:02:21.97,0:02:24.56,Main,Sophia,0,0,0,,Şey, şey...
+Dialogue: 0,0:02:26.20,0:02:28.46,Main,Sophia,0,0,0,,Orhun, um...
+Dialogue: 0,0:02:27.47,0:02:28.46,Main,Selma,0,0,0,,Orhun!
+Dialogue: 0,0:02:28.46,0:02:30.36,Main,Selma,0,0,0,,Buraya gelmen gerekiyor.
+Dialogue: 0,0:02:30.36,0:02:31.57,Main,Orhun,0,0,0,,Üzgünüm, Sophia.
+Dialogue: 0,0:02:38.01,0:02:39.97,Main,Student,0,0,0,,Hey, yeni Kahramanlar Partisi'ni duydum.
+Dialogue: 0,0:02:39.97,0:02:43.18,Main,Student,0,0,0,,bugün zindanın en derin \N kısmına giriyor!
+Dialogue: 0,0:02:43.49,0:02:47.18,Main,Student,0,0,0,,Yani 94. kattan mı başlıyorlar?
+Dialogue: 0,0:02:47.44,0:02:51.69,Main,Student,0,0,0,,Hayır, 92. kattan başlıyorlar.
+Dialogue: 0,0:02:51.69,0:02:54.94,Main,Student,0,0,0,,Yeni bir parti olarak nasıl birlikte çalıştıklarını görmeleri gerekiyor.
+Dialogue: 0,0:02:55.22,0:02:57.94,Italics,Orhun,0,0,0,,92. kattan mı başlıyorlar?
+Dialogue: 0,0:02:57.94,0:02:59.93,Italics,Orhun,0,0,0,,Birlikte nasıl çalıştıklarını görmek istiyorlarsa,
+Dialogue: 0,0:02:59.93,0:03:03.20,Italics,Orhun,0,0,0,,Daha derin katlardan değil, daha az derin katlardan başlamalılar.
+Dialogue: 0,0:03:04.93,0:03:06.95,Italics,Orhun,0,0,0,,{\pos(604,276)}ÇVN: Aynen Kral Boşver Ölsün onlar
+Dialogue: 0,0:03:04.93,0:03:06.95,Italics,Orhun,0,0,0,,Artık benim sorunum değil, değil mi?
+Dialogue: 0,0:03:08.95,0:03:13.71,Sign_Basic,Orhun,0,0,0,,{\pos(960,255)}GÜNEY BÜYÜK ZİNDAN 92. KAT
+Dialogue: 0,0:03:13.71,0:03:17.21,Main,Oliver,0,0,0,,Yeniden doğan Kahramanlar Partisi'nin ilk macerasına çıkma zamanı geldi!
+Dialogue: 0,0:03:17.21,0:03:19.22,Main,Oliver,0,0,0,,O ezik artık bizi engellemiyor!
+Dialogue: 0,0:03:19.52,0:03:21.47,Main,Oliver,0,0,0,,Yeni bir yoldaşımız var!
+Dialogue: 0,0:03:21.85,0:03:25.10,Main,Oliver,0,0,0,,Güney Büyük Zindanı temizlemeyi hedefliyoruz!
+Dialogue: 0,0:03:25.10,0:03:26.35,Main,All,0,0,0,,Evet!
+Dialogue: 0,0:03:26.65,0:03:29.10,Main,Philly,0,0,0,,Beni davet ettiğiniz için teşekkür ederim!
+Dialogue: 0,0:03:29.10,0:03:30.54,Main,Derrick,0,0,0,,Bakalım neler yapabilirsin.
+Dialogue: 0,0:03:30.54,0:03:32.06,Main,Derrick,0,0,0,,Bizi etkilemeye çalışın.
+Dialogue: 0,0:03:32.06,0:03:35.86,Main,Anneli,0,0,0,,Sorun yok. O her şeyi yapan biri değil.
+Dialogue: 0,0:03:35.86,0:03:38.48,Main,Philly,0,0,0,,Elimden geleni yapacağım.
+Dialogue: 0,0:03:42.13,0:03:47.87,Italics,Oliver,0,0,0,,Luna bile bu zindan dalışından sonra haklı olduğumuzu anlamalı.
+Dialogue: 0,0:03:47.87,0:03:51.37,Sign_Basic,Oliver,0,0,0,,İKİ GÜN ÖNCE
+Dialogue: 0,0:03:51.67,0:03:55.63,Flashback,Philly,0,0,0,,Merhaba. Ben Philly Carpenter.
+Dialogue: 0,0:03:55.63,0:03:58.19,Flashback,Philly,0,0,0,,Kahramanlar Partisi'ne katılmaktan onur duyuyorum.
+Dialogue: 0,0:03:58.19,0:04:01.38,Flashback,Philly,0,0,0,,94. kata ulaşmasıyla ünlü olan
+Dialogue: 0,0:04:01.75,0:04:03.90,Flashback,Oliver,0,0,0,,Sizi aramızda görmekten mutluluk duyuyoruz.
+Dialogue: 0,0:04:03.90,0:04:06.04,Flashback,Oliver,0,0,0,,Philly, yetenekli bir maceracıdır ve
+Dialogue: 0,0:04:06.04,0:04:08.55,Flashback,Oliver,0,0,0,,Batı Büyük Zindan'ın 100. katı.
+Dialogue: 0,0:04:08.55,0:04:12.89,Flashback,Oliver,0,0,0,,O, partimizin ilk gerçek büyücüsü olacak.
+Dialogue: 0,0:04:12.89,0:04:15.64,Flashback,Derrick,0,0,0,,Artık yetersiz güçlendirmeler yok.
+Dialogue: 0,0:04:15.64,0:04:17.15,Flashback,Anneli,0,0,0,,Evet, büyük şeyler bekliyoruz.
+Dialogue: 0,0:04:17.48,0:04:19.20,Flashback,Philly,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:04:19.20,0:04:22.65,Flashback,Philly,0,0,0,,Ve bu harika karşılama partisi için teşekkür ederim.
+Dialogue: 0,0:04:23.00,0:04:27.15,Flashback,Derrick,0,0,0,,O iğrenç Orhun gitti, \N bu yüzden parti yapmalıyız.
+Dialogue: 0,0:04:27.15,0:04:30.64,Flashback,Derrick,0,0,0,,Onun yönettiği \N hesaplarını görünce şok oldum.
+Dialogue: 0,0:04:30.64,0:04:33.16,Flashback,Derrick,0,0,0,,Bolca paramız vardı!
+Dialogue: 0,0:04:33.16,0:04:36.34,Flashback,Anneli,0,0,0,,Neden bu kadar cimriydi?
+Dialogue: 0,0:04:36.34,0:04:38.42,Flashback,Anneli,0,0,0,,Para kullanmazsanız bir işe yaramaz.
+Dialogue: 0,0:04:39.05,0:04:42.71,Flashback,Philly,0,0,0,,Um, bu para partinin faaliyetleri için değil mi?
+Dialogue: 0,0:04:42.71,0:04:44.75,Flashback,Oliver,0,0,0,,Orhun hakkında bu kadar yeter.
+Dialogue: 0,0:04:44.75,0:04:46.86,Flashback,Oliver,0,0,0,,Bugün Philly'nin hoş geldin partisi var.
+Dialogue: 0,0:04:49.11,0:04:51.93,Flashback,Oliver,0,0,0,,Philly, Kahramanlar Partisi'ne hoş geldin!
+Dialogue: 0,0:04:53.01,0:04:56.44,Flashback,Luna,0,0,0,,Üzgünüm, millet! Bir şeyi kontrol etmem gerekiyor...
+Dialogue: 0,0:04:57.34,0:04:59.28,Flashback,Luna,0,0,0,,Bir misafir mi?
+Dialogue: 0,0:04:59.28,0:05:01.22,Flashback,Oliver,0,0,0,,Sorun yok. Devam et.
+Dialogue: 0,0:05:01.68,0:05:02.80,Flashback,Luna,0,0,0,,Ama
+Dialogue: 0,0:05:02.80,0:05:03.87,Flashback,Oliver,0,0,0,,Sorun yok.
+Dialogue: 0,0:05:04.32,0:05:05.43,Flashback,Luna,0,0,0,,Peki
+Dialogue: 0,0:05:06.51,0:05:07.52,Flashback,Luna,0,0,0,,Orhun'un dediğini duydum.
+Dialogue: 0,0:05:07.52,0:05:11.23,Flashback,Luna,0,0,0,,Night Sky Silver Rabbits ile Great Dungeon \N'e giriyor.
+Dialogue: 0,0:05:11.23,0:05:13.75,Flashback,Luna,0,0,0,,Bu nasıl oldu?
+Dialogue: 0,0:05:13.75,0:05:16.33,Flashback,Oliver,0,0,0,,Orhun'un Gece Gökyüzü Gümüş Tavşanları ile mi?
+Dialogue: 0,0:05:16.33,0:05:20.29,Flashback,Anneli,0,0,0,,Hey, nasıl oldu da sadece üç gün sonra \N Rabbits'e transfer oldu?
+Dialogue: 0,0:05:20.29,0:05:22.71,Flashback,Anneli,0,0,0,,Ona zayıf olduğunu söyledik!
+Dialogue: 0,0:05:22.71,0:05:26.72,Flashback,Derrick,0,0,0,,Hala kendini S-Sınıfı mı sanıyor?
+Dialogue: 0,0:05:27.14,0:05:28.68,Flashback,Luna,0,0,0,,Ne demek istiyorsun?
+Dialogue: 0,0:05:28.68,0:05:30.85,Flashback,Luna,0,0,0,,Ben yokken ne oldu?
+Dialogue: 0,0:05:31.98,0:05:33.67,Flashback,Oliver,0,0,0,,Luna, sakin olman gerekiyor...
+Dialogue: 0,0:05:33.67,0:05:37.19,Flashback,Anneli,0,0,0,,Muhtemelen bunu bilmiyordunuz, \N ama o her şeyi bilen adam...
+Dialogue: 0,0:05:37.19,0:05:40.36,Flashback,Anneli,0,0,0,,Yani, Orhun üç gün önce partiden ayrıldı.
+Dialogue: 0,0:05:41.91,0:05:44.66,Flashback,Luna,0,0,0,,Orhun partiden ayrıldı mı?
+Dialogue: 0,0:05:46.13,0:05:47.25,Flashback,Luna,0,0,0,,Yani bu demek oluyor ki...
+Dialogue: 0,0:05:49.22,0:05:53.12,Flashback,Luna,0,0,0,,Sonunda bizden vazgeçti mi?
+Dialogue: 0,0:05:53.12,0:05:56.31,Flashback,Derrick,0,0,0,,Sanki terk edilen bizmişiz gibi konuşuyorsun.
+Dialogue: 0,0:05:56.31,0:05:57.37,Flashback,Derrick,0,0,0,,Tam tersi.
+Dialogue: 0,0:05:57.37,0:06:00.08,Flashback,Derrick,0,0,0,,O her şeyi yapan adamı kovduk!
+Dialogue: 0,0:06:03.00,0:06:04.63,Flashback,Luna,0,0,0,,Bu doğru mu?
+Dialogue: 0,0:06:05.85,0:06:07.38,Flashback,Oliver,0,0,0,,Evet, öyle.
+Dialogue: 0,0:06:07.97,0:06:12.24,Flashback,Oliver,0,0,0,,Size yeni büyücümüzü ve Orhun'un yerine geçen kişiyi tanıtayım.
+Dialogue: 0,0:06:12.24,0:06:13.76,Flashback,Philly,0,0,0,,A-Alo...
+Dialogue: 0,0:06:15.28,0:06:19.77,Flashback,Luna,0,0,0,,Orhun'un yerini kimsenin almasına karşı olduğumu açıkça belirtmiştim.
+Dialogue: 0,0:06:20.05,0:06:23.51,Flashback,Derrick,0,0,0,,Hey, yeni yoldaşımız selam veriyor!
+Dialogue: 0,0:06:23.51,0:06:25.15,Flashback,Oliver,0,0,0,,Sakin ol, Derrick.
+Dialogue: 0,0:06:25.68,0:06:30.66,Flashback,Oliver,0,0,0,,Luna, Orhun'un artık bizim için yeterince güçlü olmadığını anlamalısın.
+Dialogue: 0,0:06:30.66,0:06:32.47,Flashback,Luna,0,0,0,,Ben böyle bir şeyi hiç anlamıyorum.
+Dialogue: 0,0:06:32.47,0:06:35.66,Flashback,Luna,0,0,0,,O açıkça bu partinin çekirdeği.
+Dialogue: 0,0:06:36.18,0:06:39.67,Flashback,Luna,0,0,0,,Onun sayesinde bu noktaya gelebildik.
+Dialogue: 0,0:06:40.22,0:06:44.17,Flashback,Luna,0,0,0,,Onsuz daha fazla ilerleyemeyiz.
+Dialogue: 0,0:06:44.48,0:06:48.80,Flashback,Anneli,0,0,0,,Her işi yapan'nin özel bir şey olduğunu düşünebilirsiniz,
+Dialogue: 0,0:06:48.80,0:06:51.95,Flashback,Anneli,0,0,0,,ama dünyanın geri kalanı öyle değil!
+Dialogue: 0,0:06:51.95,0:06:54.60,Flashback,Anneli,0,0,0,,Ve artık çok geç.
+Dialogue: 0,0:06:54.60,0:06:56.93,Flashback,Anneli,0,0,0,,Ne kadar şikayet ederseniz edin, hiçbir şey değişmeyecek.
+Dialogue: 0,0:07:02.18,0:07:04.59,Flashback,Luna,0,0,0,,Evet, belki çok geç.
+Dialogue: 0,0:07:06.77,0:07:10.88,Flashback,Oliver,0,0,0,,Hepimiz buradayız, \N hemen önümüzdeki planlarımızdan bahsedelim.
+Dialogue: 0,0:07:10.88,0:07:13.20,Flashback,Oliver,0,0,0,,Philly bizimle ilk kez çalışıyor.
+Dialogue: 0,0:07:13.62,0:07:17.95,Flashback,Oliver,0,0,0,,Yani iki gün içinde, 92. katta birlikte nasıl çalıştığımızı test edeceğiz.
+Dialogue: 0,0:07:18.32,0:07:22.55,Flashback,Oliver,0,0,0,,Her şey yolunda giderse, \N 94. kata taşınacağız.
+Dialogue: 0,0:07:22.55,0:07:25.09,Flashback,Philly,0,0,0,,Bunu benim için yapmak zorunda olduğun için üzgünüm.
+Dialogue: 0,0:07:25.09,0:07:27.46,Flashback,Oliver,0,0,0,,Merak etme. Biz yoldaşız.
+Dialogue: 0,0:07:27.85,0:07:29.52,Flashback,Luna,0,0,0,,Buna karşıyım.
+Dialogue: 0,0:07:29.52,0:07:30.84,Flashback,Derrick,0,0,0,,Sen... Yine mi!
+Dialogue: 0,0:07:30.84,0:07:33.34,Flashback,Oliver,0,0,0,,Neden karşı çıkıyorsun, Luna?
+Dialogue: 0,0:07:33.84,0:07:36.60,Flashback,Luna,0,0,0,,Ölmek gibi bir niyetim yok.
+Dialogue: 0,0:07:37.02,0:07:38.42,Flashback,Oliver,0,0,0,,Ölmek mi?
+Dialogue: 0,0:07:38.42,0:07:39.62,Flashback,Derrick,0,0,0,,Duydun mu?
+Dialogue: 0,0:07:39.62,0:07:42.98,Flashback,Derrick,0,0,0,,92. kata gidersek öleceğimizi söylüyor.
+Dialogue: 0,0:07:42.98,0:07:44.86,Flashback,Anneli,0,0,0,,Nedenini anlamıyorum.
+Dialogue: 0,0:07:45.28,0:07:48.54,Flashback,Luna,0,0,0,,Philly yetenekli bir büyücü olsa bile,
+Dialogue: 0,0:07:48.54,0:07:52.36,Flashback,Luna,0,0,0,,daha düşük bir katta birlikte çalışmayı öğrenmeliyiz.
+Dialogue: 0,0:07:52.36,0:07:54.12,Flashback,Derrick,0,0,0,,Ne?
+Dialogue: 0,0:07:54.12,0:07:57.76,Flashback,Derrick,0,0,0,,93. katı çoktan temizledik.
+Dialogue: 0,0:07:57.76,0:08:00.37,Flashback,Anneli,0,0,0,,92. kat basittir.
+Dialogue: 0,0:08:00.37,0:08:02.41,Flashback,Luna,0,0,0,,Orada bir kara ejderha var!
+Dialogue: 0,0:08:02.41,0:08:05.13,Flashback,Luna,0,0,0,,Geçen sefer zar zor kazanabildik.
+Dialogue: 0,0:08:05.13,0:08:07.75,Flashback,Derrick,0,0,0,,O zamanlar Orhun da oradaydı.
+Dialogue: 0,0:08:07.75,0:08:11.88,Flashback,Anneli,0,0,0,,{\pos(404,232)}CVN: Nankörler sizi
+Dialogue: 0,0:08:07.75,0:08:11.88,Flashback,Anneli,0,0,0,,O her işi yapan adamın bizi engellememesi durumunda, bu çok kolay olacak.
+Dialogue: 0,0:08:11.88,0:08:14.16,Flashback,Luna,0,0,0,,Bunu yanlış anlamanı istemiyorum.
+Dialogue: 0,0:08:14.16,0:08:16.50,Flashback,Luna,0,0,0,,Kara ejderha bizden çok daha güçlüdür.
+Dialogue: 0,0:08:16.50,0:08:19.43,Flashback,Oliver,0,0,0,,Amacımız sadece birlikte nasıl çalıştığımızı görmek.
+Dialogue: 0,0:08:19.43,0:08:21.39,Flashback,Oliver,0,0,0,,Kara ejderhayla savaşmayacağız.
+Dialogue: 0,0:08:21.39,0:08:24.52,Flashback,Derrick,0,0,0,,Hayır, tabii ki öyleyiz!
+Dialogue: 0,0:08:24.52,0:08:25.77,Flashback,Anneli,0,0,0,,Hayır, tabii ki öyleyiz!
+Dialogue: 0,0:08:25.77,0:08:29.30,Flashback,Luna,0,0,0,,Orhun olmadan en alt katlara inmek çok riskli!
+Dialogue: 0,0:08:29.30,0:08:30.40,Flashback,Luna,0,0,0,,{\pos(496,280)}CVN: Yav Luna Bırak Yapsınlar ebesinin kini tersten görsünler
+Dialogue: 0,0:08:29.30,0:08:30.40,Flashback,Luna,0,0,0,,Bunu yeniden düşünün
+Dialogue: 0,0:08:30.40,0:08:32.90,Flashback,Oliver,0,0,0,,Luna, bu karar verildi.
+Dialogue: 0,0:08:33.99,0:08:35.46,Flashback,Oliver,0,0,0,,Reddetmeye hakkın yok.
+Dialogue: 0,0:08:49.57,0:08:50.56,Main,Oliver,0,0,0,,Kılıcım ona zarar veremiyor!
+Dialogue: 0,0:08:50.56,0:08:51.42,Main,Derrick,0,0,0,,Geri çekil, Oliver!
+Dialogue: 0,0:08:56.49,0:08:58.30,Main,Oliver,0,0,0,,Çok ağır...
+Dialogue: 0,0:08:58.30,0:09:03.00,Italics,Oliver,0,0,0,,Her seferinde güçlendirmelerim bittiğinde, sanki tüm vücudum ağırlıklarla kaplıymış gibi hissediyorum.
+Dialogue: 0,0:09:03.00,0:09:05.81,Italics,Oliver,0,0,0,,Buna devam edemem!
+Dialogue: 0,0:09:06.24,0:09:09.31,Main,Oliver,0,0,0,,Philly, neden hayranlarımız sürekli kayboluyor?
+Dialogue: 0,0:09:09.31,0:09:13.07,Main,Philly,0,0,0,,Ö-Özür dilerim! Henüz nasıl savaştığınızı anlamadım...
+Dialogue: 0,0:09:13.53,0:09:16.24,Italics,Oliver,0,0,0,,Anlamak bu kadar uzun mu sürüyor?
+Dialogue: 0,0:09:16.24,0:09:20.83,Italics,Oliver,0,0,0,,Orhun ilk gün bir saat kadar içinde her şeyi çözmüştü...
+Dialogue: 0,0:09:25.23,0:09:27.29,Main,Anneli,0,0,0,,Ne yapıyorsun, Derrick?
+Dialogue: 0,0:09:27.29,0:09:29.21,Main,Derrick,0,0,0,,Üzgünüm, kayıp düştüm!
+Dialogue: 0,0:09:29.67,0:09:31.50,Main,Derrick,0,0,0,,Ne oluyor böyle?
+Dialogue: 0,0:09:31.50,0:09:33.96,Main,Derrick,0,0,0,,Eskiden bu tür şeyleri kolayca engelleyebiliyordum!
+Dialogue: 0,0:09:34.71,0:09:36.30,Main,Anneli,0,0,0,,Ateş Topu!
+Dialogue: 0,0:09:38.89,0:09:40.76,Main,Oliver,0,0,0,,Anneli! Dalga geçmeyi bırak!
+Dialogue: 0,0:09:41.10,0:09:43.40,Main,Anneli,0,0,0,,Her zamanki gibi yapıyorum!
+Dialogue: 0,0:09:43.40,0:09:47.27,Main,Anneli,0,0,0,,Peki neden tüm saldırı büyülerim bu kadar zayıf?
+Dialogue: 0,0:09:47.66,0:09:49.57,Main,Oliver,0,0,0,,Her zamanki gibi mi?
+Dialogue: 0,0:09:49.57,0:09:51.52,Main,Oliver,0,0,0,,Philly, Anneli'yi destekle!
+Dialogue: 0,0:09:51.52,0:09:53.28,Main,Philly,0,0,0,,Ben zaten yaptım!
+Dialogue: 0,0:09:53.28,0:09:54.26,Main,Oliver,0,0,0,,Tekrar yap!
+Dialogue: 0,0:09:54.26,0:09:55.15,Main,Philly,0,0,0,,Tamam
+Dialogue: 0,0:09:57.60,0:09:59.17,Main,Anneli,0,0,0,,Ateş Topu!
+Dialogue: 0,0:10:01.67,0:10:02.68,Main,Anneli,0,0,0,,Olmaz!
+Dialogue: 0,0:10:04.27,0:10:05.40,Main,Anneli,0,0,0,,Neden?!
+Dialogue: 0,0:10:06.40,0:10:10.47,Italics,Oliver,0,0,0,,Philly'nin destek büyüsü Orhun'unkinden çok daha güçlü olmalı.
+Dialogue: 0,0:10:10.47,0:10:12.26,Italics,Oliver,0,0,0,,Burada neler oluyor?
+Dialogue: 0,0:10:12.26,0:10:13.39,Main,Philly,0,0,0,,Oliver?!
+Dialogue: 0,0:10:16.70,0:10:18.43,Main,Derrick,0,0,0,,Oliver! Bir şey yap!
+Dialogue: 0,0:10:18.77,0:10:21.30,Main,Oliver,0,0,0,,Anneli, yan tarafına geç!
+Dialogue: 0,0:10:27.99,0:10:30.81,Main,Anneli,0,0,0,,Bu daha önce hiç olmamıştı!
+Dialogue: 0,0:10:30.81,0:10:33.96,Main,Oliver,0,0,0,,Philly, canavarın bir sonraki saldırısını izle ve bizi uyar!
+Dialogue: 0,0:10:33.96,0:10:35.23,Main,Philly,0,0,0,,Bu imkansız!
+Dialogue: 0,0:10:35.23,0:10:37.75,Main,Oliver,0,0,0,,Her şeyi gözetlemek büyücünün görevidir.
+Dialogue: 0,0:10:37.75,0:10:39.45,Main,Oliver,0,0,0,,ve savaşın akışını anlayın!
+Dialogue: 0,0:10:39.45,0:10:41.03,Main,Philly,0,0,0,,Özür dilerim!
+Dialogue: 0,0:10:41.03,0:10:44.33,Main,Philly,0,0,0,,Şu anda yapabileceğim tek şey destek büyüsünü kullanmak!
+Dialogue: 0,0:10:44.33,0:10:46.58,Main,Anneli,0,0,0,,Sen işe yaramazsın!
+Dialogue: 0,0:10:46.58,0:10:50.33,Italics,Oliver,0,0,0,,Derrick ve Anneli her zamanki kadar güçlü değiller.
+Dialogue: 0,0:10:50.33,0:10:51.83,Italics,Oliver,0,0,0,,Ben de değilim.
+Dialogue: 0,0:10:52.27,0:10:55.63,Italics,Oliver,0,0,0,,Bugün kılıcımın gücünü hiç kullanamıyorum.
+Dialogue: 0,0:10:55.63,0:10:58.11,Main,Oliver,0,0,0,,Teorik olarak, Philly'nin destek büyüsü
+Dialogue: 0,0:10:58.11,0:11:00.59,Main,Oliver,0,0,0,,fiziksel yeteneklerimi büyük ölçüde artırdı, ama...
+Dialogue: 0,0:11:00.59,0:11:01.74,Main,Oliver,0,0,0,,Kahretsin!
+Dialogue: 0,0:11:01.74,0:11:05.22,Main,Oliver,0,0,0,,Neden bu kadar zayıfız?
+Dialogue: 0,0:11:05.55,0:11:07.22,Main,Luna,0,0,0,,Hala anlamadınız mı?
+Dialogue: 0,0:11:07.94,0:11:10.85,Main,Oliver,0,0,0,,Luna, bize ne olduğunu anlıyor musun?
+Dialogue: 0,0:11:10.85,0:11:13.19,Main,Anneli,0,0,0,,Söyle bize! Hepimiz yoldaşız, değil mi?
+Dialogue: 0,0:11:13.66,0:11:15.67,Main,Luna,0,0,0,,Öyle miyiz?
+Dialogue: 0,0:11:16.88,0:11:18.53,Main,Luna,0,0,0,,Tamam.
+Dialogue: 0,0:11:19.04,0:11:21.82,Main,Luna,0,0,0,,Zayıf olmanın sebebi...
+Dialogue: 0,0:11:27.19,0:11:28.45,Italics,Oliver,0,0,0,,Neden...
+Dialogue: 0,0:11:28.81,0:11:31.71,Italics,Oliver,0,0,0,,Neden bize geldin...
+Dialogue: 0,0:11:33.72,0:11:35.01,Italics,Oliver,0,0,0,,Kara ejderha mı?!
+Dialogue: 0,0:11:43.21,0:11:46.42,Main,Oliver,0,0,0,,Kara ejderha patron bölgesinden ayrılmamalıdır!
+Dialogue: 0,0:11:46.42,0:11:47.76,Main,Oliver,0,0,0,,Burada ne arıyor?
+Dialogue: 0,0:11:54.52,0:11:55.52,Main,Luna,0,0,0,,Hadi buradan gidelim!
+Dialogue: 0,0:11:56.01,0:11:57.59,Main,Derrick,0,0,0,,Reddediyorum!
+Dialogue: 0,0:11:57.59,0:11:59.40,Main,Anneli,0,0,0,,Evet! Bu şeyi indireceğim!
+Dialogue: 0,0:11:59.95,0:12:02.65,Main,Luna,0,0,0,,Onu yenemeyiz! Acele et!
+Dialogue: 0,0:12:03.20,0:12:05.07,Main,Oliver,0,0,0,,Tartışacak zaman yok!
+Dialogue: 0,0:12:05.07,0:12:06.94,Main,Oliver,0,0,0,,Onu daha önce bir kez yendik.
+Dialogue: 0,0:12:06.94,0:12:07.53,Main,Oliver,0,0,0,,Bunu başarabiliriz!
+Dialogue: 0,0:12:07.53,0:12:09.54,Main,Luna,0,0,0,,Ne diyorsun?
+Dialogue: 0,0:12:09.54,0:12:10.69,Main,Oliver,0,0,0,,Hadi gidelim!
+Dialogue: 0,0:12:10.69,0:12:11.79,Main,Derrick,0,0,0,,Evet
+Dialogue: 0,0:12:12.11,0:12:13.42,Main,Anneli,0,0,0,,Tamam
+Dialogue: 0,0:12:16.87,0:12:17.86,Main,Oliver,0,0,0,,Derrick!
+Dialogue: 0,0:12:19.50,0:12:20.62,Main,Luna,0,0,0,,Derrick!
+Dialogue: 0,0:12:22.57,0:12:26.01,Main,Oliver,0,0,0,,Philly?! Neden Derrick'i parlatmadın?
+Dialogue: 0,0:12:28.09,0:12:29.97,Italics,Oliver,0,0,0,,O donmuş durumda!
+Dialogue: 0,0:12:29.97,0:12:32.77,Italics,Oliver,0,0,0,,Orhun'dan daha güçlü bir büyücü neden...
+Dialogue: 0,0:12:32.77,0:12:34.39,Main,Anneli,0,0,0,,Ateş Mızrağı!
+Dialogue: 0,0:12:38.19,0:12:39.65,Main,Anneli,0,0,0,,Olmaz...
+Dialogue: 0,0:12:45.12,0:12:46.16,Main,Oliver,0,0,0,,Anneli!
+Dialogue: 0,0:12:49.16,0:12:50.58,Main,Oliver,0,0,0,,İmkansız...
+Dialogue: 0,0:12:50.58,0:12:52.41,Main,Oliver,0,0,0,,Herkese ne oldu?
+Dialogue: 0,0:12:53.32,0:12:54.52,Main,Luna,0,0,0,,Çekilmemiz gerekiyor!
+Dialogue: 0,0:12:54.52,0:12:55.42,Main,Luna,0,0,0,,Acele et!
+Dialogue: 0,0:12:55.42,0:12:56.84,Main,Oliver,0,0,0,,Bu olamaz...
+Dialogue: 0,0:12:56.84,0:12:59.42,Main,Luna,0,0,0,,Kendine gel, Oliver!
+Dialogue: 0,0:12:59.76,0:13:01.66,Main,Luna,0,0,0,,Bu savaşı kazanamayız!
+Dialogue: 0,0:13:01.66,0:13:03.42,Main,Luna,0,0,0,,Yok olacağız!
+Dialogue: 0,0:13:08.77,0:13:10.68,Main,Oliver,0,0,0,,Bu onun en güçlü nefes saldırısı!
+Dialogue: 0,0:13:11.13,0:13:14.18,Main,Luna,0,0,0,,Gitmemiz gerek! Bize zaman kazandır!
+Dialogue: 0,0:13:14.69,0:13:15.74,Main,Oliver,0,0,0,,Anladım!
+Dialogue: 0,0:13:15.74,0:13:18.79,Main,Oliver,0,0,0,,Philly! Philly, uyan!
+Dialogue: 0,0:13:18.79,0:13:20.69,Main,Philly,0,0,0,,Şey, ben...
+Dialogue: 0,0:13:20.69,0:13:23.07,Main,Oliver,0,0,0,,Bana güç ver! Çabuk!
+Dialogue: 0,0:13:23.40,0:13:24.77,Main,Philly,0,0,0,,Tamam
+Dialogue: 0,0:13:29.18,0:13:30.84,Main,Oliver,0,0,0,,Sihirli Birleşim!
+Dialogue: 0,0:13:35.59,0:13:37.21,Main,Oliver,0,0,0,,Geliyorum, kara ejderha!
+Dialogue: 0,0:13:37.94,0:13:39.71,Main,Philly,0,0,0,,Daha fazla Sihirli Yakınsama yapmalısın!
+Dialogue: 0,0:13:40.00,0:13:41.96,Main,Oliver,0,0,0,,Zaman yok!
+Dialogue: 0,0:13:42.26,0:13:44.84,Main,Oliver,0,0,0,,Al şunu! İlahi Işık!
+Dialogue: 0,0:14:01.96,0:14:03.08,Main,Oliver,0,0,0,,Hayır
+Dialogue: 0,0:14:03.56,0:14:05.78,Main,Luna,0,0,0,,Oliver, iyi misin?
+Dialogue: 0,0:14:06.64,0:14:08.70,Main,Oliver,0,0,0,,Luna, söyle bana...
+Dialogue: 0,0:14:09.22,0:14:12.78,Main,Oliver,0,0,0,,Ne... Ne yapmalıyız?
+Dialogue: 0,0:14:12.78,0:14:15.55,Main,Luna,0,0,0,,Lider sensin! \N Bunu karar vermek senin görevin!
+Dialogue: 0,0:14:15.55,0:14:17.04,Main,Luna,0,0,0,,Kendine gel!
+Dialogue: 0,0:14:21.29,0:14:22.90,Main,Luna,0,0,0,,Başka seçeneğimiz yok.
+Dialogue: 0,0:14:22.90,0:14:24.95,Main,Luna,0,0,0,,Fickle Gate'i kullanalım.
+Dialogue: 0,0:14:26.26,0:14:29.94,Main,Luna,0,0,0,,Acil durumlarda kaçış için kullanılan sihirli bir eşya.
+Dialogue: 0,0:14:29.94,0:14:32.32,Main,Luna,0,0,0,,sadece zindanların içinde kullanılabilir.
+Dialogue: 0,0:14:32.32,0:14:36.71,Main,Luna,0,0,0,,Kullanıldığı yeri ile başka bir yer arasında zorla bir bağlantı açabilir.
+Dialogue: 0,0:14:37.43,0:14:39.11,Main,Luna,0,0,0,,Tek olan bu.
+Dialogue: 0,0:14:39.11,0:14:40.56,Main,Oliver,0,0,0,,Ama
+Dialogue: 0,0:14:41.06,0:14:43.57,Main,Philly,0,0,0,,Bizi rastgele bir patron alanına götürecek,
+Dialogue: 0,0:14:43.57,0:14:46.57,Main,Philly,0,0,0,,üst ve alt katlar arasında bir yerde...
+Dialogue: 0,0:14:46.89,0:14:50.57,Main,Philly,0,0,0,,İçeri girdiğimiz anda başka bir katın patronuyla savaşacağız.
+Dialogue: 0,0:14:50.57,0:14:53.92,Main,Luna,0,0,0,,Yine de kara ejderhayla savaşmaktan çok daha iyidir.
+Dialogue: 0,0:14:53.92,0:14:56.29,Main,Luna,0,0,0,,en derin seviyelerden bir patron!
+Dialogue: 0,0:14:56.29,0:14:57.90,Main,Oliver,0,0,0,,Tamam.
+Dialogue: 0,0:15:10.34,0:15:12.20,Main,Oliver,0,0,0,,Herkes hazır, değil mi?
+Dialogue: 0,0:15:12.20,0:15:13.04,Main,Oliver,0,0,0,,Hadi gidelim!
+Dialogue: 0,0:15:22.74,0:15:24.19,Main,Oliver,0,0,0,,Atlayın!
+Dialogue: 0,0:15:31.82,0:15:34.20,Main,Oliver,0,0,0,,Kapı genişledi...
+Dialogue: 0,0:15:44.38,0:15:46.30,Main,Oliver,0,0,0,,Kara ejderha kayboldu mu?
+Dialogue: 0,0:15:47.54,0:15:48.70,Main,Derrick,0,0,0,,Kurtulduk...
+Dialogue: 0,0:15:48.70,0:15:50.03,Main,Derrick,0,0,0,,Biz hayattayız.
+Dialogue: 0,0:15:50.03,0:15:51.32,Main,Luna,0,0,0,,Ne diyorsun Sen ?
+Dialogue: 0,0:15:51.32,0:15:53.34,Main,Luna,0,0,0,,Bu olabilecek en kötü şey!
+Dialogue: 0,0:15:55.18,0:15:58.10,Main,Oliver,0,0,0,,Bu, kara ejderha'nin başka bir patron alanına taşındığı anlamına mı geliyor?
+Dialogue: 0,0:15:58.60,0:16:00.92,Main,Luna,0,0,0,,Bir grup maceracı \N saldırıya uğramak üzere.
+Dialogue: 0,0:16:00.92,0:16:02.91,Main,Luna,0,0,0,,siyah bir ejderha tarafından, orada olduğunun farkında bile olmadan!
+Dialogue: 0,0:16:03.84,0:16:07.86,Main,Philly,0,0,0,,Bir kat şefinin Fickle Gate kullanabileceğini hiç bilmiyordum...
+Dialogue: 0,0:16:08.23,0:16:12.20,Main,Luna,0,0,0,,Loncaya geri dönüp herkesi zorla teleport etmelerini sağlamalıyız!
+Dialogue: 0,0:16:12.20,0:16:13.36,Main,Oliver,0,0,0,,Zorla ışınlanma mı?
+Dialogue: 0,0:16:14.04,0:16:19.74,Main,Luna,0,0,0,,Bu, lonca kartlarının sahip olduğu bir işlevdir ve \N birini zorla başka bir yere ışınlamalarına olanak tanır.
+Dialogue: 0,0:16:20.19,0:16:22.58,Main,Philly,0,0,0,,Bu bizim tek seçeneğimiz...
+Dialogue: 0,0:16:22.95,0:16:26.24,Main,Oliver,0,0,0,,Ama guild'den bir miktar ceza alacağız...
+Dialogue: 0,0:16:26.78,0:16:30.46,Main,Oliver,0,0,0,,Hayır, şimdi bunun için endişelenmenin sırası değil.
+Dialogue: 0,0:16:30.46,0:16:31.84,Main,Oliver,0,0,0,,Acele edelim!
+Dialogue: 0,0:16:31.84,0:16:35.09,Main,Luna,0,0,0,,Bekle! İkisini bırakıp gidecek misin?
+Dialogue: 0,0:16:47.77,0:16:50.20,Main,Luna,0,0,0,,Zorla ışınlanma talebinde bulunduktan sonra,
+Dialogue: 0,0:16:50.20,0:16:53.50,Main,Luna,0,0,0,,hemen kara ejderhayla savaşmamız gerekecek.
+Dialogue: 0,0:16:53.50,0:16:54.32,Main,Oliver,0,0,0,,Evet
+Dialogue: 0,0:16:54.86,0:16:59.55,Main,Luna,0,0,0,,Bence bunu yaparken Philly ve Orhun'u değiştirmeliyiz.
+Dialogue: 0,0:16:59.55,0:17:01.62,Main,Oliver,0,0,0,,Ciddi misin?
+Dialogue: 0,0:17:02.04,0:17:07.08,Main,Luna,0,0,0,,Orhun'un bizim hatamızı düzeltmek zorunda kalması fikri hoşuma gitmiyor.
+Dialogue: 0,0:17:07.08,0:17:09.38,Main,Luna,0,0,0,,Ama şu anda ona ihtiyacımız var.
+Dialogue: 0,0:17:09.72,0:17:11.66,Main,Derrick,0,0,0,,Ondan yardım istemeyi reddediyorum!
+Dialogue: 0,0:17:13.39,0:17:15.44,Main,Luna,0,0,0,,Kara ejderha ortaya çıkmadan önce,
+Dialogue: 0,0:17:15.44,0:17:18.63,Main,Luna,0,0,0,,Sana neden daha zayıf olduğunu söylemek üzereydim, değil mi?
+Dialogue: 0,0:17:18.63,0:17:19.51,Main,Oliver,0,0,0,,Evet
+Dialogue: 0,0:17:20.17,0:17:22.09,Main,Luna,0,0,0,,Sen her zamanki gibisin.
+Dialogue: 0,0:17:22.09,0:17:24.02,Main,Luna,0,0,0,,Hiçbir şey değişmedi.
+Dialogue: 0,0:17:24.64,0:17:28.02,Main,Oliver,0,0,0,,O zaman neden bu kadar zayıfız?
+Dialogue: 0,0:17:28.70,0:17:33.41,Main,Oliver,0,0,0,,En güçlü saldırım olan \N İlahi Parlama bile ona zarar veremedi!
+Dialogue: 0,0:17:34.75,0:17:36.52,Main,Luna,0,0,0,,Cevap basit.
+Dialogue: 0,0:17:36.52,0:17:38.45,Main,Luna,0,0,0,,Çünkü Orhun'un yok.
+Dialogue: 0,0:17:39.45,0:17:43.22,Main,Luna,0,0,0,,Orada neredeyse hiç büyülü \N yakınsama yapmadın.
+Dialogue: 0,0:17:43.22,0:17:46.18,Main,Luna,0,0,0,,Bu koşullar altında Divine Flash genellikle bu kadar zayıftır.
+Dialogue: 0,0:17:46.18,0:17:48.46,Main,Oliver,0,0,0,,Yeterince büyülü yakınsama yapmamış mıydım?
+Dialogue: 0,0:17:48.96,0:17:50.03,Main,Luna,0,0,0,,Doğru.
+Dialogue: 0,0:17:50.03,0:17:51.62,Main,Luna,0,0,0,,Ama bunu açıklamadan önce,
+Dialogue: 0,0:17:51.62,0:17:54.90,Main,Luna,0,0,0,,Tüm destek \N sihrinin ortak noktası nedir, biliyor musunuz?
+Dialogue: 0,0:17:54.90,0:17:55.97,Main,Oliver,0,0,0,,Evet
+Dialogue: 0,0:17:56.34,0:18:00.35,Main,Oliver,0,0,0,,Bir istatistiği ne kadar artıracağınız \N, büyücünün kararıyla belirlenir.
+Dialogue: 0,0:18:00.68,0:18:04.62,Main,Oliver,0,0,0,,Ve bir buff'nin süresi hedef tarafından belirlenir.
+Dialogue: 0,0:18:05.51,0:18:11.78,Main,Oliver,0,0,0,,Bir büyücü, bir güçlendirmenin etkisi geçmeden önce onu yeniden uygulamak zorundadır.
+Dialogue: 0,0:18:11.78,0:18:15.53,Main,Oliver,0,0,0,,Bir güçlendirmenin ortalama süresi \N yaklaşık üç dakikadır.
+Dialogue: 0,0:18:15.53,0:18:17.58,Main,Philly,0,0,0,,Bu genellikle doğrudur.
+Dialogue: 0,0:18:17.58,0:18:23.07,Main,Philly,0,0,0,,Ama hepinizin çok yüksek büyü direnci var.
+Dialogue: 0,0:18:23.07,0:18:25.62,Main,Philly,0,0,0,,Bir güçlendirme iki dakikadan fazla sürmez.
+Dialogue: 0,0:18:26.01,0:18:31.53,Main,Philly,0,0,0,,Senin için Oliver, bir dakikadan fazla \N buff'ı koruyamıyorum.
+Dialogue: 0,0:18:31.53,0:18:33.38,Main,Oliver,0,0,0,,Bunu daha önce kimseden duymamıştım.
+Dialogue: 0,0:18:33.69,0:18:37.44,Main,Luna,0,0,0,,Vücudun seni herhangi bir büyücü için uygun olmayan biri yapıyor.
+Dialogue: 0,0:18:37.44,0:18:40.76,Main,Luna,0,0,0,,Ama Orhun seninle harika bir iş çıkardı.
+Dialogue: 0,0:18:40.76,0:18:43.53,Main,Oliver,0,0,0,,O zaman Philly de bunu yapabilmeli.
+Dialogue: 0,0:18:43.53,0:18:45.93,Main,Oliver,0,0,0,,O, Orhun'dan çok daha yetenekli.
+Dialogue: 0,0:18:45.93,0:18:48.89,Main,Luna,0,0,0,,Ve bu yüzden onu Orhun ile takas etmeliyiz?
+Dialogue: 0,0:18:49.17,0:18:50.43,Main,Oliver,0,0,0,,Evet, doğru.
+Dialogue: 0,0:18:50.43,0:18:55.65,Main,Oliver,0,0,0,,O, diğer büyücülerden açıkça daha az güçlüdür.
+Dialogue: 0,0:18:55.93,0:18:59.15,Main,Luna,0,0,0,,Orhun bunu biliyordu.
+Dialogue: 0,0:18:59.73,0:19:04.66,Main,Luna,0,0,0,,Bu yüzden kusurlarını telafi etmek için birkaç tür \N orijinal büyü geliştirdi.
+Dialogue: 0,0:19:05.04,0:19:06.66,Main,Oliver,0,0,0,,Orijinal sihir mi?
+Dialogue: 0,0:19:06.66,0:19:08.66,Main,Anneli,0,0,0,,Hayır, bu imkansız...
+Dialogue: 0,0:19:09.20,0:19:10.92,Main,Derrick,0,0,0,,O yapamazdı!
+Dialogue: 0,0:19:11.50,0:19:12.92,Main,Luna,0,0,0,,Bu doğru.
+Dialogue: 0,0:19:15.48,0:19:17.67,Main,Luna,0,0,0,,Şimdilik yapabileceğim tek şey bu.
+Dialogue: 0,0:19:18.07,0:19:19.68,Main,Luna,0,0,0,,Zamanımız azalıyor.
+Dialogue: 0,0:19:19.68,0:19:20.84,Main,Luna,0,0,0,,Acele edelim.
+Dialogue: 0,0:19:23.11,0:19:25.74,Main,Oliver,0,0,0,,O,orijinal büyü yapmakla ilgili bir şeyler söyledi.
+Dialogue: 0,0:19:25.74,0:19:29.99,Main,Oliver,0,0,0,,Ama yine de diğer büyücülerden çok daha zayıftı!
+Dialogue: 0,0:19:29.99,0:19:31.94,Main,Luna,0,0,0,,Hayır, bu doğru değil...
+Dialogue: 0,0:19:32.49,0:19:39.94,Main,Luna,0,0,0,,Geliştirdiği orijinal büyülerden biri, gücü 50 kattan fazla artırabilir.
+Dialogue: 0,0:19:40.36,0:19:41.95,Main,Oliver,0,0,0,,Elli kez mi?
+Dialogue: 0,0:19:41.95,0:19:43.52,Main,Philly,0,0,0,,İmkansız!
+Dialogue: 0,0:19:43.52,0:19:49.91,Main,Philly,0,0,0,,Night Sky Rabbits'ten Selma bile \N bunu sadece 10 kat artırabileceğini söyledi!
+Dialogue: 0,0:19:50.19,0:19:53.67,Main,Luna,0,0,0,,İnanmayabilirsiniz, ama bu doğru!
+Dialogue: 0,0:19:53.97,0:19:58.67,Main,Oliver,0,0,0,,Yani benim İlahi Parlamam için Orhun'un destek büyüsü gerekli miydi?
+Dialogue: 0,0:19:59.18,0:20:04.30,Main,Luna,0,0,0,,Doğru. Senin İlahi Parlaman \N ve Anneli'nin saldırı büyüsü
+Dialogue: 0,0:20:04.30,0:20:07.43,Main,Luna,0,0,0,,bu elli kat artıştan faydalandılar.
+Dialogue: 0,0:20:07.97,0:20:10.30,Main,Luna,0,0,0,,Ve bu seni kibirli yaptı.,
+Dialogue: 0,0:20:10.30,0:20:14.19,Main,Luna,0,0,0,,ve büyülü enerji toplamak için çok fazla zaman harcamayı bıraktın.
+Dialogue: 0,0:20:14.78,0:20:17.61,Main,Luna,0,0,0,,Eğer sihirli yakınsamana daha fazla zaman ayırsaydın,
+Dialogue: 0,0:20:17.61,0:20:21.61,Main,Luna,0,0,0,,En azından gökyüzündeki \N kara ejderhayı devirmeyi başarabilirdin bence.
+Dialogue: 0,0:20:23.03,0:20:24.70,Main,Luna,0,0,0,,Anneli için de durum aynı.
+Dialogue: 0,0:20:25.73,0:20:28.32,Main,Luna,0,0,0,,Saldırıların gerektirdiğini düşündünüz.
+Dialogue: 0,0:20:28.32,0:20:30.95,Main,Luna,0,0,0,,Orhun'un destek büyüsü, senin kendi gücün sayesinde etkili oldu.
+Dialogue: 0,0:20:31.68,0:20:35.98,Main,Luna,0,0,0,,Son zamanlarda sadece \N kolay orta seviye büyüler kullanıyorsun.
+Dialogue: 0,0:20:36.54,0:20:39.96,Main,Luna,0,0,0,,Özel Sıra büyüleri kullanamayabilirsiniz.
+Dialogue: 0,0:20:39.96,0:20:41.98,Main,Luna,0,0,0,,artık zaman ve konsantrasyon gerektiren şeyler.
+Dialogue: 0,0:20:41.98,0:20:43.93,Main,Anneli,0,0,0,,Bu mümkün mü?
+Dialogue: 0,0:20:44.21,0:20:48.18,Main,Derrick,0,0,0,,Yani o da benim savunmamı destekliyor muydu?
+Dialogue: 0,0:20:48.18,0:20:49.68,Main,Luna,0,0,0,,Evet, doğru.
+Dialogue: 0,0:20:50.21,0:20:56.56,Main,Luna,0,0,0,,Dahası, onun orijinal büyüsü \N ekipman ve büyüler üzerinde de işe yarıyor.
+Dialogue: 0,0:20:56.56,0:21:00.98,Main,Luna,0,0,0,,Böylece, güçlendirmeleri sona erdiğinde, vücudunuzun aniden ağırlaştığını hissetmezsiniz.
+Dialogue: 0,0:21:02.58,0:21:06.20,Main,Luna,0,0,0,,Aynı şeyi daha önce birçok kez söyledim...
+Dialogue: 0,0:21:06.51,0:21:08.40,Main,Luna,0,0,0,,Şimdi anladın mı?
+Dialogue: 0,0:21:10.47,0:21:11.70,Main,Oliver,0,0,0,,Evet.
+Dialogue: 0,0:21:12.17,0:21:14.30,Main,Oliver,0,0,0,,Artık çok geç olsa da.
+Dialogue: 0,0:21:23.28,0:21:24.46,Main,Students,0,0,0,,O...
+Dialogue: 0,0:21:24.46,0:21:25.97,Main,Students,0,0,0,,İşte Kahramanlar Partisi!
+Dialogue: 0,0:21:26.40,0:21:28.48,Main,Students,0,0,0,,En alt katlara indiklerini duydum.
+Dialogue: 0,0:21:28.48,0:21:29.97,Main,Students,0,0,0,,Geri mi döndüler?
+Dialogue: 0,0:21:30.26,0:21:33.98,Main,Students,0,0,0,,Yeni büyücülerle işler harika gidiyor olmalı!
+Dialogue: 0,0:21:34.30,0:21:36.48,Main,Students,0,0,0,,Kahramanlar Partisi gerçekten harika.
+Dialogue: 0,0:21:36.77,0:21:38.48,Italics,Oliver,0,0,0,,Biz kahraman değiliz!
+Dialogue: 0,0:21:38.48,0:21:42.48,Italics,Oliver,0,0,0,,Zindandaki her maceracıyı tehlikeye attık!
+Dialogue: 0,0:21:43.20,0:21:47.49,Italics,Oliver,0,0,0,,Kahraman olarak anılmaya hakkımız yok!
+Dialogue: 0,0:21:47.87,0:21:51.39,Italics,Oliver,0,0,0,,Kahretsin! Kara ejderhayı bir kez yendik!
+Dialogue: 0,0:21:52.32,0:21:53.87,Italics,Oliver,0,0,0,,Ben kendim yaptım!
+Dialogue: 0,0:21:53.87,0:21:56.83,Italics,Oliver,0,0,0,,Ben... Onu yenen bendim!
+Dialogue: 0,0:21:56.83,0:21:59.22,Italics,Oliver,0,0,0,,Kahramanlarım Partisi!
+Dialogue: 0,0:22:00.72,0:22:05.42,Italics,Oliver,0,0,0,,{\pos(300,216)}CVN: Mal Oliver
+Dialogue: 0,0:22:00.72,0:22:05.42,Italics,Oliver,0,0,0,,Partimiz Orhun olmadan da gayet iyi!
