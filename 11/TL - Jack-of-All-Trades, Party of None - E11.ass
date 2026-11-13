@@ -1,0 +1,348 @@
+[Script Info]
+Title: pn-SomeSubs - Jack-of-All-Trades, Party of None
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,6,2,30,30,30,1
+Style: Main,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Italics,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.00,0:00:05.30,Main,Aran,0,0,0,,Kılıcınız hazır.
+Dialogue: 0,0:00:08.15,0:00:11.09,Main,Wil,0,0,0,,Siyah Ejder'in pullarından yapılan mı?
+Dialogue: 0,0:00:11.09,0:00:12.24,Main,Rain,0,0,0,,Vay!
+Dialogue: 0,0:00:12.68,0:00:14.57,Italics,Orhun,0,0,0,,Elime mükemmel oturdu...
+Dialogue: 0,0:00:15.80,0:00:17.39,Italics,Orhun,0,0,0,,Ağırlığı da tam olması gerektiği gibi.
+Dialogue: 0,0:00:18.43,0:00:20.96,Italics,Orhun,0,0,0,,Bu benim yeni kılıcım.
+Dialogue: 0,0:00:20.96,0:00:21.93,Main,Aran,0,0,0,,Ne diyorsun?
+Dialogue: 0,0:00:21.93,0:00:21.92,Main,Orhun,0,0,0,,Mükemmel! Etkilendim!
+Dialogue: 0,0:00:21.92,0:00:24.25,Main,Orhun,0,0,0,,Mükemmel! Etkilendim!
+Dialogue: 0,0:00:25.61,0:00:27.50,Italics,Orhun,0,0,0,,Bu kılıcın üzerine yemin ederim ki...
+Dialogue: 0,0:00:28.08,0:00:31.88,Italics,Orhun,0,0,0,,yoldaşlarımı ne pahasına olursa olsun koruyacağım!
+Dialogue: 0,0:00:42.40,0:00:43.23,Sign_Basic,Sign,0,0,0,,JACK-OF-ALL-TRADES, PARTY OF NONE
+Dialogue: 0,0:00:43.52,0:00:50.78,Sign_Basic,Sign,0,0,0,,JACK-OF-ALL-TRADES, PARTY OF NONE
+Dialogue: 0,0:02:02.97,0:02:06.98,Sign_Basic,Sign,0,0,0,,BÖLÜM 11: THE JACK-OF-ALL-TRADES\NARKADAŞLARI İÇİN KORKUYOR
+Dialogue: 0,0:02:23.12,0:02:26.57,Main,Rain,0,0,0,,O yarı ölünün sert vücudunu ikiye doğradın ha?
+Dialogue: 0,0:02:26.57,0:02:29.59,Main,Lucre,0,0,0,,Kat 91'i de temizledik demek oluyor bu.
+Dialogue: 0,0:02:29.59,0:02:31.52,Main,Selma,0,0,0,,Yeni kılıcın nasıl?
+Dialogue: 0,0:02:31.52,0:02:32.75,Main,Orhun,0,0,0,,Harika.
+Dialogue: 0,0:02:33.44,0:02:35.63,Main,Orhun,0,0,0,,Elime çok iyi oturdu.
+Dialogue: 0,0:02:35.63,0:02:39.01,Main,Orhun,0,0,0,,Sanki sadece benim için yapılmış gibi.
+Dialogue: 0,0:02:39.26,0:02:43.39,Main,Wil,0,0,0,,Yaşlı Aran onu yaparken varını yoğunu ortaya koydu.
+Dialogue: 0,0:02:43.74,0:02:47.88,Main,Orhun,0,0,0,,Neden Gece Gökyüzü Gümüş Tavşanı'nın\Nen iyi demircisi olduğu belli oluyor.
+Dialogue: 0,0:02:47.88,0:02:50.64,Main,Wil,0,0,0,,Kullandığı materyaller iyiydi o kadar.
+Dialogue: 0,0:02:50.93,0:02:54.84,Main,Wil,0,0,0,,Siyah Ejder tüyünden yapılmıştı sonuçta.
+Dialogue: 0,0:02:54.84,0:02:59.15,Main,Rain,0,0,0,,Yendiğimiz Saklanan Kaplumbağa'nın kanını da kullanmış diye duydum.
+Dialogue: 0,0:02:59.52,0:03:02.44,Main,Rain,0,0,0,,Ama bu sağlamlığı azaltır, neden öyleyse?
+Dialogue: 0,0:03:03.02,0:03:04.79,Main,Orhun,0,0,0,,Var aklımda bir şeyler.
+Dialogue: 0,0:03:05.69,0:03:09.40,Main,Orhun,0,0,0,,Sağlamlığını destek büyümle güçlendirebilirim, sorun yok yani.
+Dialogue: 0,0:03:09.40,0:03:11.23,Main,Lucre,0,0,0,,Ona isim buldun mu peki?
+Dialogue: 0,0:03:11.90,0:03:12.65,Main,Orhun,0,0,0,,Evet.
+Dialogue: 0,0:03:14.44,0:03:16.15,Main,Orhun,0,0,0,,"Schwarzhase."
+Dialogue: 0,0:03:16.85,0:03:19.36,Main,Rain,0,0,0,,Yaygın bir kelime değil bu.
+Dialogue: 0,0:03:19.36,0:03:21.61,Main,Orhun,0,0,0,,Anlamı 'Siyah Tavşan'.
+Dialogue: 0,0:03:21.61,0:03:24.48,Main,Orhun,0,0,0,,Sonuçta Gece Gökyüzü Tavşanları'nda doğan siyah bir kılıçtı.
+Dialogue: 0,0:03:24.48,0:03:28.31,Main,Wil,0,0,0,,Tavşan mı? Siyah Ejder tüyünden yapıldı bu,
+Dialogue: 0,0:03:28.31,0:03:31.14,Main,Wil,0,0,0,,'Siyah Ejderha' demek daha havalı olmaz mıydı?
+Dialogue: 0,0:03:32.78,0:03:36.95,Main,Orhun,0,0,0,,Benim Tavşanlar'a katılmamı da kutlamak için aslında.
+Dialogue: 0,0:03:37.61,0:03:42.78,Main,Orhun,0,0,0,,Ayrıca Birim 1'in nihai amacı Büyük Zindan'ı temizlemek değil mi?
+Dialogue: 0,0:03:43.36,0:03:45.70,Main,Orhun,0,0,0,,Siyah Ejder yolun bir adımıydı sadece.
+Dialogue: 0,0:03:45.70,0:03:48.39,Main,Lucre,0,0,0,,Tüm bunları söylediğini duymak beni mutlu etti
+Dialogue: 0,0:03:49.07,0:03:52.71,Main,Selma,0,0,0,,Orhun'un artık bir kılıcı var, ve biz de hazırlıklıyız.
+Dialogue: 0,0:03:53.44,0:03:56.84,Main,Selma,0,0,0,,Kat 92'ye girmenin vakti geldi.
+Dialogue: 0,0:03:58.00,0:04:00.87,Main,Selma,0,0,0,,Bu sefer...\NSiyah Ejder'i yerle bir edeceğiz.
+Dialogue: 0,0:04:05.52,0:04:07.81,Main,Wil,0,0,0,,Günün sonunda bir şeyler içmeye ne dediniz?
+Dialogue: 0,0:04:07.81,0:04:10.60,Main,Lucre,0,0,0,,Duş almak istiyorum!
+Dialogue: 0,0:04:11.29,0:04:13.34,Main,Selma,0,0,0,,Orhun, konuşabilir miyiz?
+Dialogue: 0,0:04:14.08,0:04:15.45,Main,Orhun,0,0,0,,Bir sorun mu vardı?
+Dialogue: 0,0:04:15.45,0:04:20.11,Main,Selma,0,0,0,,Yarın için Kat 92 planlarını konuşmak istiyordum.
+Dialogue: 0,0:04:20.39,0:04:22.48,Main,Orhun,0,0,0,,Ah, kusura bakma ya.
+Dialogue: 0,0:04:22.48,0:04:25.36,Main,Orhun,0,0,0,,Yarına yeni çaylakları zindana götürme sözü verdim.
+Dialogue: 0,0:04:25.67,0:04:28.19,Main,Selma,0,0,0,,Yarın oraya bir daha mı gideceksin?
+Dialogue: 0,0:04:28.19,0:04:30.37,Main,Selma,0,0,0,,Biraz dinlensen olmaz mı?
+Dialogue: 0,0:04:30.71,0:04:34.69,Main,Orhun,0,0,0,,Sorun yok. Savaşmaya değil refakatçi olarak gideceğim sadece.
+Dialogue: 0,0:04:34.69,0:04:37.13,Main,Selma,0,0,0,,Ama yine de...
+Dialogue: 0,0:04:38.13,0:04:40.86,Main,Orhun,0,0,0,,Hepsi kendini çok geliştirdi.
+Dialogue: 0,0:04:41.85,0:04:44.00,Main,Orhun,0,0,0,,Bir dahakine Kat 29'a gidecekler,
+Dialogue: 0,0:04:44.00,0:04:46.80,Main,Orhun,0,0,0,,ve dürüst olmak gerekirse bensiz bile hallederler diye düşünüyorum.
+Dialogue: 0,0:04:46.80,0:04:49.09,Main,Selma,0,0,0,,Şimdiden bu kadar inmişler mi?
+Dialogue: 0,0:04:50.54,0:04:54.44,Main,Selma,0,0,0,,Üst katlardaki yolculukları bitmeye yaklaştı ha?
+Dialogue: 0,0:04:54.81,0:04:55.62,Main,Orhun,0,0,0,,Evet.
+Dialogue: 0,0:04:56.20,0:04:58.29,Main,Orhun,0,0,0,,Eğer Kat 30'u temizleyebilirlerse,
+Dialogue: 0,0:04:58.29,0:05:00.19,Main,Orhun,0,0,0,,Tam teşekküllü maceracılar olacaklar.
+Dialogue: 0,0:05:01.28,0:05:02.46,Main,Selma,0,0,0,,Anlıyorum...
+Dialogue: 0,0:05:03.24,0:05:04.98,Main,Selma,0,0,0,,Sophia büyüyor yani?
+Dialogue: 0,0:05:13.34,0:05:14.71,Main,Orhun,0,0,0,,Söylenti mi?
+Dialogue: 0,0:05:15.12,0:05:18.46,Main,Orhun,0,0,0,,Eğer sen bile endişelendiysen,\N bayağı kötü bir şey olmalı.
+Dialogue: 0,0:05:19.02,0:05:20.96,Main,Gramps,0,0,0,,Amunthoth.
+Dialogue: 0,0:05:22.12,0:05:25.08,Main,Gramps,0,0,0,,Bu maceracı katilleri görünüşe göre
+Dialogue: 0,0:05:25.08,0:05:29.35,Main,Gramps,0,0,0,,Güney Büyük Zindan'da görülmeye başladılar.
+Dialogue: 0,0:05:30.43,0:05:33.76,Italics,Orhun,0,0,0,,Amunthoth iki büyük suç örgütlerinden bir tanesi,
+Dialogue: 0,0:05:33.76,0:05:35.81,Italics,Orhun,0,0,0,,Cyclamen Kilisesi ile birlikte.
+Dialogue: 0,0:05:36.50,0:05:39.75,Italics,Orhun,0,0,0,,Büyük Zindanlar'ın temizlenmemesi fikrini savunuyorlar.
+Dialogue: 0,0:05:39.75,0:05:42.28,Italics,Orhun,0,0,0,,Çok fazla maceracıyı katlettiler.
+Dialogue: 0,0:05:43.27,0:05:45.69,Main,Orhun,0,0,0,,Ama bu sadece söylenti sayılmaz mı?
+Dialogue: 0,0:05:46.19,0:05:48.39,Main,Orhun,0,0,0,,Lonca henüz bir duyuru yapmadı.
+Dialogue: 0,0:05:50.31,0:05:54.47,Main,Gramps,0,0,0,,Korkarım ki bazı yüksek seviyeli maceracılar
+Dialogue: 0,0:05:54.47,0:05:56.96,Main,Gramps,0,0,0,,çoktan öldürüldü.
+Dialogue: 0,0:05:57.45,0:06:02.03,Main,Orhun,0,0,0,,Panik ortamını engellemek için bunu bir sır olarak tutuyor olma ihtimalleri var.
+Dialogue: 0,0:06:02.87,0:06:04.80,Main,Orhun,0,0,0,,Lanet olası Amunthoth...
+Dialogue: 0,0:06:04.80,0:06:07.51,Main,Orhun,0,0,0,,Büyük Zindanlar'ı temizlesek ne olur sanki?
+Dialogue: 0,0:06:07.51,0:06:08.68,Main,Gramps,0,0,0,,Hiçbir fikrim yok.
+Dialogue: 0,0:06:10.72,0:06:15.93,Main,Orhun,0,0,0,,Bir grup katilin bize iyi bir sebep sunabileceğini de sanmıyorum zaten.
+Dialogue: 0,0:06:16.85,0:06:18.19,Main,Orhun,0,0,0,,Bu arada, Gramps.
+Dialogue: 0,0:06:19.14,0:06:21.35,Main,Orhun,0,0,0,,Senden benim için bir şey yapmanı istiyorum.
+Dialogue: 0,0:06:24.02,0:06:25.38,Main,Rain,0,0,0,,Albert...
+Dialogue: 0,0:06:26.80,0:06:30.65,Main,Rain,0,0,0,,Üç gün içerisinde, Siyah Ejder ile savaşacağız.
+Dialogue: 0,0:06:32.02,0:06:36.76,Main,Rain,0,0,0,,Eğer bizi cennetten izlersen gerçekten çok sevinirim.
+Dialogue: 0,0:06:39.50,0:06:42.41,Main,Aran,0,0,0,,Al bakalım, iyice temizlendi ve kullanıma hazır.
+Dialogue: 0,0:06:42.41,0:06:44.50,Main,Wil,0,0,0,,Sağol moruk.
+Dialogue: 0,0:06:45.60,0:06:48.76,Main,Wil,0,0,0,,Artık Siyah Ejder ile savaşırken endişe etmem gereken bir şey kalmadı.
+Dialogue: 0,0:06:50.00,0:06:52.01,Main,Aran,0,0,0,,Güçlendin, Wil.
+Dialogue: 0,0:06:52.53,0:06:54.25,Main,Wil,0,0,0,,Bu da nereden çıktı şimdi?
+Dialogue: 0,0:06:54.25,0:06:58.02,Main,Aran,0,0,0,,Eski sen olsa çoktan kaçıp gitmişti.
+Dialogue: 0,0:06:59.40,0:07:03.43,Main,Wil,0,0,0,,Kendimi utandırdım ve Albert'in ölümüne müsebbebim.
+Dialogue: 0,0:07:04.12,0:07:06.96,Main,Wil,0,0,0,,Orada ölmesi gereken bendim.
+Dialogue: 0,0:07:06.96,0:07:09.72,Main,Wil,0,0,0,,Ama halen hayattayım.
+Dialogue: 0,0:07:10.90,0:07:13.59,Main,Wil,0,0,0,,Yani bunu yapmam gerek, değil mi?
+Dialogue: 0,0:07:15.56,0:07:19.99,Italics,Lucre,0,0,0,,Geçen bu yılda, herkesten daha çok çalıştık.
+Dialogue: 0,0:07:20.84,0:07:24.47,Italics,Lucre,0,0,0,,Ama halen yeterli mi bilemiyorum.
+Dialogue: 0,0:07:27.12,0:07:31.56,Main,Lucre,0,0,0,,Eğer Albert beni böyle korkmuş bir şekilde görse kesin halime gülerdi.
+Dialogue: 0,0:07:32.72,0:07:35.20,Main,Lucre,0,0,0,,Bu sefer kimseyi kaybetmeyeceğim.
+Dialogue: 0,0:07:35.20,0:07:37.31,Main,Lucre,0,0,0,,Bir daha asla öyle bir şey yaşamak istemiyorum.
+Dialogue: 0,0:07:38.16,0:07:40.06,Main,Lucre,0,0,0,,Başka kimsenin ölmesine izin vermeyeceğim.
+Dialogue: 0,0:07:45.92,0:07:47.11,Main,Sophia,0,0,0,,Abla...
+Dialogue: 0,0:07:50.21,0:07:53.62,Main,Sophia,0,0,0,,Sonunda Kat 92'ye gidiyorsunuz, bu doğru mu?
+Dialogue: 0,0:07:54.19,0:07:56.30,Main,Selma,0,0,0,,Evet, sonunda.
+Dialogue: 0,0:07:57.20,0:07:59.08,Main,Sophia,0,0,0,,Gergin misin?
+Dialogue: 0,0:07:59.71,0:08:03.12,Main,Selma,0,0,0,,Koca bir yıl geçti, intikam vakti geldi çattı.
+Dialogue: 0,0:08:04.18,0:08:08.09,Main,Selma,0,0,0,,Daha şimdi Siyah Ejder'i nasıl\N alt edeceğimi düşünüyordum.
+Dialogue: 0,0:08:09.44,0:08:12.92,Main,Sophia,0,0,0,,Eğer korkuyorsan söyleyebilirsin.
+Dialogue: 0,0:08:14.16,0:08:16.85,Main,Sophia,0,0,0,,Doğruyu söylemek gerekirse,\Nben senin gitmeni istemiyorum.
+Dialogue: 0,0:08:16.85,0:08:19.29,Main,Sophia,0,0,0,,Siyah Ejder'i geçen sefer yense bile,
+Dialogue: 0,0:08:19.29,0:08:21.59,Main,Sophia,0,0,0,,her şey bittiğinde Orhun darmadağın haldeydi.
+Dialogue: 0,0:08:22.26,0:08:25.60,Main,Sophia,0,0,0,,Bu defa hayatta kalacağınızın garantisi yok.
+Dialogue: 0,0:08:27.71,0:08:29.98,Main,Sophia,0,0,0,,Sonsuza dek yanımda ol istiyorum.
+Dialogue: 0,0:08:30.40,0:08:32.11,Main,Selma,0,0,0,,Sophia, ben...
+Dialogue: 0,0:08:32.11,0:08:33.61,Main,Sophia,0,0,0,,Her neyse...
+Dialogue: 0,0:08:34.43,0:08:36.38,Main,Sophia,0,0,0,,zaten gideceksin de' mi?
+Dialogue: 0,0:08:37.12,0:08:40.10,Main,Sophia,0,0,0,,Yapabileceğim bir şey varsa...
+Dialogue: 0,0:08:46.26,0:08:49.91,Main,Sophia,0,0,0,,Son zamanlarda Orhun bana\N partinin sorumluluğunu veriyor.
+Dialogue: 0,0:08:49.91,0:08:53.60,Main,Sophia,0,0,0,,Ufaktan ufaktan,\N daha cesur hissetmeye başladım.
+Dialogue: 0,0:08:54.20,0:08:55.26,Main,Sophia,0,0,0,,Yani...
+Dialogue: 0,0:08:55.76,0:08:59.90,Main,Sophia,0,0,0,,Çok fazla yok ama cesaretimi seninle paylaşacağım.
+Dialogue: 0,0:09:05.27,0:09:06.46,Main,Selma,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:09:07.29,0:09:11.31,Main,Sophia,0,0,0,,Siyah Ejder'i yeneceğinizi biliyorum.
+Dialogue: 0,0:09:11.31,0:09:12.78,Main,Sophia,0,0,0,,Bol şans size!
+Dialogue: 0,0:09:13.91,0:09:17.13,Italics,Selma,0,0,0,,Güçlendin, Sophia.
+Dialogue: 0,0:09:18.95,0:09:22.59,Italics,Selma,0,0,0,,Sanırsam sonsuza dek korkmuş halde kalamam.
+Dialogue: 0,0:09:25.38,0:09:28.42,Main,Selma,0,0,0,,Senin sayende, artık daha cesur hissediyorum.
+Dialogue: 0,0:09:28.90,0:09:32.24,Main,Selma,0,0,0,,Siyah Ejder'i yeneceğim, sana söz veriyorum.
+Dialogue: 0,0:09:32.24,0:09:33.04,Main,Sophia,0,0,0,,Tamam!
+Dialogue: 0,0:09:44.58,0:09:45.87,Main,Sophia,0,0,0,,Başardık!
+Dialogue: 0,0:09:45.87,0:09:48.77,Main,Caroline,0,0,0,,Kat 29'u temizledik!
+Dialogue: 0,0:09:48.77,0:09:49.98,Main,Orhun,0,0,0,,Aferin size.
+Dialogue: 0,0:09:51.12,0:09:52.72,Main,Logan,0,0,0,,Teşekkür ederiz!
+Dialogue: 0,0:09:52.72,0:09:54.34,Main,Logan,0,0,0,,Hepsi senin sayende hocam.
+Dialogue: 0,0:09:54.34,0:09:56.70,Main,Caroline,0,0,0,,Kat 30'u geçtiğimiz zaman,
+Dialogue: 0,0:09:57.04,0:09:59.51,Main,Logan,0,0,0,,en sonunda orta katlara ulaşmış olacağız!
+Dialogue: 0,0:09:59.51,0:10:03.61,Main,Caroline,0,0,0,,Ondan sonra da Birim 3'e katılabileceğiz!
+Dialogue: 0,0:10:03.61,0:10:04.70,Main,Orhun,0,0,0,,Evet.
+Dialogue: 0,0:10:05.08,0:10:09.20,Main,Orhun,0,0,0,,Sonunda maceracılar olarak gerçek birer kariyerleriniz olacak.
+Dialogue: 0,0:10:09.91,0:10:12.21,Main,Orhun,0,0,0,,Artık yeni çaylaklar olmaktan çıkacaksınız.
+Dialogue: 0,0:10:12.21,0:10:13.18,Main,Logan,0,0,0,,Elimizden geleni yapacağız!
+Dialogue: 0,0:10:13.18,0:10:14.26,Main,Caroline,0,0,0,,Sabırsızlanıyorum!
+Dialogue: 0,0:10:14.26,0:10:15.07,Italics,Sophia,0,0,0,,Ha?
+Dialogue: 0,0:10:15.07,0:10:16.97,Italics,Sophia,0,0,0,,Eğer bu olursa...
+Dialogue: 0,0:10:16.97,0:10:21.38,Italics,Sophia,0,0,0,,Bu Orhun'un beni bir daha eğitmeyeceği anlamına mı geliyor?
+Dialogue: 0,0:10:21.94,0:10:23.80,Italics,Sophia,0,0,0,,Bunu istemiyorum...
+Dialogue: 0,0:10:23.80,0:10:25.10,Main,Orhun,0,0,0,,Sorun nedir, Sophie?
+Dialogue: 0,0:10:26.16,0:10:28.22,Main,Sophia,0,0,0,,Ben de elimden geleni yapacağım...
+Dialogue: 0,0:10:30.27,0:10:31.86,Main,Estella,0,0,0,,Tamam, bu gayet iyi duruyor!
+Dialogue: 0,0:10:32.22,0:10:35.86,Main,Estella,0,0,0,,Kat 30'a girmek için başvurunuzu aldım.
+Dialogue: 0,0:10:36.40,0:10:42.07,Main,Estella,0,0,0,,Birim 2'den bir kişiyi gözlemci olarak yanınızda bulunduracaksınız.
+Dialogue: 0,0:10:42.07,0:10:43.83,Main,Logan,0,0,0,,Bir gözlemci mi?
+Dialogue: 0,0:10:43.83,0:10:47.83,Main,Estella,0,0,0,,Onun görevi zindanı gerçekten\Nsiz mi temizlediniz teyit etmek.
+Dialogue: 0,0:10:48.47,0:10:50.48,Main,Estella,0,0,0,,Eğer yeterince güçlenmeden derinlere giderseniz,
+Dialogue: 0,0:10:50.48,0:10:52.15,Main,Estella,0,0,0,,bu çok zor olmaz mı sizce de?
+Dialogue: 0,0:10:52.15,0:10:56.21,Main,Estella,0,0,0,,Büyük Zindan'daki kayıpları azaltmak için bir önlem işte.
+Dialogue: 0,0:10:56.21,0:10:59.84,Main,Caroline,0,0,0,,Hocamız zaten yanımızda, neden birisine daha ihtiyacımız var ki?
+Dialogue: 0,0:11:00.60,0:11:03.91,Main,Estella,0,0,0,,Sizi iki gün sonraki programa ekleyeceğim.
+Dialogue: 0,0:11:03.91,0:11:05.10,Main,Estella,0,0,0,,İyi şanslar.
+Dialogue: 0,0:11:05.36,0:11:06.25,Main,Logan,0,0,0,,Tamamdır!
+Dialogue: 0,0:11:07.67,0:11:08.98,Main,Logan,0,0,0,,İki gün sonra mı?
+Dialogue: 0,0:11:09.74,0:11:11.85,Main,Sophia,0,0,0,,Bu ablam ve onun...
+Dialogue: 0,0:11:12.41,0:11:13.67,Main,Orhun,0,0,0,,Evet.
+Dialogue: 0,0:11:13.67,0:11:15.86,Main,Orhun,0,0,0,,Kat 92'ye gideceğimiz gün.
+Dialogue: 0,0:11:17.87,0:11:20.11,Main,Logan,0,0,0,,Başka bir gün olamaz mı?
+Dialogue: 0,0:11:20.40,0:11:22.19,Main,Estella,0,0,0,,Hmm...
+Dialogue: 0,0:11:22.19,0:11:24.66,Main,Estella,0,0,0,,Gözlemcinin de kendi programı var.
+Dialogue: 0,0:11:24.66,0:11:26.79,Main,Estella,0,0,0,,Bir süre daha olamayacak.
+Dialogue: 0,0:11:26.79,0:11:28.74,Main,Caroline,0,0,0,,Of...
+Dialogue: 0,0:11:28.74,0:11:30.04,Main,Logan,0,0,0,,Ne yapalım?
+Dialogue: 0,0:11:32.17,0:11:37.33,Main,Orhun,0,0,0,,Sanırım Selma'nın Kat 92'inci kata girişi ertelemesi gerekecek.
+Dialogue: 0,0:11:37.33,0:11:38.67,Main,Selma,0,0,0,,Olmaz!
+Dialogue: 0,0:11:38.67,0:11:41.74,Main,Selma,0,0,0,,Hayalleri gerçek olmak üzere!
+Dialogue: 0,0:11:41.74,0:11:43.93,Main,Selma,0,0,0,,Bu gün için çok beklediler zaten!
+Dialogue: 0,0:11:43.93,0:11:45.93,Main,Selma,0,0,0,,Yani bunu erteleyemezsin!
+Dialogue: 0,0:11:45.93,0:11:47.15,Main,Orhun,0,0,0,,Doğru, ama...
+Dialogue: 0,0:11:47.15,0:11:48.08,Main,Logan,0,0,0,,Hocam...
+Dialogue: 0,0:11:49.01,0:11:52.14,Main,Logan,0,0,0,,Lütfen bu sefer üçümüzün yalnız gitmesine izin ver.
+Dialogue: 0,0:11:52.93,0:11:57.22,Main,Caroline,0,0,0,,Kat 30'u kendi başımıza temizleyelim.
+Dialogue: 0,0:11:57.22,0:11:57.98,Main,Caroline,0,0,0,,Olur mu?
+Dialogue: 0,0:11:57.98,0:12:00.50,Main,Caroline,0,0,0,,Bu sence de iyi bir fikir, değil mi Sophie?
+Dialogue: 0,0:12:02.56,0:12:04.16,Main,Orhun,0,0,0,,Ama...
+Dialogue: 0,0:12:04.16,0:12:08.74,Main,Sophia,0,0,0,,Öğretim gezisinde kat bossunu nasıl yeneceğimizi göstermiştiniz.
+Dialogue: 0,0:12:08.74,0:12:11.41,Main,Sophia,0,0,0,,Bence bunu yapabiliriz.
+Dialogue: 0,0:12:11.69,0:12:16.78,Main,Logan,0,0,0,,Eğer her maceramızda yanımızda siz olacaksanız,
+Dialogue: 0,0:12:16.78,0:12:20.00,Main,Logan,0,0,0,,bence biz zindanları pek de kendimiz temizlemiyoruz.
+Dialogue: 0,0:12:20.00,0:12:23.40,Main,Caroline,0,0,0,,Artık pervasız olmayacağım.
+Dialogue: 0,0:12:23.40,0:12:27.12,Main,Caroline,0,0,0,,Gülümsemelerini ellerinden \Nalacak bir şey yapmayacağım.
+Dialogue: 0,0:12:27.12,0:12:28.93,Main,Caroline,0,0,0,,Yani lütfen...
+Dialogue: 0,0:12:28.93,0:12:30.53,Main,Sophia,0,0,0,,Ben de...
+Dialogue: 0,0:12:30.53,0:12:34.78,Main,Sophia,0,0,0,,Sana sonsuza dek bel bağlayamam.
+Dialogue: 0,0:12:34.78,0:12:38.20,Main,Sophia,0,0,0,,En kısa zamanda tam \Nteşekküllü bir maceracı olmam gerek.
+Dialogue: 0,0:12:38.20,0:12:40.69,Main,Sophia,0,0,0,,Anlıyacağın... Bu işi bize bırak!
+Dialogue: 0,0:12:40.69,0:12:42.40,Main,All,0,0,0,,Lütfen!
+Dialogue: 0,0:12:47.08,0:12:48.39,Main,Orhun,0,0,0,,İyi tamam.
+Dialogue: 0,0:12:48.39,0:12:49.83,Main,Orhun,0,0,0,,Kendiniz gidin o zaman.
+Dialogue: 0,0:12:50.56,0:12:51.74,Main,All,0,0,0,,Hayya!
+Dialogue: 0,0:12:51.74,0:12:52.79,Main,Orhun,0,0,0,,Ama...
+Dialogue: 0,0:12:54.32,0:12:57.97,Main,Orhun,0,0,0,,Önce bana katı temizleme planınızı gösterin.
+Dialogue: 0,0:13:02.61,0:13:04.17,Main,Sophia,0,0,0,,Ne düşünüyorsun?
+Dialogue: 0,0:13:09.65,0:13:10.36,Main,Orhun,0,0,0,,Evet.
+Dialogue: 0,0:13:11.17,0:13:13.18,Main,Orhun,0,0,0,,Eğer planınız buysa, sorun yok.
+Dialogue: 0,0:13:13.18,0:13:14.68,Main,All,0,0,0,,Evet!
+Dialogue: 0,0:13:17.12,0:13:21.84,Main,Orhun,0,0,0,,Ama her şeyin plana uygun gideceğini sanmayın.
+Dialogue: 0,0:13:21.84,0:13:24.95,Main,Orhun,0,0,0,,Beklenmedik şeyler her zaman olur.
+Dialogue: 0,0:13:25.62,0:13:27.57,Main,Orhun,0,0,0,,Asla gardınızı indirmeyin.
+Dialogue: 0,0:13:27.57,0:13:28.82,Main,Logan,0,0,0,,Bu nedir?
+Dialogue: 0,0:13:29.24,0:13:30.35,Main,Orhun,0,0,0,,Bir iyi şans tılsımı.
+Dialogue: 0,0:13:31.84,0:13:33.95,Main,Caroline,0,0,0,,Üstümde güzel durdu mu?
+Dialogue: 0,0:13:34.55,0:13:37.73,Main,Orhun,0,0,0,,Sağ salim geri dönmeniz için dua edeceğim.
+Dialogue: 0,0:14:10.79,0:14:12.30,Main,Orhun,0,0,0,,Artık zamanı geldi.
+Dialogue: 0,0:14:12.30,0:14:13.40,Main,Selma,0,0,0,,Evet.
+Dialogue: 0,0:14:13.40,0:14:15.58,Main,Selma,0,0,0,,Tüm bunları bitirmek için iyi bir gün bu.
+Dialogue: 0,0:14:15.58,0:14:17.50,Main,Caroline,0,0,0,,Hocam!
+Dialogue: 0,0:14:24.78,0:14:26.95,Main,Selma,0,0,0,,Hadi, gidelim!
+Dialogue: 0,0:14:35.25,0:14:37.52,Main,Logan,0,0,0,,İleride ayak sesleri duyuyorum.
+Dialogue: 0,0:14:37.97,0:14:39.52,Main,Sophia,0,0,0,,Türünü söyleyebilir misin?
+Dialogue: 0,0:14:41.01,0:14:44.52,Main,Logan,0,0,0,,Hayır, ancak üç çift var.
+Dialogue: 0,0:14:44.52,0:14:49.20,Main,Sophia,0,0,0,,Carol, sen onları oyala.\N Log ve ben onlara büyüyle vuracağız.
+Dialogue: 0,0:14:49.20,0:14:50.28,Main,Caroline/Logan,0,0,0,,Anlaşıldı! Tamam!
+Dialogue: 0,0:14:55.04,0:14:57.39,Main,Logan,0,0,0,,Üzgünüm, sayıyı yanlış hesapladım.
+Dialogue: 0,0:14:57.39,0:14:58.20,Main,Sophia,0,0,0,,Sorun yok.
+Dialogue: 0,0:14:58.20,0:14:59.54,Main,Sophia,0,0,0,,Plana sadık kal!
+Dialogue: 0,0:15:05.84,0:15:07.09,Main,Logan,0,0,0,,Kaya İğnesi!
+Dialogue: 0,0:15:11.15,0:15:12.80,Main,Sophia,0,0,0,,Hava Kesicisi!
+Dialogue: 0,0:15:19.90,0:15:22.65,Main,Observer,0,0,0,,Siz cidden çaylak mısınız?
+Dialogue: 0,0:15:25.66,0:15:27.70,Main,All,0,0,0,,İyi bir hocamız var!
+Dialogue: 0,0:15:29.92,0:15:32.66,Main,Selma,0,0,0,,Hepiniz hazır mısınız?
+Dialogue: 0,0:15:51.71,0:15:52.55,Main,Selma,0,0,0,,İşte geliyor!
+Dialogue: 0,0:15:55.92,0:15:58.56,Main,Wil,0,0,0,,Uzun zaman oldu lan, Siyah Ejder!
+Dialogue: 0,0:15:58.56,0:16:00.43,Main,Rain,0,0,0,,Bu günü bekliyorduk!
+Dialogue: 0,0:16:00.43,0:16:02.19,Main,Lucre,0,0,0,,Albert'in intikamını alma vaktidir!
+Dialogue: 0,0:16:02.72,0:16:03.94,Main,Selma,0,0,0,,Ön kalkan aktif.
+Dialogue: 0,0:16:05.57,0:16:06.91,Main,Selma,0,0,0,,Artıçı kalkan aktif.
+Dialogue: 0,0:16:07.84,0:16:08.73,Italics,Orhun,0,0,0,,Durum güncel
+Dialogue: 0,0:16:10.19,0:16:11.72,Italics,Orhun,0,0,0,,Dörtlü!
+Dialogue: 0,0:16:14.70,0:16:16.20,Main,Selma,0,0,0,,Hadi gidelim, millet.
+Dialogue: 0,0:16:16.74,0:16:18.20,Main,All,0,0,0,,Evet!
+Dialogue: 0,0:16:25.53,0:16:27.67,Main,Caroline,0,0,0,,Boss'a geldik demek.
+Dialogue: 0,0:16:30.50,0:16:32.67,Main,Selma,0,0,0,,Başka bir parti mi?
+Dialogue: 0,0:16:33.00,0:16:34.42,Main,Selma,0,0,0,,Ne yapacağız?
+Dialogue: 0,0:16:34.42,0:16:36.51,Main,Logan,0,0,0,,Eğer sadece katı temizlemeye geldilerse,
+Dialogue: 0,0:16:36.51,0:16:39.01,Main,Logan,0,0,0,,onlara kat bossu ile savaşmayı \Nbizim istediğimizi söyleyelim.
+Dialogue: 0,0:16:42.38,0:16:43.52,Main,Logan,0,0,0,,Merhabalar.
+Dialogue: 0,0:16:45.48,0:16:46.54,Main,Zuriel,0,0,0,,Nasıl yardımcı olabilirim?
+Dialogue: 0,0:16:47.56,0:16:50.57,Main,Logan,0,0,0,,Gece Gökyüzü Gümüş Tavşanlarındanız
+Dialogue: 0,0:16:50.97,0:16:53.11,Main,Guiba,0,0,0,,Gece Gökyüzü Gümüş Tavşanları?
+Dialogue: 0,0:16:53.57,0:16:56.46,Main,Guiba,0,0,0,,O ismi bir yerde duymuştum, neresiydi ya?
+Dialogue: 0,0:16:56.46,0:16:58.06,Main,Agnes,0,0,0,,Mal mısın sen?
+Dialogue: 0,0:16:58.06,0:17:00.34,Main,Agnes,0,0,0,,Beynin de kastan yapılmadı değil mi?
+Dialogue: 0,0:17:00.34,0:17:01.33,Main,Guiba,0,0,0,,Ne?
+Dialogue: 0,0:17:01.67,0:17:05.83,Main,Agnes,0,0,0,,Gümüş Tavşanlar Ejderkesen'in olduğu takım.
+Dialogue: 0,0:17:07.08,0:17:09.59,Main,Guiba,0,0,0,,Oh, doğru.
+Dialogue: 0,0:17:09.93,0:17:13.06,Main,Guiba,0,0,0,,Siz Ejderkesen'i biliyor musunuz?
+Dialogue: 0,0:17:16.43,0:17:17.50,Main,Observer,0,0,0,,Sorun nedir?
+Dialogue: 0,0:17:18.22,0:17:20.58,Main,Zuriel,0,0,0,,Sessizliğinizi 'evet' olarak kabul edeceğiz.
+Dialogue: 0,0:17:20.58,0:17:21.71,Main,Sion,0,0,0,,Zuriel.
+Dialogue: 0,0:17:22.68,0:17:24.23,Main,Sion,0,0,0,,Doğrula.
+Dialogue: 0,0:17:24.66,0:17:26.51,Main,Zuriel,0,0,0,,Tam istediğiz gibi.
+Dialogue: 0,0:17:31.84,0:17:33.18,Main,Zuriel,0,0,0,,Bingo.
+Dialogue: 0,0:17:33.18,0:17:36.16,Main,Zuriel,0,0,0,,Bu çocuklar Ejderkesen'i biliyorlar.
+Dialogue: 0,0:17:36.16,0:17:40.32,Main,Zuriel,0,0,0,,İşin aslı, onların hocası oluyor.
+Dialogue: 0,0:17:41.04,0:17:44.89,Main,Zuriel,0,0,0,,Onu kışkırtmak için bunları yem olarak kullanabiliriz.
+Dialogue: 0,0:17:46.25,0:17:48.12,Main,Orhun,0,0,0,,Kuyruk saldırısı geliyor!
+Dialogue: 0,0:17:54.91,0:17:57.63,Main,Wil,0,0,0,,Ödeşme vakti, Siyah Ejder!
+Dialogue: 0,0:18:02.64,0:18:03.64,Main,Wil,0,0,0,,Orhun!
+Dialogue: 0,0:18:03.64,0:18:05.39,Main,Orhun,0,0,0,,Darbe!
+Dialogue: 0,0:18:11.44,0:18:17.15,Italics,Selma,0,0,0,,Bütün bu yılı Siyah Ejder ile olan savaşımızın provalarıyla geçirdik.
+Dialogue: 0,0:18:17.73,0:18:19.84,Italics,Wil,0,0,0,,Berbat geçmişimizle yüzleştik...
+Dialogue: 0,0:18:19.84,0:18:23.54,Italics,Wil,0,0,0,,Neleri yanlış yaptığımızı anladık.
+Dialogue: 0,0:18:23.97,0:18:28.79,Italics,Rain,0,0,0,,Orhun geldiğinden beri de pek çok planlama toplantısı yaptık.
+Dialogue: 0,0:18:29.39,0:18:33.55,Italics,Lucre,0,0,0,,Ejderin yapabileceği her \Nşeyi hesaplayıp, bir plan yaptık.
+Dialogue: 0,0:18:34.46,0:18:37.79,Italics,Selma,0,0,0,,Gardımızı asla indirmeyeceğiz.
+Dialogue: 0,0:18:38.17,0:18:40.62,Main,Guiba,0,0,0,,Şanslıyız.
+Dialogue: 0,0:18:40.62,0:18:42.68,Main,Guiba,0,0,0,,Bu uzun sürmeyecek.
+Dialogue: 0,0:18:44.93,0:18:47.31,Main,Observer,0,0,0,,Kimsin sen?
+Dialogue: 0,0:18:54.74,0:18:57.28,Main,Logan,0,0,0,,K-Koşun!
+Dialogue: 0,0:18:58.82,0:19:00.57,Main,Guiba,0,0,0,,Hiçbir yere gitmiyorsunuz.
+Dialogue: 0,0:19:04.48,0:19:06.83,Main,Sophia,0,0,0,,Bunu neden yapıyorsunuz?
+Dialogue: 0,0:19:07.12,0:19:11.45,Main,Zuriel,0,0,0,,Ejderkesen'le arkadaş olacak kadar şanssızmışsınız.
+Dialogue: 0,0:19:11.45,0:19:14.53,Main,Guiba,0,0,0,,Onları kendim halledebilirim.
+Dialogue: 0,0:19:15.34,0:19:16.94,Main,Agnes,0,0,0,,Eh, sorun yok.
+Dialogue: 0,0:19:16.94,0:19:21.59,Main,Agnes,0,0,0,,Eğlencemi Ejderkesen'i \Nöldürdükten sonrasına saklayacağım.
+Dialogue: 0,0:19:21.59,0:19:23.87,Main,Sophia,0,0,0,,Orhun'u öldürecekler mi?
+Dialogue: 0,0:19:23.87,0:19:26.85,Main,Logan,0,0,0,,Neden? Kimsiniz ulan siz?
+Dialogue: 0,0:19:27.28,0:19:29.85,Main,Zuriel,0,0,0,,Bunu bilmenize gerek yok.
+Dialogue: 0,0:19:29.85,0:19:31.60,Main,Caroline,0,0,0,,Siz ikiniz, duvarlardan kaçın!
+Dialogue: 0,0:19:31.60,0:19:33.35,Main,Caroline,0,0,0,,Ben zaman kazanacağım!
+Dialogue: 0,0:19:33.35,0:19:35.10,Main,Logan,0,0,0,,Hayır, Caroline!
+Dialogue: 0,0:19:36.01,0:19:40.18,Main,Caroline,0,0,0,,Onları korkuttuğunuza sizi pişman edeceğim!
+Dialogue: 0,0:19:45.44,0:19:49.87,Main,Guiba,0,0,0,,Darbeyi hafifletmek için son anda zıplamak akıllıcaydı.
+Dialogue: 0,0:19:50.33,0:19:53.25,Main,Guiba,0,0,0,,Ama artık daha fazla hareket edemezsin.
+Dialogue: 0,0:19:53.25,0:19:54.50,Main,Sophia,0,0,0,,Carol!
+Dialogue: 0,0:19:54.82,0:19:57.45,Main,Sion,0,0,0,,Bunu zorlaştırmayın.
+Dialogue: 0,0:19:57.45,0:19:59.51,Main,Sion,0,0,0,,Size zarar vermeyeceğiz.
+Dialogue: 0,0:19:59.90,0:20:01.26,Main,Logan,0,0,0,,Lanet girsin!
+Dialogue: 0,0:20:04.04,0:20:05.44,Italics,Sophia,0,0,0,,Orhun...
+Dialogue: 0,0:20:10.29,0:20:12.76,Italics,Selma,0,0,0,,Orhun, diğer kanatı kes!
+Dialogue: 0,0:20:12.76,0:20:13.27,Italics,Orhun,0,0,0,,Anlaşıldı!
+Dialogue: 0,0:20:18.96,0:20:20.24,Italics,Orhun,0,0,0,,Sorun ne, Orhun?
+Dialogue: 0,0:20:20.62,0:20:22.24,Main,Orhun,0,0,0,,Yeni çaylaklar tehlikedeler!
+Dialogue: 0,0:20:22.24,0:20:23.99,Main,Selma,0,0,0,,N-Ne?
+Dialogue: 0,0:20:24.26,0:20:26.97,Main,Orhun,0,0,0,,Bu bir tür uyarı cihazı!
+Dialogue: 0,0:20:26.97,0:20:30.75,Main,Orhun,0,0,0,,Onlar tehlikedeyken beni uyarmak için var!
+Dialogue: 0,0:20:30.75,0:20:33.50,Main,Selma,0,0,0,,Tehlike? \NTehlike derken neyi kastediyorsun?
+Dialogue: 0,0:20:33.95,0:20:35.39,Main,Orhun,0,0,0,,Bilmiyorum.
+Dialogue: 0,0:20:35.39,0:20:36.68,Main,Orhun,0,0,0,,Acele etmemiz gerek.
+Dialogue: 0,0:20:40.01,0:20:41.27,Main,Wil,0,0,0,,Ne yapıyorsun sen, Orhun?
+Dialogue: 0,0:20:41.27,0:20:43.26,Main,Wil,0,0,0,,Kanatı kes, tam sırası!
+Dialogue: 0,0:20:49.44,0:20:51.26,Italics,Orhun,0,0,0,,Oldukça yaralı,
+Dialogue: 0,0:20:51.26,0:20:53.26,Italics,Orhun,0,0,0,,ama onu yenmek zaman alacak.
+Dialogue: 0,0:20:54.09,0:20:55.38,Italics,Orhun,0,0,0,,Bu durumda...
+Dialogue: 0,0:20:56.27,0:20:58.66,Italics,Selma,0,0,0,,Hepimiz birden saldırabiliriz.
+Dialogue: 0,0:20:58.66,0:21:00.34,Italics,Selma,0,0,0,,Hayır, eğer acele edersek,
+Dialogue: 0,0:21:00.34,0:21:02.90,Italics,Selma,0,0,0,,beklemediğimiz bir şekilde hazırlıksız yakalanabiliriz.
+Dialogue: 0,0:21:03.25,0:21:07.86,Main,Selma,0,0,0,,Bu partideki herkesin canı sorumluluğum dahilinde.
+Dialogue: 0,0:21:07.86,0:21:12.41,Main,Selma,0,0,0,,Ne olursa olsun onları riske atamam!
+Dialogue: 0,0:21:12.91,0:21:14.66,Italics,Orhun,0,0,0,,Acele etmeliyim.
+Dialogue: 0,0:21:14.97,0:21:20.17,Italics,Orhun,0,0,0,,Ne olursa olsun yoldaşlarımı \Nkoruyacağıma yemin ettim.
+Dialogue: 0,0:21:29.08,0:21:30.35,Main,Orhun,0,0,0,,Nedir bu?
+Dialogue: 0,0:21:33.35,0:21:34.98,Main,Selma,0,0,0,,İyileşti mi?
+Dialogue: 0,0:21:35.63,0:21:37.98,Main,Orhun,0,0,0,,Bunu da mı yapabiliyor!?
+Dialogue: 0,0:21:37.98,0:21:39.42,Main,Rain,0,0,0,,Bu...
+Dialogue: 0,0:21:39.42,0:21:40.98,Main,Lucre,0,0,0,,Bu olamaz!
+Dialogue: 0,0:21:41.68,0:21:43.99,Main,Wil,0,0,0,,İlk kareye geri döndük.
+Dialogue: 0,0:21:49.31,0:21:50.91,Main,Orhun,0,0,0,,Bu neden şimdi olmak zorundaydı?
