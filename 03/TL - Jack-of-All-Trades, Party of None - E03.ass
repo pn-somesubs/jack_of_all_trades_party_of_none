@@ -1,0 +1,389 @@
+[Script Info]
+Title: pn-SomeSubs - Jack-of-All-Trades, Party of None
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main,Arial Black,79,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.9,0,2,63,63,72,1
+Style: Italics,Arial Black,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,72,71,72,1
+Style: Flashback,Fixedsys,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Flashback_Italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Narration,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main - Top,Fixedsys,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback_Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Sign_Basic,Tw Cen MT Condensed Extra Bold,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:29.98,0:01:35.99,Sign_Basic,Sign,0,0,0,,BÖLÜM 3: HER İŞİ YAPAN ADAM \N İDEALLERİNDEN BAHSEDİYOR
+Dialogue: 0,0:01:39.30,0:01:43.71,Italics,Orhun,0,0,0,,Zayıf olduğum için \N Kahramanlar Partisi'nden kovuldum.
+Dialogue: 0,0:01:43.71,0:01:47.00,Italics,Orhun,0,0,0,,{\fs45\an4\fe162\b\fad(400,400)\bord3\blur4\fnVestaPro-Bold\shad\pos(41.67,107.41)}{\c&HFFFFFF&}{\4c&HF3F3FC&\b1}\N{\fsp3.5}Çevirmen:{\4c&HFF3A00&\t(0,3000,\c&HFF3A00&)} Hana\N{\c&HFFFFFF&}{\4c&HF3F3FC&}{\fsp3.5}Encode:{\4c&HFFC4FA&\t(0,3000,\c&HFFC4FA&)} Bocchi Gardaş\N{\4c&HFFFFFF&\c&HFEB342&)}SomeSub
+Dialogue: 0,0:01:43.71,0:01:47.00,Italics,Orhun,0,0,0,,Bugünün gazetesindeki \N başlıklı makalede böyle yazıyordu.
+Dialogue: 0,0:01:47.76,0:01:52.70,Italics,Orhun,0,0,0,,Bunun olacağını biliyordum, ama şimdi olması mı gerekiyordu?
+Dialogue: 0,0:01:55.08,0:02:00.63,Italics,Orhun,0,0,0,,O makaleyi okuduktan sonra kaç kişi bana hala güvenecek?
+Dialogue: 0,0:02:05.15,0:02:07.07,Main,Students,0,0,0,,Bugünün gazetesini gördün mü?
+Dialogue: 0,0:02:07.07,0:02:10.44,Main,Students,0,0,0,,Orhun Kahramanlar Partisi'nden ihraç edildi, ha?
+Dialogue: 0,0:02:10.44,0:02:13.13,Main,Students,0,0,0,,Ve çünkü o çok zayıftı!
+Dialogue: 0,0:02:13.13,0:02:16.49,Italics,Logan,0,0,0,,Dün, ayrılanın kendisi olduğunu söyledi.
+Dialogue: 0,0:02:16.49,0:02:19.64,Italics,Logan,0,0,0,,Eğer sürgün edilseydi, gerçek tamamen farklı olurdu...
+Dialogue: 0,0:02:19.64,0:02:20.49,Main,Orhun,0,0,0,,Günaydın
+Dialogue: 0,0:02:21.77,0:02:22.70,Main,Student,0,0,0,,Orhun!
+Dialogue: 0,0:02:22.70,0:02:24.45,Main,Student,0,0,0,,Günaydın.
+Dialogue: 0,0:02:24.45,0:02:25.82,Main,Student,0,0,0,,Günaydın.
+Dialogue: 0,0:02:25.82,0:02:27.45,Main,Student,0,0,0,,Günaydın.
+Dialogue: 0,0:02:27.64,0:02:29.13,Main,Student,0,0,0,,Günaydın.
+Dialogue: 0,0:02:29.56,0:02:30.71,Main,Orhun,0,0,0,,Günaydın.
+Dialogue: 0,0:02:31.65,0:02:33.73,Italics,Orhun,0,0,0,,Dünden tamamen farklı.
+Dialogue: 0,0:02:34.21,0:02:36.72,Italics,Orhun,0,0,0,,Eh, benim adıma yaptığı onca övünmeden sonra,
+Dialogue: 0,0:02:36.72,0:02:38.87,Italics,Orhun,0,0,0,,Neden kafalarının karıştığını anlayabiliyorum.
+Dialogue: 0,0:02:38.87,0:02:39.83,Main,Selma,0,0,0,,Orhun!
+Dialogue: 0,0:02:45.46,0:02:48.48,Main,Selma,0,0,0,,Çok özür dilerim! Hiç bilmiyordum!
+Dialogue: 0,0:02:48.95,0:02:50.44,Main,Orhun,0,0,0,,Selma...
+Dialogue: 0,0:02:53.60,0:02:56.39,Main,Orhun,0,0,0,,Özür dilemen için hiçbir neden yok.
+Dialogue: 0,0:02:56.39,0:02:59.95,Main,Orhun,0,0,0,,Kendinizi kontrol altına alamazsanız, \N öğretim seferimiz başarısızlıkla sonuçlanacaktır.
+Dialogue: 0,0:03:01.00,0:03:06.45,Main,Selma,0,0,0,,Ama dün yeni çalışanları motive etmek için seni çok kullandım...
+Dialogue: 0,0:03:06.77,0:03:10.90,Main,Selma,0,0,0,,Daha dikkatli olmalıydım.
+Dialogue: 0,0:03:10.90,0:03:12.77,Main,Orhun,0,0,0,,Ben iyiyim.
+Dialogue: 0,0:03:12.77,0:03:16.46,Main,Orhun,0,0,0,,Açıkça ifade edemediğim için \N sorun yarattığım için özür dilemeliyim.
+Dialogue: 0,0:03:17.04,0:03:19.47,Main,Orhun,0,0,0,,Zindan keşiflerimiz sırasında sana destek olacağım.
+Dialogue: 0,0:03:19.78,0:03:23.20,Main,Orhun,0,0,0,,her zamanki gibi başını dik tut.
+Dialogue: 0,0:03:23.86,0:03:24.97,Main,Orhun,0,0,0,,Hepiniz de öyle.
+Dialogue: 0,0:03:25.36,0:03:26.30,Main,Selma,0,0,0,,Orhun...
+Dialogue: 0,0:03:26.88,0:03:31.85,Main,Bernard,0,0,0,,Ama Orhun \N 94. kata ulaştı, değil mi?
+Dialogue: 0,0:03:31.85,0:03:34.73,Main,Cathy,0,0,0,,Bu bile inanılmaz!
+Dialogue: 0,0:03:34.73,0:03:37.61,Main,Anthem,0,0,0,,Bu yüzden hiç endişelenmiyoruz.
+Dialogue: 0,0:03:40.32,0:03:42.02,Main,Selma,0,0,0,,Doğru.
+Dialogue: 0,0:03:42.02,0:03:45.31,Main,Selma,0,0,0,,Dün de gayet iyiydin.
+Dialogue: 0,0:03:45.31,0:03:46.62,Main,Selma,0,0,0,,Bugün de aynı şekilde devam et.
+Dialogue: 0,0:03:46.96,0:03:48.91,Main,Orhun,0,0,0,,Tamam. Bana bırak.
+Dialogue: 0,0:03:52.68,0:03:54.73,Main,Sophia,0,0,0,,Günaydın, Orhun.
+Dialogue: 0,0:03:54.73,0:03:57.10,Main,Caroline,0,0,0,,Günaydın, bayım!
+Dialogue: 0,0:03:57.10,0:03:58.63,Main,Logan,0,0,0,,Günaydın.
+Dialogue: 0,0:03:59.10,0:04:00.55,Main,Orhun,0,0,0,,Herkese günaydın.
+Dialogue: 0,0:04:01.05,0:04:03.38,Main,Orhun,0,0,0,,Bugünün gazetesinde ne vardı, biliyorsun, değil mi?
+Dialogue: 0,0:04:03.38,0:04:05.52,Main,Sophia,0,0,0,,O makale yalanlarla dolu!
+Dialogue: 0,0:04:05.52,0:04:08.47,Main,Caroline,0,0,0,,Evet, bunların hiçbiri önemli değil!
+Dialogue: 0,0:04:09.40,0:04:11.60,Main,Logan,0,0,0,,Bu doğru mu?
+Dialogue: 0,0:04:12.27,0:04:14.94,Main,Orhun,0,0,0,,Evet, büyük çoğunluğu öyle.
+Dialogue: 0,0:04:16.71,0:04:19.96,Main,Orhun,0,0,0,,Eğer bana \N çok mu zayıftım diye soruyorsan, cevap evet.
+Dialogue: 0,0:04:20.53,0:04:24.15,Main,Orhun,0,0,0,,Yani şu anda herkesin beklediği kahraman ben değilim.
+Dialogue: 0,0:04:24.68,0:04:26.36,Main,Orhun,0,0,0,,Sana söylemediğim için üzgünüm
+Dialogue: 0,0:04:27.41,0:04:30.91,Italics,Logan,0,0,0,,Hayır... Burada neler oluyor?
+Dialogue: 0,0:04:31.38,0:04:34.67,Main,Sophia,0,0,0,,Ama sen güçlüydün!
+Dialogue: 0,0:04:34.67,0:04:37.67,Main,Sophia,0,0,0,,Bir anda bir düzineden fazla ork'u yendin!
+Dialogue: 0,0:04:37.67,0:04:41.24,Main,Sophia,0,0,0,,Senin çok zayıf olmadığını biliyorum!
+Dialogue: 0,0:04:41.24,0:04:42.49,Main,Orhun,0,0,0,,Sophia...
+Dialogue: 0,0:04:43.37,0:04:44.43,Main,Orhun,0,0,0,,Teşekürler
+Dialogue: 0,0:04:45.26,0:04:51.31,Main,Orhun,0,0,0,,Onun dediği gibi, seni 51. kata çıkarmak için yeterli gücüm var
+Dialogue: 0,0:04:51.95,0:04:57.19,Main,Orhun,0,0,0,,Artık kahraman değilim, ama Orhun Dura olarak, sadece bir kaşifim, yemin ederim...
+Dialogue: 0,0:04:57.68,0:05:00.30,Main,Orhun,0,0,0,,Seni koruyacağım.
+Dialogue: 0,0:05:00.98,0:05:04.82,Main,Orhun,0,0,0,,Bu yüzden, dün yaptığın gibi, bizim  zindan dalışımızda da elinden gelenin en iyisini yapmanı istiyorum.
+Dialogue: 0,0:05:04.82,0:05:06.70,Main,All,0,0,0,,Tamam!
+Dialogue: 0,0:05:06.97,0:05:08.79,Italics,Logan,0,0,0,,{\pos(596,220)}CVN: Hiç ne olsn gırgır şamata var
+Dialogue: 0,0:05:06.97,0:05:08.79,Italics,Logan,0,0,0,,Ne oluyor be?
+Dialogue: 0,0:05:08.79,0:05:11.38,Italics,Logan,0,0,0,,Heyecanlandığım için kendimi aptal gibi hissediyorum.
+Dialogue: 0,0:05:11.95,0:05:15.96,Sign_Basic,Logan,0,0,0,,GÜNEY BÜYÜK ZİNDAN, 21. KAT
+Dialogue: 0,0:05:18.57,0:05:22.71,Italics,Orhun,0,0,0,,Bugün 21. kattan 35. kata çıkacağız.
+Dialogue: 0,0:05:23.08,0:05:26.07,Italics,Orhun,0,0,0,,Ama biz eskortlar herhangi bir talimat vermeyeceğiz.
+Dialogue: 0,0:05:26.07,0:05:29.22,Italics,Orhun,0,0,0,,orta katlara ulaşana kadar, \N 31. kattan başlayarak.
+Dialogue: 0,0:05:29.74,0:05:31.61,Italics,Orhun,0,0,0,,O zamana kadar, her şey dün olduğu gibi olacak.
+Dialogue: 0,0:05:31.61,0:05:33.97,Italics,Orhun,0,0,0,,yeni işe alınanlar öncülük ediyor.
+Dialogue: 0,0:05:35.23,0:05:37.73,Sign_Basic,Sign,0,0,0,,24. KAT
+Dialogue: 0,0:05:39.73,0:05:42.23,Sign_Basic,Sign,0,0,0,,29. KAT
+Dialogue: 0,0:05:46.71,0:05:49.37,Main,Orhun,0,0,0,,İkiniz de aferin.
+Dialogue: 0,0:05:50.01,0:05:51.87,Main,Both,0,0,0,,Yaşasın!
+Dialogue: 0,0:05:52.35,0:05:55.36,Italics,Orhun,0,0,0,,Hala bana inanıyorlar.
+Dialogue: 0,0:05:55.36,0:05:56.41,Italics,Orhun,0,0,0,,Güzel.
+Dialogue: 0,0:06:01.31,0:06:03.65,Italics,Orhun,0,0,0,,31. kata ulaştık.
+Dialogue: 0,0:06:00.13,0:06:04.13,Sign_Basic,Orhun,0,0,0,,{\pos(960,240)}31. KAT
+Dialogue: 0,0:06:04.40,0:06:06.72,Italics,Orhun,0,0,0,,Bundan sonra emirleri ben vereceğim.
+Dialogue: 0,0:06:06.72,0:06:08.33,Italics,Orhun,0,0,0,,Dikkatimi kaybetmemeliyim.
+Dialogue: 0,0:06:13.29,0:06:15.51,Main,Orhun,0,0,0,,Önümüzde canavarlar olduğunu hissediyorum.
+Dialogue: 0,0:06:15.51,0:06:16.89,Main,Orhun,0,0,0,,Herkes hazır mı?
+Dialogue: 0,0:06:16.89,0:06:17.77,Main,Sophia,0,0,0,,Evet
+Dialogue: 0,0:06:17.77,0:06:19.02,Main,Caroline,0,0,0,,Evet!
+Dialogue: 0,0:06:22.65,0:06:25.15,Main,Orhun,0,0,0,,{\pos(552,152)}CVN:Clash Royaldeki goblinlermi :d
+Dialogue: 0,0:06:22.65,0:06:25.15,Main,Orhun,0,0,0,,Caroline, goblinlerin dikkatini çek.
+Dialogue: 0,0:06:25.15,0:06:27.15,Main,Caroline,0,0,0,,Anlaşıldı!
+Dialogue: 0,0:06:31.69,0:06:33.76,Italics,Orhun,0,0,0,,Her zamanki gibi...
+Dialogue: 0,0:06:33.76,0:06:35.37,Main,Orhun,0,0,0,,Sophia, sen arkadaki orklarla ilgilen.
+Dialogue: 0,0:06:35.37,0:06:36.62,Main,Sophia,0,0,0,,Tamam!
+Dialogue: 0,0:06:37.02,0:06:38.75,Main,Orhun,0,0,0,,Logan, onları büyüyle güçlendir...
+Dialogue: 0,0:06:38.00,0:06:39.25,Main,Logan,0,0,0,,Çeviklik Artışı.
+Dialogue: 0,0:06:39.25,0:06:40.35,Main,Logan,0,0,0,,Teknik Yükselme.
+Dialogue: 0,0:06:40.35,0:06:41.75,Main,Logan,0,0,0,,Sihir Büyü!
+Dialogue: 0,0:06:44.36,0:06:46.74,Italics,Logan,0,0,0,,Onun emirleri, herkesin vereceği türden emirlerdir.
+Dialogue: 0,0:06:46.74,0:06:48.76,Italics,Logan,0,0,0,,Belki de o kadar da özel biri değildir.
+Dialogue: 0,0:06:49.28,0:06:50.40,Italics,Logan,0,0,0,,Eh, önemli değil.
+Dialogue: 0,0:06:50.40,0:06:52.26,Italics,Logan,0,0,0,,İşim değişmiyor.
+Dialogue: 0,0:07:00.00,0:07:02.30,Italics,Logan,0,0,0,,Bu Caroline'ı halleder.
+Dialogue: 0,0:07:02.30,0:07:03.73,Italics,Logan,0,0,0,,Sophia'ya gelince...
+Dialogue: 0,0:07:09.19,0:07:10.74,Italics,Logan,0,0,0,,Ne yapıyorsun, Sophia?
+Dialogue: 0,0:07:11.18,0:07:14.56,Italics,Logan,0,0,0,,Daha önce orklar tarafından saldırıya uğradığını söyledi.
+Dialogue: 0,0:07:14.56,0:07:17.24,Italics,Logan,0,0,0,,Bana onun travma geçirdiği için hareket edemediğini söyleme.
+Dialogue: 0,0:07:18.32,0:07:20.50,Italics,Logan,0,0,0,,Ona yardım etmeyecek mi?
+Dialogue: 0,0:07:23.54,0:07:26.00,Italics,Logan,0,0,0,,Sonuçta ona güvenemem.
+Dialogue: 0,0:07:26.57,0:07:28.76,Italics,Logan,0,0,0,,Onu kendim kurtarmam gerekecek...
+Dialogue: 0,0:07:30.38,0:07:31.63,Main,Orhun,0,0,0,,Çeviklik Azaldı.
+Dialogue: 0,0:07:36.56,0:07:37.79,Main,Orhun,0,0,0,,Sorun yok.
+Dialogue: 0,0:07:37.79,0:07:44.59,Main,Orhun,0,0,0,,Yoldaşların Caroline ve Logan var, bir de ben varım.
+Dialogue: 0,0:07:44.59,0:07:46.65,Main,Orhun,0,0,0,,Artık yalnız değilsin.
+Dialogue: 0,0:07:47.16,0:07:49.93,Main,Orhun,0,0,0,,Bu yüzden sakin olun ve elinizden gelenin en iyisini yapın.
+Dialogue: 0,0:07:49.93,0:07:52.15,Main,Sophia,0,0,0,,Tamam, yapacağım.
+Dialogue: 0,0:08:04.64,0:08:07.00,Main,Sophia,0,0,0,,Ateş Mızrağı!
+Dialogue: 0,0:08:19.56,0:08:23.19,Italics,Orhun,0,0,0,,Kimse bana onun ileri düzey büyü kullanabileceğini söylemedi...
+Dialogue: 0,0:08:24.94,0:08:28.19,Main,Caroline,0,0,0,,Sophia, sen harikasın!
+Dialogue: 0,0:08:29.66,0:08:31.79,Main,Sophia,0,0,0,,İşe yaradığına sevindim!
+Dialogue: 0,0:08:32.74,0:08:33.99,Main,Orhun,0,0,0,,Aferin.
+Dialogue: 0,0:08:33.99,0:08:35.45,Main,Orhun,0,0,0,,Bu iyi bir saldırıydı.
+Dialogue: 0,0:08:36.43,0:08:38.45,Main,Sophia,0,0,0,,Teşekkürler!
+Dialogue: 0,0:08:38.78,0:08:42.45,Italics,Logan,0,0,0,,Ork üzerindeki o zayıflatma etkisi, \N ve Sophia'nın gelişmiş büyüsü...
+Dialogue: 0,0:08:43.09,0:08:46.70,Italics,Logan,0,0,0,,Kahramanlar Partisi'nden kovulmamış mıydı?
+Dialogue: 0,0:08:47.24,0:08:49.26,Italics,Logan,0,0,0,,Burada neler oluyor?
+Dialogue: 0,0:08:49.96,0:08:52.97,Sign_Basic,Logan,0,0,0,,{\pos(960,240)}35. KAT
+Dialogue: 0,0:08:57.97,0:09:00.18,Italics,Logan,0,0,0,,Bir D-Ölüm Tarantula mı?!
+Dialogue: 0,0:09:00.49,0:09:03.24,Italics,Logan,0,0,0,,O şeyle savaşacak kadar güçlü değiliz!
+Dialogue: 0,0:09:03.24,0:09:04.94,Italics,Logan,0,0,0,,Şimdi ne Yapacaz?
+Dialogue: 0,0:09:05.31,0:09:08.83,Main,Orhun,0,0,0,,Logan, Caroline'a \N Çeviklik Artışı ve Dayanıklılık Artışı ver.
+Dialogue: 0,0:09:08.83,0:09:10.44,Main,Orhun,0,0,0,,Ve Sophia bir Sihirli Yukarı.
+Dialogue: 0,0:09:11.31,0:09:13.26,Italics,Logan,0,0,0,,Her zamanki siparişler mi?!
+Dialogue: 0,0:09:15.31,0:09:17.32,Main,Logan,0,0,0,,Aptal, bu delilik.
+Dialogue: 0,0:09:17.32,0:09:18.56,Main,Orhun,0,0,0,,Bekle.
+Dialogue: 0,0:09:18.56,0:09:20.33,Main,Logan,0,0,0,,Neden? Caroline...
+Dialogue: 0,0:09:20.33,0:09:22.83,Main,Orhun,0,0,0,,Öne gidersen dezavantajlı duruma düşersin.
+Dialogue: 0,0:09:23.83,0:09:26.33,Main,Orhun,0,0,0,,Sırtına kılıç sallarken üzerinden atla!
+Dialogue: 0,0:09:26.33,0:09:28.08,Main,Caroline,0,0,0,,Anlaşıldı!
+Dialogue: 0,0:09:39.22,0:09:40.24,Main,Orhun,0,0,0,,Güzel.
+Dialogue: 0,0:09:40.24,0:09:42.69,Main,Orhun,0,0,0,,Caroline, dikkatini kendine ver.
+Dialogue: 0,0:09:42.69,0:09:44.35,Main,Orhun,0,0,0,,zehirli
+Dialogue: 0,0:09:44.35,0:09:47.35,Main,Orhun,0,0,0,,Saldırılarını dikkatle izle \N ve kaçtığından emin ol.
+Dialogue: 0,0:09:47.76,0:09:49.26,Main,Caroline,0,0,0,,Tamam
+Dialogue: 0,0:10:04.50,0:10:07.90,Main,Caroline,0,0,0,,Hey! Hey! Buraya bakın, Bay Örümcek!
+Dialogue: 0,0:10:10.51,0:10:13.77,Main,Orhun,0,0,0,,Logan, Caroline'ın hareket kabiliyeti sana bağlı.
+Dialogue: 0,0:10:13.77,0:10:15.15,Main,Orhun,0,0,0,,Ona destek olun.
+Dialogue: 0,0:10:15.15,0:10:16.67,Main,Logan,0,0,0,,Tamam!
+Dialogue: 0,0:10:16.67,0:10:18.95,Main,Orhun,0,0,0,,Sophia, sen onu tut.
+Dialogue: 0,0:10:18.95,0:10:20.18,Main,Sophia,0,0,0,,Anladım!
+Dialogue: 0,0:10:24.93,0:10:26.55,Main,Sophia,0,0,0,,Hava Kesici!
+Dialogue: 0,0:10:35.22,0:10:36.94,Main,Caroline,0,0,0,,Yakaladım onu!
+Dialogue: 0,0:10:38.45,0:10:39.44,Main,Orhun,0,0,0,,Henüz değil!
+Dialogue: 0,0:10:39.44,0:10:42.40,Main,Orhun,0,0,0,,Logan, Caroline'a \N Güç Artışı ve Teknik Artışı ver!
+Dialogue: 0,0:10:42.40,0:10:43.61,Main,Logan,0,0,0,,Ha? Neden?
+Dialogue: 0,0:10:43.61,0:10:44.16,Main,Orhun,0,0,0,,Acele et.
+Dialogue: 0,0:10:45.21,0:10:46.29,Main,Logan,0,0,0,,Tamam!
+Dialogue: 0,0:10:49.60,0:10:51.04,Main,Caroline,0,0,0,,Bu nedir?
+Dialogue: 0,0:10:51.77,0:10:52.99,Main,Caroline,0,0,0,,Bu nedir?
+Dialogue: 0,0:10:52.99,0:10:55.35,Main,Caroline,0,0,0,,Kaçamıyorum...
+Dialogue: 0,0:10:56.18,0:10:57.17,Main,Sophia,0,0,0,,Hayır
+Dialogue: 0,0:10:57.50,0:10:59.78,Main,Orhun,0,0,0,,Caroline, hançerinle ağları kes.
+Dialogue: 0,0:10:59.78,0:11:01.93,Main,Orhun,0,0,0,,Artık yeterince güçlüsün.
+Dialogue: 0,0:11:01.93,0:11:05.18,Main,Caroline,0,0,0,,Tamam, deneyeceğim!
+Dialogue: 0,0:11:05.68,0:11:09.69,Main,Caroline,0,0,0,,Evet! Evet! Evet!
+Dialogue: 0,0:11:10.36,0:11:13.81,Italics,Logan,0,0,0,,Bunun olacağını bildiği için mi bu emirleri verdi?
+Dialogue: 0,0:11:14.30,0:11:16.27,Main,Orhun,0,0,0,,Sophia, bir Kaya Ok hazırla.
+Dialogue: 0,0:11:16.27,0:11:17.62,Main,Sophia,0,0,0,,Tamam
+Dialogue: 0,0:11:18.16,0:11:20.87,Main,Orhun,0,0,0,,Logan, Sophia'ya bir Sihirli Yükseliş daha ver.
+Dialogue: 0,0:11:20.87,0:11:23.39,Main,Orhun,0,0,0,,Sonuncusu bitmek üzere.
+Dialogue: 0,0:11:24.18,0:11:25.08,Main,Logan,0,0,0,,Tamam!
+Dialogue: 0,0:11:26.10,0:11:28.83,Main,Caroline,0,0,0,,Bunu yapabileceğimi sanmıyorum, Efendim
+Dialogue: 0,0:11:29.36,0:11:33.33,Italics,Orhun,0,0,0,,Şu anda Logan aynı anda sadece üç büyü kullanabilir.
+Dialogue: 0,0:11:33.76,0:11:34.79,Italics,Orhun,0,0,0,,Tamam.
+Dialogue: 0,0:11:35.84,0:11:37.21,Main,Orhun,0,0,0,,Keskinlik Artışı.
+Dialogue: 0,0:11:42.06,0:11:45.22,Main,Caroline,0,0,0,,Başardım! Özgürüm!
+Dialogue: 0,0:11:45.62,0:11:46.97,Main,Orhun,0,0,0,,Tamam. Sophia.
+Dialogue: 0,0:11:46.97,0:11:50.01,Main,Sophia,0,0,0,,Tamam! Kaya oku!
+Dialogue: 0,0:11:59.74,0:12:01.33,Main,Caroline,0,0,0,,Yaşasın!
+Dialogue: 0,0:12:02.75,0:12:04.11,Italics,Orhun,0,0,0,,Hayret.
+Dialogue: 0,0:12:05.62,0:12:07.11,Main,Caroline,0,0,0,,Başardık!
+Dialogue: 0,0:12:07.11,0:12:08.62,Main,Sophia,0,0,0,,Elbette yaptık.
+Dialogue: 0,0:12:08.96,0:12:12.80,Main,Orhun,0,0,0,,Logan, bu senin destek büyünün sayesinde işe yaradı.
+Dialogue: 0,0:12:11.89,0:12:14.37,Main - Top,Sophia (Background),0,0,0,,Harikaydın!
+Dialogue: 0,0:12:12.80,0:12:14.37,Main,Orhun,0,0,0,,Nicely done.
+Dialogue: 0,0:12:15.97,0:12:17.49,Main,Logan,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:12:20.17,0:12:22.05,Main,Orhun,0,0,0,,Tamam, geri dönüyoruz.
+Dialogue: 0,0:12:22.05,0:12:23.62,Main,All,0,0,0,,Tamam!
+Dialogue: 0,0:12:29.60,0:12:32.43,Main,Selma,0,0,0,,Herkese tebrikler!
+Dialogue: 0,0:12:32.87,0:12:35.19,Main,Selma,0,0,0,,Yarın son günümüz!
+Dialogue: 0,0:12:35.64,0:12:40.57,Main,Selma,0,0,0,,Buna hazır olmak için yeterince dinlendiğinizden emin olun!
+Dialogue: 0,0:12:41.17,0:12:42.88,Main,Selma,0,0,0,,Şimdi, gidebilirsiniz.
+Dialogue: 0,0:12:42.88,0:12:43.82,Main,All,0,0,0,,Evet hanımefendi!
+Dialogue: 0,0:12:46.53,0:12:48.50,Main,Bernard,0,0,0,,Hey, Orhun, Bir dakikan var mı?
+Dialogue: 0,0:12:49.82,0:12:50.65,Main,Bernard,0,0,0,,Hey.
+Dialogue: 0,0:12:51.64,0:12:53.80,Main,Orhun,0,0,0,,Evet, tabii.
+Dialogue: 0,0:12:53.80,0:12:55.08,Main,Orhun,0,0,0,,Konu Nedir?
+Dialogue: 0,0:12:55.35,0:12:57.91,Main,Anthem,0,0,0,,Bir şeyler yemeye gidiyoruz.
+Dialogue: 0,0:12:57.91,0:12:59.34,Main,Anthem,0,0,0,,Bize katılmak ister misiniz?
+Dialogue: 0,0:13:01.04,0:13:04.58,Italics,Orhun,0,0,0,,Benim varlığımdan pek rahatsız görünmüyorlar.
+Dialogue: 0,0:13:04.58,0:13:05.59,Italics,Orhun,0,0,0,,Güzel
+Dialogue: 0,0:13:06.23,0:13:07.68,Main,Orhun,0,0,0,,Teşekkürler.
+Dialogue: 0,0:13:07.68,0:13:09.60,Main,Orhun,0,0,0,,Sizinle birlikte olmak isterim.
+Dialogue: 0,0:13:10.16,0:13:12.77,Main,Bernard,0,0,0,,Tamam, gidelim.
+Dialogue: 0,0:13:13.85,0:13:15.73,Main,Bernard,0,0,0,,Yemek istediğin bir şey var mı?
+Dialogue: 0,0:13:16.05,0:13:17.72,Main,Orhun,0,0,0,,Özel bir şey yok.
+Dialogue: 0,0:13:17.72,0:13:20.80,Main - Top,Bernard,0,0,0,,O zaman her zaman gittiğimiz yere gidelim.
+Dialogue: 0,0:13:20.80,0:13:22.04,Main - Top,Anthem,0,0,0,,Oldukça iyi.
+Dialogue: 0,0:13:18.20,0:13:20.80,Main,Orhun,0,0,0,,Keşif sırasında pek konuşma fırsatımız olmadı.
+Dialogue: 0,0:13:20.80,0:13:22.98,Main,Orhun,0,0,0,,bu yüzden iyi bir fırsat olabilir.
+Dialogue: 0,0:13:26.81,0:13:31.49,Main,Logan,0,0,0,,Hey, az önce Orhun'un seni kurtardığını söyledin, değil mi?
+Dialogue: 0,0:13:31.76,0:13:36.20,Main,Sophia,0,0,0,,Evet. Üç gün önce, yeni keşfedilen bir zindanda.
+Dialogue: 0,0:13:36.20,0:13:38.95,Main,Logan,0,0,0,,Yalnız mıydı?
+Dialogue: 0,0:13:38.95,0:13:40.25,Main,Sophia,0,0,0,,Evet
+Dialogue: 0,0:13:40.59,0:13:45.01,Main,Logan,0,0,0,,O zaman bana onun nasıl biri olduğunu anlat.
+Dialogue: 0,0:13:45.01,0:13:47.26,Main,Sophia,0,0,0,,Ne diyeceğimi bilmiyorum...
+Dialogue: 0,0:13:47.58,0:13:52.51,Main,Logan,0,0,0,,Hangi büyüler kullandığını veya nasıl savaştığını hatırlıyor musun?
+Dialogue: 0,0:13:53.11,0:13:54.90,Main,Sopiha,0,0,0,,Hmm...
+Dialogue: 0,0:13:54.90,0:14:00.88,Main,Sopiha,0,0,0,,Kullandığı inanılmaz bir rüzgar patlaması vardı...
+Dialogue: 0,0:14:00.88,0:14:01.91,Main,Logan,0,0,0,,Başka ne var?
+Dialogue: 0,0:14:02.61,0:14:07.36,Main,Sophia,0,0,0,,Ayrıca, destek büyüsüyle kılıcına güç katıyormuş gibi görünüyordu.
+Dialogue: 0,0:14:07.69,0:14:09.76,Main,Logan,0,0,0,,Keskinlik Artır, evet.
+Dialogue: 0,0:14:09.76,0:14:12.62,Main,Logan,0,0,0,,Bu, insanlara değil silahlara uyguladığın bir destek büyüsü.
+Dialogue: 0,0:14:13.41,0:14:15.31,Main,Caroline,0,0,0,,Bugün de onu kullandı!
+Dialogue: 0,0:14:15.31,0:14:19.12,Main,Caroline,0,0,0,,Hançerlerim çok daha keskin hale geldi! \N Çok şaşırdım!
+Dialogue: 0,0:14:19.47,0:14:23.38,Main,Logan,0,0,0,,Seni kurtardığında kılıç mı kullanıyordu?
+Dialogue: 0,0:14:23.38,0:14:26.77,Main,Sophia,0,0,0,,Evet, orklar arasında keskin bir şekilde ilerliyordu!
+Dialogue: 0,0:14:26.77,0:14:30.66,Main,Logan,0,0,0,,Yani sadece büyüyle değil, kılıçla da savaşabilir mi?
+Dialogue: 0,0:14:30.66,0:14:32.91,Main,Sophia,0,0,0,,Nedenini gerçekten bilmiyorum.
+Dialogue: 0,0:14:32.91,0:14:36.24,Main,Sophia,0,0,0,,ama o, \N Kahramanlar Partisi'nden ayrıldıktan sonra... “dönüştüğünü” söyledi?
+Dialogue: 0,0:14:36.24,0:14:38.14,Main,Sophia,0,0,0,,Ön saflarda hücum oyuncusu olmak.
+Dialogue: 0,0:14:38.48,0:14:39.95,Main,Logan,0,0,0,,Dönüştü mü?
+Dialogue: 0,0:14:40.47,0:14:42.27,Main,Logan,0,0,0,,Bu mantıklı değil.
+Dialogue: 0,0:14:42.27,0:14:48.03,Main,Logan,0,0,0,,Bugün mükemmel bir büyücü gibi davranıyordu...
+Dialogue: 0,0:14:48.35,0:14:50.28,Flashback,Orhun,0,0,0,,Sophia, bir Kaya Ok hazırla.
+Dialogue: 0,0:14:50.28,0:14:51.57,Flashback,Sophia,0,0,0,,Tamam!
+Dialogue: 0,0:14:52.22,0:14:54.41,Flashback,Orhun,0,0,0,,Caroline, hançerinle ağları kes.
+Dialogue: 0,0:14:54.96,0:14:58.00,Flashback,Orhun,0,0,0,,Logan, Caroline'a Güç Artışı ve Teknik Artışı ver!
+Dialogue: 0,0:14:59.09,0:15:00.25,Flashback,Logan,0,0,0,,Tamam
+Dialogue: 0,0:15:01.23,0:15:03.75,Italics,Logan,0,0,0,,Bu sabah yanlış anladım.
+Dialogue: 0,0:15:04.20,0:15:08.07,Italics,Logan,0,0,0,,Onun Kahramanlar Partisi'nden ihraç edildiğini öğrendiğimde,
+Dialogue: 0,0:15:08.07,0:15:09.26,Italics,Logan,0,0,0,,Hayal kırıklığına uğradım.
+Dialogue: 0,0:15:09.26,0:15:12.23,Italics,Logan,0,0,0,,ve kızgın, sanki benim ona olan beklentilerimi boşa çıkarmış gibi.
+Dialogue: 0,0:15:12.93,0:15:16.01,Italics,Logan,0,0,0,,Ama o orklarla yapılan savaşta...
+Dialogue: 0,0:15:16.81,0:15:20.02,Italics,Logan,0,0,0,,Orhun gizlice Çeviklik Azalması kullandı.
+Dialogue: 0,0:15:22.06,0:15:23.31,Flashback,Orhun,0,0,0,,Çeviklik Azaldı.
+Dialogue: 0,0:15:23.31,0:15:25.94,Italics,Logan,0,0,0,,Rakibin yeteneklerini düşüren bir büyü.
+Dialogue: 0,0:15:25.94,0:15:27.76,Italics,Logan,0,0,0,,Sözde “zayıflatıcı”
+Dialogue: 0,0:15:28.19,0:15:31.83,Italics,Logan,0,0,0,,Selma'nın bile nadiren kullandığını duydum.
+Dialogue: 0,0:15:31.83,0:15:33.56,Italics,Logan,0,0,0,,Kullanımı o kadar zor.
+Dialogue: 0,0:15:34.11,0:15:37.70,Italics,Logan,0,0,0,,Ama Orhun onu kolayca kullanıyor gibiydi.
+Dialogue: 0,0:15:38.88,0:15:42.46,Italics,Logan,0,0,0,,Ve sonra 35. katta \N Ölüm Tarantula ile savaşımız.
+Dialogue: 0,0:15:43.23,0:15:48.71,Italics,Logan,0,0,0,,Bu, oluşumların önemini fark ettiğim ilk savaştı.
+Dialogue: 0,0:15:49.17,0:15:52.94,Flashback - Top,Caroline,0,0,0,,Hey! Hey! Buraya bakın, Bay Örümcek!
+Dialogue: 0,0:15:49.46,0:15:52.94,Italics,Logan,0,0,0,,Savunmacı düşmanın dikkatini dağıtırsa,
+Dialogue: 0,0:15:52.94,0:15:56.98,Italics,Logan,0,0,0,,Saldırgan ve destekçisi bir sonraki hamlelerine odaklanmaya devam edebilirler.
+Dialogue: 0,0:15:54.45,0:15:57.66,Flashback - Top,Orhun,0,0,0,,Logan, Caroline'ın hareket kabiliyeti sana bağlı.
+Dialogue: 0,0:15:57.66,0:15:59.03,Flashback - Top,Orhun,0,0,0,,Onu destekle
+Dialogue: 0,0:16:00.61,0:16:02.58,Flashback,Orhun,0,0,0,,Sophia, onu yere yatır.
+Dialogue: 0,0:16:02.58,0:16:05.22,Italics,Logan,0,0,0,,Bu, savaşmak için ideal bir yoldur.
+Dialogue: 0,0:16:08.19,0:16:13.28,Italics,Logan,0,0,0,,Ayrıca, partisindeki güçlendirmelerinin ne zaman sona ereceğini tam olarak biliyordu.
+Dialogue: 0,0:16:10.48,0:16:13.28,Flashback - Top,Orhun,0,0,0,,Logan, Sophia'ya bir Sihirli Yükseliş daha ver.
+Dialogue: 0,0:16:13.28,0:16:15.66,Flashback - Top,Orhun,0,0,0,,Sonuncusu bitmek üzere.
+Dialogue: 0,0:16:15.66,0:16:19.61,Italics,Logan,0,0,0,,Ve hatta Ölüm Tarantulası'nın son saldırısını bile tahmin etti.
+Dialogue: 0,0:16:22.43,0:16:27.63,Italics,Logan,0,0,0,,Savaşın gidişatını okuyor ve mükemmel \Nemirler veriyordu!
+Dialogue: 0,0:16:28.31,0:16:31.77,Italics,Logan,0,0,0,,O benden çok daha üstündü.
+Dialogue: 0,0:16:32.82,0:16:36.39,Main,Logan,0,0,0,,Öyleyse neden ön saflarda hücum oyuncusu olarak oynamaya karar verdi?
+Dialogue: 0,0:16:36.74,0:16:40.72,Main,Caroline,0,0,0,,O da ön hat saldırganı olarak güçlü mü?
+Dialogue: 0,0:16:40.72,0:16:42.29,Main,Sophia,0,0,0,,Bence öyle!
+Dialogue: 0,0:16:42.29,0:16:46.40,Main,Sophia,0,0,0,,Bu sabah söylediğim gibi, bir anda bir düzineden fazla ork öldürdü!
+Dialogue: 0,0:16:46.72,0:16:49.11,Main,Caroline,0,0,0,,Bu harika!
+Dialogue: 0,0:16:49.11,0:16:52.24,Main,Caroline,0,0,0,,Ben de yakında o kadar güçlü olmak istiyorum!
+Dialogue: 0,0:16:52.24,0:16:55.36,Main,Sophia,0,0,0,,Evet, ben de daha güçlü olacağım!
+Dialogue: 0,0:16:55.36,0:16:58.38,Main,Caroline,0,0,0,,Tamam, elimizden gelenin en iyisini yapalım!
+Dialogue: 0,0:16:58.38,0:17:01.67,Italics,Logan,0,0,0,,O da iyi bir ön saha oyuncusu, değil mi?
+Dialogue: 0,0:17:01.67,0:17:05.60,Italics,Logan,0,0,0,,Sanırım gerçek bir dahi böyle bir şeydir.
+Dialogue: 0,0:17:06.10,0:17:08.52,Italics,Logan,0,0,0,,Ama pes etmeyeceğim!
+Dialogue: 0,0:17:08.52,0:17:12.67,Italics,Logan,0,0,0,,{\pos(352,200)}ÇVN: Vay oe
+Dialogue: 0,0:17:08.52,0:17:12.67,Italics,Logan,0,0,0,,Ondan alabileceğim her şeyi çalacağım ve daha güçlü olacağım.
+Dialogue: 0,0:17:12.67,0:17:15.44,Main,Caroline,0,0,0,,Logan, yüzünde korkutucu bir ifade var.
+Dialogue: 0,0:17:15.44,0:17:16.43,Main,Caroline,0,0,0,,Yorgun musun?
+Dialogue: 0,0:17:17.22,0:17:18.67,Main,Logan,0,0,0,,Hayır
+Dialogue: 0,0:17:18.67,0:17:21.43,Main,Logan,0,0,0,,Yarın için kendimi motive ediyordum.
+Dialogue: 0,0:17:22.48,0:17:24.18,Main,Caroline,0,0,0,,Gitmeye hazırsınız, ha?
+Dialogue: 0,0:17:24.69,0:17:27.00,Main,Caroline,0,0,0,,Ben de kendimi motive edeceğim!
+Dialogue: 0,0:17:27.00,0:17:28.67,Main,Sophia,0,0,0,,Ben de!
+Dialogue: 0,0:17:31.55,0:17:36.20,Main,Bernard,0,0,0,,Buradaki yemekler her zaman harika!
+Dialogue: 0,0:17:36.48,0:17:39.94,Main,Anthem,0,0,0,,Bugün ödeyeceğiz. İstediğin her şeyi alabilirsin.
+Dialogue: 0,0:17:39.94,0:17:41.42,Main,Orhun,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:17:41.95,0:17:46.96,Main,Bernard,0,0,0,,Ama Sen Kahramanlar Partisi'ndendin, \N o yüzden çok eğlenmiş olmalısın.
+Dialogue: 0,0:17:47.32,0:17:49.66,Main,Orhun,0,0,0,,Hiç de değil.
+Dialogue: 0,0:17:49.66,0:17:51.92,Main,Orhun,0,0,0,,Tüm ayak işlerini ve yoğun işleri Ben yaptım,
+Dialogue: 0,0:17:51.92,0:17:54.51,Main,Orhun,0,0,0,,bu yüzden eğlenmek için fazla vaktim olmadı.
+Dialogue: 0,0:17:54.87,0:17:56.00,Main,Anthem,0,0,0,,Anlıyorum.
+Dialogue: 0,0:17:56.00,0:17:58.54,Main,Anthem,0,0,0,,Kulağa zor geliyor.
+Dialogue: 0,0:17:58.54,0:18:01.84,Main,Bernard,0,0,0,,O zaman bu makale daha da kötü oluyor.
+Dialogue: 0,0:18:01.84,0:18:05.49,Main,Bernard,0,0,0,,Bunu böyle söylemeye gerek yoktu.
+Dialogue: 0,0:18:05.49,0:18:06.90,Main,Anthem,0,0,0,,Katılıyorum.
+Dialogue: 0,0:18:06.90,0:18:09.02,Main,Anthem,0,0,0,,Unut gitsin.
+Dialogue: 0,0:18:09.36,0:18:12.03,Main,Orhun,0,0,0,,Bunu söylediğini duymak bile beni mutlu ediyor.
+Dialogue: 0,0:18:12.03,0:18:13.43,Main,Orhun,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:18:17.24,0:18:21.73,Main,Orhun,0,0,0,,Sen Kahramanlar Partisi'nde bir büyücüydün, değil mi?
+Dialogue: 0,0:18:21.73,0:18:25.39,Main,Orhun,0,0,0,,İlk tanıştığımızda ön hat hücumcusu olduğunu söylemiştin ama.
+Dialogue: 0,0:18:25.39,0:18:27.40,Main,Bernard,0,0,0,,Ben de bunu merak ediyordum.
+Dialogue: 0,0:18:27.40,0:18:28.79,Main,Bernard,0,0,0,,Hangisi?
+Dialogue: 0,0:18:29.19,0:18:31.21,Main,Orhun,0,0,0,,Şu anda kılıç kullanıyorum.
+Dialogue: 0,0:18:31.21,0:18:33.95,Main,Orhun,0,0,0,,Partiden ayrıldığımda din değiştirdim.
+Dialogue: 0,0:18:34.70,0:18:36.95,Main,Anthem,0,0,0,,Nedenini sorabilir miyim?
+Dialogue: 0,0:18:37.79,0:18:41.43,Main,Orhun,0,0,0,,Ben de Kahramanlar Partisi'nde bir kılıç ustasıydım.
+Dialogue: 0,0:18:42.32,0:18:45.39,Main,Orhun,0,0,0,,Çocukken herkesten daha fazla olmak istiyordum.
+Dialogue: 0,0:18:45.39,0:18:47.93,Main,Orhun,0,0,0,,Bu pozisyona kabul edildiğimde çok mutlu oldum.
+Dialogue: 0,0:18:48.52,0:18:51.34,Main,Anthem,0,0,0,,Çocukluğundan beri istediğin bir şey, değil mi?
+Dialogue: 0,0:18:51.34,0:18:54.69,Main,Anthem,0,0,0,,Belki bir ebeveyn kılıç ustasıydı? Sebep bu muydu?
+Dialogue: 0,0:18:55.11,0:18:57.94,Main,Orhun,0,0,0,,Ebeveyn değil. Büyükbabam.
+Dialogue: 0,0:18:58.80,0:19:03.79,Main,Orhun,0,0,0,,O eski bir kaşifti ve bir gün köyümüze bir canavar ortaya çıktığında,
+Dialogue: 0,0:19:03.79,0:19:06.03,Main,Orhun,0,0,0,,tek bir kılıçla onu yendi.
+Dialogue: 0,0:19:06.83,0:19:11.24,Main,Orhun,0,0,0,,Bunu görünce kılıç ustası olmak istedim.
+Dialogue: 0,0:19:11.24,0:19:12.96,Main,Anthem,0,0,0,,Anlıyorum.
+Dialogue: 0,0:19:13.45,0:19:16.56,Main,Anthem,0,0,0,,Ama eğer o kadar çok olmak istiyorsan,
+Dialogue: 0,0:19:16.56,0:19:18.46,Main,Anthem,0,0,0,,neden büyücü oldun?
+Dialogue: 0,0:19:18.78,0:19:24.35,Main,Orhun,0,0,0,,Bu, alt katlara inmeye başladığımızda ve hızımız düşmeye başladığında oldu.
+Dialogue: 0,0:19:24.35,0:19:28.86,Main,Bernard,0,0,0,,Oraya indiğinde canavarlar çok daha güçlü hale geliyor
+Dialogue: 0,0:19:28.86,0:19:31.77,Main,Orhun,0,0,0,,Evet, tabii ki daha yavaş gidiyorduk.
+Dialogue: 0,0:19:32.43,0:19:36.14,Main,Orhun,0,0,0,,Ama o zamanlar bunu anlamamıştık.
+Dialogue: 0,0:19:36.95,0:19:40.14,Main,Orhun,0,0,0,,Çabuk ilerlemek istediğimiz için,
+Dialogue: 0,0:19:40.14,0:19:42.18,Main,Orhun,0,0,0,,büyücüler hakkında düşünmeye başladık,
+Dialogue: 0,0:19:42.18,0:19:44.03,Main,Orhun,0,0,0,,o zamanlar popüler olmaya başlayan.
+Dialogue: 0,0:19:44.67,0:19:48.54,Main,Orhun,0,0,0,,Ve her şeyi yapabilen bir ustabaşı olduğum için,
+Dialogue: 0,0:19:48.54,0:19:50.66,Main,Orhun,0,0,0,,Seçilen kişi bendim.
+Dialogue: 0,0:19:51.17,0:19:53.23,Main,Bernard,0,0,0,,Parti nedeniyle mi?
+Dialogue: 0,0:19:53.23,0:19:57.29,Main,Anthem,0,0,0,,Ama bu sizi 94. kata kadar götürdü,
+Dialogue: 0,0:19:57.29,0:19:59.67,Main,Anthem,0,0,0,,yani doğru olan buydu, değil mi?
+Dialogue: 0,0:19:59.67,0:20:03.18,Main,Orhun,0,0,0,,Hayır, bu iyi bir yöntem değildi.
+Dialogue: 0,0:20:04.50,0:20:10.43,Main,Orhun,0,0,0,,Değişmiş olsam bile, yavaşlamalıydık, güçlenmeliydik.
+Dialogue: 0,0:20:10.83,0:20:12.07,Main,Anthem,0,0,0,,Ne...
+Dialogue: 0,0:20:12.07,0:20:13.44,Main,Bernard,0,0,0,,Neden bahsediyorsun?
+Dialogue: 0,0:20:14.81,0:20:18.62,Main,Orhun,0,0,0,,Üzgünüm, eski partime karşı biraz sert davranıyorum.
+Dialogue: 0,0:20:19.19,0:20:21.44,Italics,Orhun,0,0,0,,Bundan daha fazlasını söyleyemem.
+Dialogue: 0,0:20:21.98,0:20:28.88,Italics,Orhun,0,0,0,,Kahramanlar Partisi'nin 94. kattan daha ileriye geçme şansı sıfır...
+Dialogue: 0,0:20:29.45,0:20:33.84,Main,Bernard,0,0,0,,Peki, senin ideal kılıç ustan nasıl biri?
+Dialogue: 0,0:20:33.84,0:20:35.71,Main,Bernard,0,0,0,,Bunu bize söyleyebilirsin, değil mi?
+Dialogue: 0,0:20:37.32,0:20:38.81,Main,Orhun,0,0,0,,Doğru.
+Dialogue: 0,0:20:39.65,0:20:42.97,Main,Orhun,0,0,0,,Her işi yapabilen harika bir adam mı desem?
+Dialogue: 0,0:20:44.84,0:20:49.92,Main,Orhun,0,0,0,,Temel olarak, alt katları bile tek başına geçebilen bir kılıç ustası.
+Dialogue: 0,0:20:49.92,0:20:52.14,Main,Orhun,0,0,0,,Ben de öyle olmak istiyorum.
+Dialogue: 0,0:20:54.65,0:20:56.13,Main,Anthem,0,0,0,,Eminim ki bu gerçekleşecek.
+Dialogue: 0,0:20:56.13,0:20:57.48,Main,Bernard,0,0,0,,Seni tanıdığım için, evet!
+Dialogue: 0,0:21:04.76,0:21:08.32,Main,Caroline,0,0,0,,Öğretim gezimiz yarın sona eriyor!
+Dialogue: 0,0:21:08.32,0:21:12.16,Main,Caroline,0,0,0,,Bu onunla vedalaşmak olacak, değil mi Sophia?
+Dialogue: 0,0:21:13.65,0:21:15.12,Main,Sophia,0,0,0,,Evet.
+Dialogue: 0,0:21:15.42,0:21:18.75,Italics,Sophia,0,0,0,,Yarından sonra onu bir daha görmeyeceğim.
+Dialogue: 0,0:21:19.33,0:21:24.01,Main,Sophia,0,0,0,,Keşke Night Sky Rabbits'te kalsaydı...
+Dialogue: 0,0:21:24.48,0:21:26.47,Main,Caroline,0,0,0,,Neden ona sormuyorsun?
+Dialogue: 0,0:21:26.47,0:21:29.23,Main,Caroline,0,0,0,,Ona sorarsan, belki yapar.
+Dialogue: 0,0:21:30.09,0:21:33.30,Main,Sophia,0,0,0,,Bu çok bencilce. Zaten işe yaramaz..
+Dialogue: 0,0:21:33.30,0:21:34.93,Main,Caroline,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:21:34.93,0:21:38.46,Main,Caroline,0,0,0,,Ona sorarsan, belki yapar.
+Dialogue: 0,0:21:38.46,0:21:39.90,Main,Caroline,0,0,0,,Selma'nın yaptığı gibi.
+Dialogue: 0,0:21:39.90,0:21:43.36,Main,Sophia,0,0,0,,{\pos(556,232)}ÇVN: Burayı anlayamadm kb
+Dialogue: 0,0:21:39.90,0:21:43.36,Main,Sophia,0,0,0,,Orhun benim kardeşim gibi değil!
+Dialogue: 0,0:21:45.48,0:21:50.39,Italics,Sophia,0,0,0,,Ama onu bir daha hiç görememek üzücü olurdu....
+Dialogue: 0,0:21:50.39,0:21:54.17,Italics,Sophia,0,0,0,,{\pos(796,200)}ÇVN: Olası çeviri hataları için özür dileriz.
+Dialogue: 0,0:21:50.39,0:21:54.17,Italics,Sophia,0,0,0,,Belki ona sorarım. sürç-i lisan ettiysek affola
