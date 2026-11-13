@@ -1,0 +1,323 @@
+[Script Info]
+Title: pn-SomeSubs - Jack-of-All-Trades, Party of None
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main,Arial Black,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Italics,Arial Black,79,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Flashback,Arial Black,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Flashback_Italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Narration,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback_Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.71,0:00:06.52,Main,Selma,0,0,0,,Son üç gündür iyi iş çıkardınız!
+Dialogue: 0,0:00:06.52,0:00:07.94,Main,Selma,0,0,0,,Eve gidiyoruz.
+Dialogue: 0,0:00:07.94,0:00:08.73,Main,All,0,0,0,,Tamam!
+Dialogue: 0,0:00:09.23,0:00:11.99,Italics,Orhun,0,0,0,,{\pos(584,280)}Çevirmen:Hana\NEncoder: ?\NRedaktör:Hana
+Dialogue: 0,0:00:09.23,0:00:11.99,Italics,Orhun,0,0,0,,Sanırım işim bitti.
+Dialogue: 0,0:00:14.74,0:00:16.16,Main,Caroline,0,0,0,,Bayım!
+Dialogue: 0,0:00:16.16,0:00:18.12,Main,Orhun,0,0,0,,Hiçbir şey olmamasına sevindim...
+Dialogue: 0,0:00:32.43,0:00:33.88,Main,Orhun,0,0,0,,Kara Ejderha mı?!
+Dialogue: 0,0:00:33.88,0:00:35.13,Main,Orhun,0,0,0,,İmkansız!
+Dialogue: 0,0:00:48.44,0:00:49.27,Sign_Basic,Sign,0,0,0,,HER İŞİ YAPAN, HİÇBİR PARTİYE ÜYESİ OLMAYAN
+Dialogue: 0,0:00:49.56,0:00:56.82,Sign_Basic,Sign,0,0,0,,HER İŞİ YAPAN, HİÇBİR PARTİYE ÜYESİ OLMAYAN
+Dialogue: 0,0:02:14.48,0:02:18.49,Sign_Basic,Sign,0,0,0,,BÖLÜM 6: HER İŞİ YAPAN ADAM \N SINIRLARINI AŞAR
+Dialogue: 0,0:02:11.23,0:02:12.98,Main,Orhun,0,0,0,,Herkes koşsun!
+Dialogue: 0,0:02:21.05,0:02:22.88,Italics,Selma,0,0,0,,Bu baskı...
+Dialogue: 0,0:02:22.88,0:02:25.74,Italics,Selma,0,0,0,,İnanması imkansız, \N ama bu gerçek olmalı.
+Dialogue: 0,0:02:26.04,0:02:27.49,Italics,Bernard,0,0,0,,Neden?
+Dialogue: 0,0:02:27.49,0:02:30.73,Italics,Bernard,0,0,0,,Bu katta olması mümkün değil!
+Dialogue: 0,0:02:30.73,0:02:34.45,Italics,Cathy,0,0,0,,Çaresiz maceracıları katleden bir tiran...
+Dialogue: 0,0:02:34.45,0:02:35.80,Italics,Anthem,0,0,0,,O Kara Ejderha.
+Dialogue: 0,0:02:35.80,0:02:37.26,Italics,Anthem,0,0,0,,Hiç şüphe yok.
+Dialogue: 0,0:02:38.18,0:02:40.01,Italics,Selma,0,0,0,,Komutayı ele almam gerekiyor, hemen!
+Dialogue: 0,0:02:43.87,0:02:47.72,Italics,Orhun,0,0,0,,Düşün! Nasıl hayatta kalabiliriz?
+Dialogue: 0,0:02:50.16,0:02:53.01,Italics,Orhun,0,0,0,,Bu katın patronu zaten öldü.
+Dialogue: 0,0:02:53.01,0:02:56.60,Italics,Orhun,0,0,0,,Eğer bunu aşıp Teleportasyon Kristali'ne ulaşabilirsek,
+Dialogue: 0,0:02:56.60,0:02:57.68,Italics,Orhun,0,0,0,,o zaman kaçabiliriz!
+Dialogue: 0,0:02:58.83,0:03:00.53,Italics,Orhun,0,0,0,,Hepimiz acele edersek...
+Dialogue: 0,0:03:01.74,0:03:04.20,Italics,Orhun,0,0,0,,Hareket edebilen tek kişi ben miyim?
+Dialogue: 0,0:03:04.20,0:03:06.79,Italics,Orhun,0,0,0,,Canavarlar genellikle kalabalık insan gruplarına doğru ilerler.
+Dialogue: 0,0:03:07.40,0:03:09.11,Italics,Orhun,0,0,0,,Kara Ejderha da muhtemelen aynı şeyi yapacaktır.
+Dialogue: 0,0:03:10.31,0:03:13.29,Italics,Orhun,0,0,0,,Kaçarsam, ben hayatta kalacağım ve \N diğer herkes ölecek.
+Dialogue: 0,0:03:14.16,0:03:16.30,Italics,Orhun,0,0,0,,Yalnız gidersem, yapabilirim...
+Dialogue: 0,0:03:16.86,0:03:17.80,Italics,Orhun,0,0,0,,Hayır
+Dialogue: 0,0:03:18.48,0:03:21.08,Italics,Orhun,0,0,0,,Kara Ejderha ile savaşmam gerek!
+Dialogue: 0,0:03:21.08,0:03:26.51,Italics,Orhun,0,0,0,,Benim görevim, tüm yeni maceracıların sağ salim geri dönmelerini sağlamak!
+Dialogue: 0,0:03:27.35,0:03:29.60,Italics,Orhun,0,0,0,,Onları ihanet etmeyeceğim!
+Dialogue: 0,0:03:30.23,0:03:32.65,Italics,Orhun,0,0,0,,Ne pahasına olursa olsun onları koruyacağım!
+Dialogue: 0,0:03:33.44,0:03:37.11,Italics,Orhun,0,0,0,,Onların kaçması için zaman kazanma fikrinden vazgeçmeliyim.
+Dialogue: 0,0:03:37.62,0:03:40.11,Italics,Orhun,0,0,0,,Herkesin hayatta kalması için tek bir yol var.
+Dialogue: 0,0:03:41.07,0:03:42.80,Italics,Orhun,0,0,0,,Kara Ejderhayı yen!
+Dialogue: 0,0:03:43.72,0:03:44.87,Main,Orhun,0,0,0,,Refakatçiler!
+Dialogue: 0,0:03:45.44,0:03:48.37,Main,Orhun,0,0,0,,Çaylakları güvende tutmak için ne gerekiyorsa yapın!
+Dialogue: 0,0:03:48.37,0:03:49.62,Main,Selma,0,0,0,,Savunma pozisyonu!
+Dialogue: 0,0:03:50.93,0:03:52.64,Main,Selma,0,0,0,,Cathy! Sihirli Koruma!
+Dialogue: 0,0:03:52.64,0:03:53.90,Main,Cathy,0,0,0,,Tamam!
+Dialogue: 0,0:03:57.34,0:03:58.38,Main,Anthem,0,0,0,,Çok büyük!
+Dialogue: 0,0:03:58.38,0:03:59.00,Main,Bernard,0,0,0,,Mahvolduk!
+Dialogue: 0,0:03:59.00,0:03:59.88,Main,Orhun,0,0,0,,Etki!
+Dialogue: 0,0:04:07.89,0:04:09.76,Main,Bernard,0,0,0,,Y-Yaşıyor muyuz?
+Dialogue: 0,0:04:09.76,0:04:10.89,Main,Logan,0,0,0,,Kurtulduk...
+Dialogue: 0,0:04:11.38,0:04:13.17,Main,Selma,0,0,0,,Bu da neydi böyle?
+Dialogue: 0,0:04:13.17,0:04:16.22,Main,Selma,0,0,0,,Sanki Magic Ward \N bir an için güçlendi gibi hissettim...
+Dialogue: 0,0:04:17.21,0:04:19.15,Main,Selma,0,0,0,,Orhun muydu?
+Dialogue: 0,0:04:21.65,0:04:22.90,Main,Sophia,0,0,0,,Orhun!
+Dialogue: 0,0:04:28.58,0:04:29.58,Main,Bernard,0,0,0,,O ne yaptığını biliyordu!
+Dialogue: 0,0:04:29.58,0:04:30.64,Main,Selma,0,0,0,,Hayır, bu kasıtlıydı!
+Dialogue: 0,0:04:30.64,0:04:32.86,Main,Selma,0,0,0,,Gözleri kapalı olduğu anı bekliyor!
+Dialogue: 0,0:04:33.74,0:04:35.33,Main,Orhun,0,0,0,,Etki!
+Dialogue: 0,0:04:38.25,0:04:39.47,Main,Anthem,0,0,0,,İnanılmaz!
+Dialogue: 0,0:04:39.47,0:04:40.96,Main,Anthem,0,0,0,,Bu onu yıkmış olmalı!
+Dialogue: 0,0:04:46.72,0:04:49.22,Main,Orhun,0,0,0,,Bunun yeterli olmayacağını bilmeliydim.
+Dialogue: 0,0:04:49.92,0:04:51.54,Main,Anthem,0,0,0,,Zarar görmemiş mi?
+Dialogue: 0,0:04:51.54,0:04:53.23,Main,Cathy,0,0,0,,Hayır
+Dialogue: 0,0:04:53.23,0:04:55.26,Main,Selma,0,0,0,,Orhun, iyi misin?
+Dialogue: 0,0:04:55.26,0:04:57.10,Main,Orhun,0,0,0,,Evet, iyiyim.
+Dialogue: 0,0:04:57.10,0:05:00.98,Main,Orhun,0,0,0,,Sadece çaylakları korumaya devam et.
+Dialogue: 0,0:05:01.63,0:05:03.74,Main,Orhun,0,0,0,,Kara Ejderha ile ben ilgilenirim.
+Dialogue: 0,0:05:03.74,0:05:06.90,Main,Orhun,0,0,0,,Bir planım var. Endişelenmene gerek yok.
+Dialogue: 0,0:05:06.90,0:05:07.87,Main,Selma,0,0,0,,Ama
+Dialogue: 0,0:05:08.97,0:05:12.62,Main,Orhun,0,0,0,,Eminim ki tüm acemiler korkmuş olabilirsiniz, ama lütfen yerinizden kıpırdamayın.
+Dialogue: 0,0:05:13.25,0:05:14.37,Main,Orhun,0,0,0,,Seni koruyacağım.
+Dialogue: 0,0:05:15.01,0:05:16.12,Main,Sophia,0,0,0,,Orhun!
+Dialogue: 0,0:05:20.38,0:05:21.51,Main,Selma,0,0,0,,Orhun!
+Dialogue: 0,0:05:27.73,0:05:29.60,Main,Orhun,0,0,0,,Nereye nişan alıyorsun? Ben buradayım!
+Dialogue: 0,0:05:31.78,0:05:34.08,Main,Bernard,0,0,0,,Kara Ejderha'nın saldırısını mı üstlendi?
+Dialogue: 0,0:05:34.08,0:05:36.52,Main,Selma,0,0,0,,Bizi uzaklaştırmak için mi?
+Dialogue: 0,0:05:37.10,0:05:40.72,Italics,Selma,0,0,0,,\N Orhun'un bunu kendi başına halletmesine izin vermek gerçekten uygun mu?
+Dialogue: 0,0:05:40.72,0:05:43.42,Italics,Selma,0,0,0,,O şey Albert'ı öldürdü!
+Dialogue: 0,0:05:43.97,0:05:45.28,Italics,Selma,0,0,0,,Eğer bu tekrar olursa...
+Dialogue: 0,0:05:46.56,0:05:49.09,Italics,Selma,0,0,0,,buna dayanabilir miyim?
+Dialogue: 0,0:05:51.48,0:05:53.37,Main,Orhun,0,0,0,,Yansıtıcı Duvar!
+Dialogue: 0,0:05:57.12,0:06:00.13,Main,Orhun,0,0,0,,Kendi ateş toplarının tadını nasıl buluyorsun?
+Dialogue: 0,0:06:00.13,0:06:02.18,Main,Caroline,0,0,0,,Onun saldırısını yansıtmış mı?
+Dialogue: 0,0:06:02.18,0:06:03.78,Main,Logan,0,0,0,,Bu ne tür bir büyü?
+Dialogue: 0,0:06:03.78,0:06:05.88,Main,Logan,0,0,0,,Böyle bir şeyi hiç görmedim ve duymadım!
+Dialogue: 0,0:06:06.72,0:06:08.48,Italics,Orhun,0,0,0,,Yansıtıcı Duvar...
+Dialogue: 0,0:06:08.48,0:06:11.86,Italics,Orhun,0,0,0,,Benim bulduğum orijinal büyülerden biri,
+Dialogue: 0,0:06:11.86,0:06:14.89,Italics,Orhun,0,0,0,,\N'nin dokunduğu her şeyi kullanıcısına geri yansıtan.
+Dialogue: 0,0:06:19.27,0:06:21.40,Main,Orhun,0,0,0,,Hala zarar görmemiş, ha?
+Dialogue: 0,0:06:22.15,0:06:26.40,Main,Orhun,0,0,0,,Görünüşe göre biraz risk alacağım.
+Dialogue: 0,0:06:32.70,0:06:34.08,Main,Orhun,0,0,0,,Durum Yükseldi!
+Dialogue: 0,0:06:35.39,0:06:37.24,Italics,Selma,0,0,0,,Tüm istatistiklerinde artış...
+Dialogue: 0,0:06:37.24,0:06:40.50,Italics,Selma,0,0,0,,Paralel, \N eşzamanlı yapı oluşturma yapan üst düzey bir büyü
+Dialogue: 0,0:06:40.50,0:06:43.88,Italics,Selma,0,0,0,,altı tür desteğin tümü \N tüm istatistikleri artırmak için büyü.
+Dialogue: 0,0:06:43.88,0:06:48.10,Italics,Selma,0,0,0,,Ancak Orhun'un destek büyüsü \N sadece istatistikleri iki katına çıkarabilir...
+Dialogue: 0,0:06:48.10,0:06:49.86,Italics,Selma,0,0,0,,Bu yeterli değil!
+Dialogue: 0,0:06:49.86,0:06:51.39,Italics,Selma,0,0,0,,Yardım etmeli miyim?
+Dialogue: 0,0:06:51.39,0:06:53.64,Main,Orhun,0,0,0,,Durum Yükseldi. İki Katına Çıktı.
+Dialogue: 0,0:06:56.50,0:06:57.64,Italics,Selma,0,0,0,,Ne?
+Dialogue: 0,0:06:57.64,0:06:59.98,Main,Orhun,0,0,0,,Durum Yükseldi. Üç Kat.
+Dialogue: 0,0:07:02.77,0:07:04.19,Main,Orhun,0,0,0,,Dörtlü.
+Dialogue: 0,0:07:07.28,0:07:09.81,Main,Orhun,0,0,0,,Son olarak... Beşli!
+Dialogue: 0,0:07:13.68,0:07:17.54,Italics,Selma,0,0,0,,İmkansız... Aynı buff'ı birden fazla kez kullanamazsın!
+Dialogue: 0,0:07:17.91,0:07:21.79,Italics,Selma,0,0,0,,Yeniden yaparsan, etkisi geçene kadar zaman sıfırlanacaktır...
+Dialogue: 0,0:07:22.09,0:07:25.04,Italics,Selma,0,0,0,,Ve bunu arka arkaya beş kez mi attı?
+Dialogue: 0,0:07:34.35,0:07:35.30,Main,Sophia,0,0,0,,Orhun!
+Dialogue: 0,0:07:44.99,0:07:46.91,Main,Logan,0,0,0,,O kadar kısa sürede o kadar uzağa mı gitti?
+Dialogue: 0,0:07:46.91,0:07:48.32,Main,Caroline,0,0,0,,O çok hızlı!
+Dialogue: 0,0:07:48.93,0:07:50.82,Main,Sophia,0,0,0,,Vay canına...
+Dialogue: 0,0:07:51.36,0:07:55.07,Italics,Selma,0,0,0,,Bu sadece basit bir destek büyüsü değil.
+Dialogue: 0,0:07:55.53,0:07:58.24,Italics,Selma,0,0,0,,{\pos(632,200)}CVN: Gör kahraman Partisi Göre\No Beğenmediğniz Orhun neler yapıyo
+Dialogue: 0,0:07:55.53,0:07:58.24,Italics,Selma,0,0,0,,Kimse böyle bir büyü görmemiştir.
+Dialogue: 0,0:07:58.24,0:08:01.46,Italics,Selma,0,0,0,,Bu da onun orijinal büyülerinden biri mi?
+Dialogue: 0,0:08:02.11,0:08:06.59,Italics,Selma,0,0,0,,Kaç tane gizli güç saklıyorsun?
+Dialogue: 0,0:08:07.94,0:08:12.09,Italics,Selma,0,0,0,,Artık bile söyleyemiyorum...
+Dialogue: 0,0:08:12.97,0:08:17.04,Italics,Orhun,0,0,0,,Beş ardışık döküm, statümü 32 kez artırdı.
+Dialogue: 0,0:08:17.04,0:08:19.94,Italics,Orhun,0,0,0,,Ama bunu uzun süre sürdüremeyeceğim.
+Dialogue: 0,0:08:20.75,0:08:26.06,Italics,Orhun,0,0,0,,Çünkü temelde aynı anda 30 farklı büyü yapıyorum.
+Dialogue: 0,0:08:26.06,0:08:29.49,Italics,Orhun,0,0,0,,Büyücü üzerindeki yük çok fazla.
+Dialogue: 0,0:08:32.14,0:08:34.24,Italics,Orhun,0,0,0,,Acele edip bunu hemen bitirmem lazım!
+Dialogue: 0,0:08:43.32,0:08:44.58,Main,Logan,0,0,0,,Hayır
+Dialogue: 0,0:08:44.58,0:08:45.59,Main,Orhun,0,0,0,,İyi fikir.
+Dialogue: 0,0:08:45.59,0:08:46.33,Main,Orhun,0,0,0,,Ama
+Dialogue: 0,0:08:49.34,0:08:50.99,Main,Caroline,0,0,0,,Havada bir basamak mı yaptı?
+Dialogue: 0,0:08:50.99,0:08:52.71,Main,Logan,0,0,0,,Bu da sihir mi?
+Dialogue: 0,0:08:53.11,0:08:55.97,Italics,Orhun,0,0,0,,Bu sihir değil. Özel bir yetenek.
+Dialogue: 0,0:08:56.61,0:09:01.33,Italics,Orhun,0,0,0,,Nadiren, insanlar “özel yetenekler” adı verilen güçlere sahip olurlar.
+Dialogue: 0,0:09:01.33,0:09:04.39,Italics,Orhun,0,0,0,,Onlar, büyü veya sihirden farklı, başka bir tür güçtür.
+Dialogue: 0,0:09:04.39,0:09:07.73,Italics,Orhun,0,0,0,,bize normalde sahip olmadığımız yetenekler kazandırır.
+Dialogue: 0,0:09:08.27,0:09:11.25,Italics,Orhun,0,0,0,,Benim yeteneğim Sihirli Yakınsama.
+Dialogue: 0,0:09:11.25,0:09:14.32,Italics,Orhun,0,0,0,,Sihri tek bir noktada toplayıp somutlaştırabilirim.
+Dialogue: 0,0:09:14.32,0:09:18.48,Italics,Orhun,0,0,0,,Ayrıca o sihirli \N'nin beni havada uçurmasını da sağlayabilirim.
+Dialogue: 0,0:09:18.48,0:09:20.79,Italics,Orhun,0,0,0,,Bu, pek çok kullanım alanı olan bir yetenektir.
+Dialogue: 0,0:09:21.25,0:09:26.37,Italics,Orhun,0,0,0,,Oliver de aynı yeteneğe sahip, ancak o bunu sadece saldırı için kullanıyor.
+Dialogue: 0,0:09:26.68,0:09:27.94,Main,Orhun,0,0,0,,Keskinlik Artışı!
+Dialogue: 0,0:09:27.94,0:09:29.13,Main,Orhun,0,0,0,,Dayanıklı Artır!!
+Dialogue: 0,0:09:29.52,0:09:31.19,Main,Orhun,0,0,0,,Haydi bakalım, Kara Ejder!
+Dialogue: 0,0:09:31.87,0:09:33.55,Main,Orhun,0,0,0,,Etki!
+Dialogue: 0,0:09:39.89,0:09:41.08,Main,Logan,0,0,0,,Başardı!
+Dialogue: 0,0:09:41.08,0:09:43.14,Main,Caroline,0,0,0,,O kalın pulları aştı!
+Dialogue: 0,0:09:43.41,0:09:45.64,Main,Sophia,0,0,0,,Sen harikasın, Orhun!
+Dialogue: 0,0:09:49.65,0:09:50.65,Main,Selma,0,0,0,,Orhun!
+Dialogue: 0,0:09:52.65,0:09:54.69,Italics,Selma,0,0,0,,Tabii ki iyi değil!
+Dialogue: 0,0:09:54.69,0:09:57.46,Italics,Selma,0,0,0,,Normalde, destek büyüsünü zincirleme yapmak imkansızdır.
+Dialogue: 0,0:09:57.46,0:09:59.75,Italics,Selma,0,0,0,,Ayrıca silahına \N efektleri de ekliyor.
+Dialogue: 0,0:09:59.75,0:10:04.12,Italics,Selma,0,0,0,,Ve o, “Etki” adlı kendine özgü \N büyüsünü kullanmaya devam ediyor.
+Dialogue: 0,0:10:04.12,0:10:08.17,Italics,Selma,0,0,0,,Gerçekten Karanlık Ejderha'yı tek başına yenmeyi mi planlıyor?
+Dialogue: 0,0:10:08.88,0:10:11.67,Italics,Selma,0,0,0,,Ama ne yapabilirim ki?
+Dialogue: 0,0:10:12.17,0:10:14.46,Italics,Selma,0,0,0,,Gece Gökyüzü Gümüş Tavşanlarının en güçlü üyeleri \N
+Dialogue: 0,0:10:14.46,0:10:16.24,Italics,Selma,0,0,0,,o şeyi birlikte yenemedik.
+Dialogue: 0,0:10:16.24,0:10:20.18,Italics,Selma,0,0,0,,Tek başıma katılsam bile ne yapabilirim ki?
+Dialogue: 0,0:10:26.30,0:10:30.69,Italics,Selma,0,0,0,,Bu içimde yükselen titreme hissi de ne?
+Dialogue: 0,0:10:31.02,0:10:32.85,Italics,Selma,0,0,0,,Orhun için endişeleniyor muyum?
+Dialogue: 0,0:10:32.85,0:10:34.40,Italics,Selma,0,0,0,,Hayır, öyle değil.
+Dialogue: 0,0:10:35.12,0:10:36.18,Italics,Selma,0,0,0,,Bu...
+Dialogue: 0,0:10:37.04,0:10:38.88,Italics,Selma,0,0,0,,Anlamıyorum.
+Dialogue: 0,0:10:38.88,0:10:41.33,Italics,Selma,0,0,0,,Bana ne oldu?
+Dialogue: 0,0:10:42.72,0:10:44.66,Italics,Selma,0,0,0,,Kendine gel!
+Dialogue: 0,0:10:48.00,0:10:52.51,Italics,Selma,0,0,0,,Şu anda yapabileceğim tek şey, Orhun'nın dövüşe konsantre olmasını sağlamak...
+Dialogue: 0,0:10:52.51,0:10:55.34,Italics,Selma,0,0,0,,burada yeni işe alınanları koruyarak!
+Dialogue: 0,0:11:00.34,0:11:01.34,Main,Orhun,0,0,0,,Hayır
+Dialogue: 0,0:11:09.27,0:11:10.77,Main,Sophia,0,0,0,,Orhun!
+Dialogue: 0,0:11:53.40,0:11:55.29,Italics,Orhun,0,0,0,,Uzak hatıraların dibinde...
+Dialogue: 0,0:11:55.88,0:12:00.03,Italics,Orhun,0,0,0,,Oliver ve ben henüz gençken...
+Dialogue: 0,0:12:00.79,0:12:03.53,Flashback,Young Orhun,0,0,0,,Eğitim yaparken...
+Dialogue: 0,0:12:04.40,0:12:07.03,Flashback,Young Orhun,0,0,0,,haydutlar köye saldırdı...
+Dialogue: 0,0:12:08.31,0:12:10.46,Flashback,Young Orhun,0,0,0,,ve bunu herkese yaptı.
+Dialogue: 0,0:12:48.50,0:12:52.02,Flashback,Oliver,0,0,0,,Orhun, daha güçlü olacağım.
+Dialogue: 0,0:12:53.10,0:12:55.83,Flashback,Oliver,0,0,0,,Böylece kimse benden bir daha çalamayacak!
+Dialogue: 0,0:12:56.66,0:12:58.68,Flashback,Orhun,0,0,0,,Daha güçlü olacağım.
+Dialogue: 0,0:12:58.68,0:13:02.66,Flashback,Orhun,0,0,0,,Yani ne kadar korkunç şeyler olursa olsun, hiçbir şey kaybetmeyeceğim.
+Dialogue: 0,0:13:03.83,0:13:05.72,Flashback,Orhun,0,0,0,,Ne olursa olsun...
+Dialogue: 0,0:13:06.62,0:13:10.43,Flashback,Orhun,0,0,0,,Sevdiğim şeyleri korumak için yeterince güçlü olacağım!
+Dialogue: 0,0:13:16.82,0:13:20.36,Italics,Orhun,0,0,0,,Doğru. Yemin ettim...
+Dialogue: 0,0:13:21.04,0:13:23.47,Italics,Orhun,0,0,0,,bir maceracı olacağımı ve bilgi ve güç arayışına çıkacağımı...
+Dialogue: 0,0:13:23.47,0:13:26.71,Italics,Orhun,0,0,0,,böylece bu dünyanın dehşetleri \N beni yıkamadı.
+Dialogue: 0,0:13:27.61,0:13:30.54,Italics,Orhun,0,0,0,,Herkesi korumak için yapmam gereken şey...
+Dialogue: 0,0:13:30.54,0:13:33.69,Italics,Orhun,0,0,0,,önümdeki \N dehşeti uzaklaştırmaktır!
+Dialogue: 0,0:13:33.69,0:13:35.94,Italics,Orhun,0,0,0,,Bunda hiç zor bir şey yok.
+Dialogue: 0,0:13:35.94,0:13:38.52,Italics,Orhun,0,0,0,,Sadece önümdeki düşmanı yenmem gerekiyor!
+Dialogue: 0,0:13:39.13,0:13:41.15,Main,Sophia,0,0,0,,Orhun! Çok sevindim!
+Dialogue: 0,0:13:41.15,0:13:43.42,Main,Logan,0,0,0,,Onun bu kadar kolay pes etmeyeceğini biliyordum!
+Dialogue: 0,0:13:43.42,0:13:45.13,Main,Caroline,0,0,0,,Sen en iyisisin, bayım!
+Dialogue: 0,0:13:45.52,0:13:48.80,Main,Selma,0,0,0,,Mor sis'yi silaha dönüştürüp ateşlediğinde,
+Dialogue: 0,0:13:48.80,0:13:50.64,Main,Selma,0,0,0,,Bu Kara Ejderha'nın en güçlü büyüsüdür.
+Dialogue: 0,0:13:51.27,0:13:55.27,Main,Selma,0,0,0,,O kadar çok maceracıyı öldürdü ki, artık neredeyse korkunun ta kendisi haline geldi.
+Dialogue: 0,0:13:56.11,0:13:58.14,Main,Selma,0,0,0,,Bununla nasıl mücadele edeceksin, Orhun?
+Dialogue: 0,0:13:58.80,0:14:01.89,Italics,Orhun,0,0,0,,Muhtemelen benim Sihirli Yakınsama'ma benziyor.
+Dialogue: 0,0:14:01.89,0:14:04.65,Italics,Orhun,0,0,0,,Çevresindeki büyülü gücü kullanır.
+Dialogue: 0,0:14:04.65,0:14:06.62,Italics,Orhun,0,0,0,,Ejderha onu birçok farklı şekilde dönüştürür.
+Dialogue: 0,0:14:06.62,0:14:09.13,Italics,Orhun,0,0,0,,yi her yönden saldırıya uğratmayı mümkün kılıyor.
+Dialogue: 0,0:14:09.13,0:14:11.58,Italics,Orhun,0,0,0,,Ama geçen sefer onu yendiğimde,
+Dialogue: 0,0:14:11.58,0:14:13.90,Italics,Orhun,0,0,0,,çok daha fazla farklı türü vardı...
+Dialogue: 0,0:14:13.90,0:14:17.91,Italics,Orhun,0,0,0,,Bu, Kara Ejderha \N'nin henüz ciddi olmadığı anlamına gelir.
+Dialogue: 0,0:14:18.18,0:14:21.38,Main,Orhun,0,0,0,,Tamam, beni küçümsemeye devam et o zaman!
+Dialogue: 0,0:14:21.84,0:14:22.63,Main,Orhun,0,0,0,,İşte başlıyorum!
+Dialogue: 0,0:14:26.11,0:14:27.29,Main,Orhun,0,0,0,,Ateş Et!
+Dialogue: 0,0:14:31.48,0:14:33.18,Main,Orhun,0,0,0,,Gerçekten çok zor!
+Dialogue: 0,0:14:38.69,0:14:40.19,Main,Orhun,0,0,0,,Ve aynı zamanda ısrarcı!
+Dialogue: 0,0:14:42.31,0:14:43.36,Main,Orhun,0,0,0,,Kaya Duvarı!
+Dialogue: 0,0:14:45.92,0:14:47.82,Main,Orhun,0,0,0,,Saldırı şekli değişti!
+Dialogue: 0,0:14:48.10,0:14:49.98,Main,Orhun,0,0,0,,Ve çok daha hızlı!
+Dialogue: 0,0:14:52.16,0:14:53.58,Italics,Orhun,0,0,0,,Kaçınamıyorum!
+Dialogue: 0,0:14:59.07,0:15:02.38,Main,Orhun,0,0,0,,Her ihtimale karşı oraya bir Yansıtıcı \N Duvar kurduğuma memnunum.
+Dialogue: 0,0:15:07.30,0:15:09.55,Main,Logan,0,0,0,,Ne inanılmaz bir dövüştü...
+Dialogue: 0,0:15:10.11,0:15:11.38,Main,Sophia,0,0,0,,Orhun...
+Dialogue: 0,0:15:11.38,0:15:13.70,Main,Bernard,0,0,0,,O, Kara Ejderha'ya yetişiyor!
+Dialogue: 0,0:15:13.70,0:15:15.81,Main,Bernard,0,0,0,,Kazanabilir mi?!
+Dialogue: 0,0:15:15.81,0:15:19.52,Main,Selma,0,0,0,,Hayır, o ölümcül darbeyi vuramaz.
+Dialogue: 0,0:15:21.13,0:15:22.86,Italics,Selma,0,0,0,,Bu hızla...
+Dialogue: 0,0:15:22.86,0:15:24.29,Italics,Orhun,0,0,0,,Bu zor...
+Dialogue: 0,0:15:25.00,0:15:28.21,Italics,Orhun,0,0,0,,Geçen sefer, Derick ve Luna mor sisi engellediler.
+Dialogue: 0,0:15:28.72,0:15:30.29,Italics,Orhun,0,0,0,,Anneli onu büyüsüyle sabit tuttu,
+Dialogue: 0,0:15:30.29,0:15:33.28,Italics,Orhun,0,0,0,,ve Oliver'ın İlahi Parlaması \N bizim gizli silahımızdı.
+Dialogue: 0,0:15:33.28,0:15:35.03,Italics,Orhun,0,0,0,,Ama şu anda hiçbiri burada değil.
+Dialogue: 0,0:15:36.65,0:15:40.32,Italics,Orhun,0,0,0,,Bütün işlerini kendim mi yapmam gerekiyor?
+Dialogue: 0,0:15:42.42,0:15:45.36,Main,Orhun,0,0,0,,Ne olursa olsun, bunun beni yenmesine izin vermeyeceğime yemin ettim!
+Dialogue: 0,0:15:45.36,0:15:48.34,Main,Orhun,0,0,0,,Hiçbirine güvenmeden Kara Ejderhayı yenmek için...
+Dialogue: 0,0:15:48.63,0:15:49.59,Main,Orhun,0,0,0,,Ben...
+Dialogue: 0,0:15:54.72,0:15:56.55,Main,Caroline,0,0,0,,Bu... aktif savunma!
+Dialogue: 0,0:15:56.88,0:15:59.06,Main,Caroline,0,0,0,,Dodge tipi bir savunmacı böyle hareket eder!
+Dialogue: 0,0:15:59.06,0:16:02.71,Main,Caroline,0,0,0,,Kara Ejderha sıkışıp kaldı ve istediği gibi saldıramıyor!
+Dialogue: 0,0:16:02.71,0:16:07.15,Main,Logan,0,0,0,,Ve onu uzaklaştırıyor \N böylece bize saldırmasın!
+Dialogue: 0,0:16:08.57,0:16:10.72,Italics,Sophia,0,0,0,,O bizi koruyor...
+Dialogue: 0,0:16:10.72,0:16:13.53,Italics,Sophia,0,0,0,,Bu durumda bile, \N o bize göz kulak oluyor!
+Dialogue: 0,0:16:19.00,0:16:20.33,Main,Selma,0,0,0,,Paralel Yapı?
+Dialogue: 0,0:16:20.33,0:16:21.91,Main,Selma,0,0,0,,O tüm bu büyüler birden mi yapıyor?
+Dialogue: 0,0:16:22.24,0:16:27.19,Main,Caroline,0,0,0,,O, onlarca yapabilen insanlar olduğunu söyledi...
+Dialogue: 0,0:16:27.19,0:16:30.92,Main,Logan,0,0,0,,Demek Büyük Zindanın dibini hedefleyen bir maceracı böyle savaşıyor!
+Dialogue: 0,0:16:31.44,0:16:35.43,Main,Orhun,0,0,0,,Eminim ki bir seferde bu kadar çok büyü yapmamışsındır!
+Dialogue: 0,0:16:35.83,0:16:38.16,Italics,Orhun,0,0,0,,Seni bu şekilde yenmeyi beklemiyordum.
+Dialogue: 0,0:16:38.16,0:16:41.12,Italics,Orhun,0,0,0,,Bu yüzden bir büyü daha hazırladım.
+Dialogue: 0,0:16:47.76,0:16:49.39,Italics,Orhun,0,0,0,,Yükselt ve Tekrarla.
+Dialogue: 0,0:16:49.39,0:16:52.42,Italics,Orhun,0,0,0,,Çevredeki büyülü gücü emen bir tuzak büyüsü.
+Dialogue: 0,0:16:52.42,0:16:55.82,Italics,Orhun,0,0,0,,ve daha önce'den yaptığı aynı saldırıyı daha yüksek yoğunlukta tekrarlar!
+Dialogue: 0,0:16:56.13,0:17:00.58,Italics,Orhun,0,0,0,,Bu, benim Sihirli Yakınsama yeteneğimi kullanan orijinal büyülerimden biridir!
+Dialogue: 0,0:17:00.58,0:17:05.83,Main,Selma,0,0,0,,Böyle saldırmak için tuzak \N büyüsünü kullanabileceğini bilmiyordum...
+Dialogue: 0,0:17:06.30,0:17:08.30,Main,Logan,0,0,0,,Savaş alanını kendi avantajına çevirmek...
+Dialogue: 0,0:17:08.30,0:17:10.96,Main,Logan,0,0,0,,Demek büyücü böyle savaşıyor!
+Dialogue: 0,0:17:11.23,0:17:12.28,Main,Orhun,0,0,0,,Ee?
+Dialogue: 0,0:17:12.28,0:17:14.97,Main,Orhun,0,0,0,,Anneli'nin saldırı büyüsü kadar güçlü!
+Dialogue: 0,0:17:20.22,0:17:22.43,Main,Orhun,0,0,0,,Sen güçlüsün, Kara Ejderha.
+Dialogue: 0,0:17:22.43,0:17:25.61,Main,Orhun,0,0,0,,Ama Kahramanlar Partisi'ndeyken,
+Dialogue: 0,0:17:25.61,0:17:28.35,Main,Orhun,0,0,0,,Öldürücü darbeyi indirmek için bir\N saldırganımız daha vardı.
+Dialogue: 0,0:17:28.98,0:17:30.79,Main,Orhun,0,0,0,,Sihirli Birleşim!
+Dialogue: 0,0:17:32.82,0:17:35.49,Main,Orhun,0,0,0,,Oliver'inki gibi altın değil...
+Dialogue: 0,0:17:37.84,0:17:40.99,Main,Orhun,0,0,0,,Kara bıçağımın tadına bak!
+Dialogue: 0,0:17:42.20,0:17:43.73,Italics,Orhun,0,0,0,,İlahi Flaş!
+Dialogue: 0,0:17:46.37,0:17:49.71,Italics,Orhun,0,0,0,,Kahramanlar Partisi'deki her rolü yerine getirebilecek biri!
+Dialogue: 0,0:17:49.71,0:17:52.71,Italics,Orhun,0,0,0,,Ben de öyle bir kılıç ustası olmak istiyorum!
+Dialogue: 0,0:17:54.42,0:17:55.42,Main,Orhun,0,0,0,,Etki!
+Dialogue: 0,0:18:09.94,0:18:12.21,Main,Orhun,0,0,0,,Kendi kuyruğunu feda mı etti?
+Dialogue: 0,0:18:12.21,0:18:13.19,Main,Orhun,0,0,0,,Kahretsin...
+Dialogue: 0,0:18:13.19,0:18:15.10,Main,Orhun,0,0,0,,O bile bitiremedi mi?
+Dialogue: 0,0:18:15.94,0:18:19.95,Main,Orhun,0,0,0,,Hayır... Derin kat patronundan bunu beklemeliydim.
+Dialogue: 0,0:18:20.63,0:18:23.62,Main,Orhun,0,0,0,,Ama benim de kaybetmemem için bir nedenim var.
+Dialogue: 0,0:18:26.93,0:18:29.04,Main,Orhun,0,0,0,,Bu bir teke tek mücadele, \N ve ikimiz de geri çekilemeyiz!
+Dialogue: 0,0:18:29.04,0:18:31.99,Main,Orhun,0,0,0,,Gerçek mücadele daha yeni başlıyor!
+Dialogue: 0,0:18:38.56,0:18:40.20,Italics,Orhun,0,0,0,,Hayır! Güçlendirmelerim!
+Dialogue: 0,0:18:40.20,0:18:41.37,Main,Selma,0,0,0,,Zamanı mı doldu?
+Dialogue: 0,0:18:41.37,0:18:43.28,Main,Selma,0,0,0,,Durum Yükseltme büyüsü yapacağım!
+Dialogue: 0,0:18:43.28,0:18:45.31,Main,Selma,0,0,0,,Büyüm işe yaramayacak mı?
+Dialogue: 0,0:18:45.31,0:18:46.72,Main,Orhun,0,0,0,,Senin güçlendirmelerine ihtiyacım yok!
+Dialogue: 0,0:18:46.72,0:18:48.29,Main,Orhun,0,0,0,,Beni alıştığım şeylerden uzaklaştıracaklar!
+Dialogue: 0,0:18:48.29,0:18:50.73,Main,Orhun,0,0,0,,Kendinizi korumaya odaklanın!
+Dialogue: 0,0:18:51.03,0:18:51.84,Main,Selma,0,0,0,,Orhun?
+Dialogue: 0,0:18:52.40,0:18:53.89,Italics,Selma,0,0,0,,Bunu yapan Orhun muydu?
+Dialogue: 0,0:18:54.42,0:18:57.49,Italics,Selma,0,0,0,,Benim desteğime ihtiyacı olmadığını mı söylüyor?
+Dialogue: 0,0:18:58.42,0:19:00.91,Italics,Selma,0,0,0,,Benim için yer olmadığını biliyorum
+Dialogue: 0,0:19:00.91,0:19:03.49,Italics,Selma,0,0,0,,seninle \N ve Kara Ejderha arasındaki savaşta.
+Dialogue: 0,0:19:05.15,0:19:07.52,Main,Orhun,0,0,0,,Durum Yükseldi! Beş Kat!
+Dialogue: 0,0:19:10.50,0:19:12.25,Main,Orhun,0,0,0,,Gök Gürültüsü Şoku!
+Dialogue: 0,0:19:13.97,0:19:15.50,Main,Orhun,0,0,0,,Darbe
+Dialogue: 0,0:19:23.47,0:19:25.50,Main,Caroline,0,0,0,,Kara Ejderha düştü mü?
+Dialogue: 0,0:19:25.50,0:19:26.97,Main,Logan,0,0,0,,Sonunda kazandı mı?
+Dialogue: 0,0:19:30.40,0:19:31.69,Main,Caroline,0,0,0,,Hayatta
+Dialogue: 0,0:19:35.30,0:19:37.31,Italics,Orhun,0,0,0,,Bu bile yetmez mi?
+Dialogue: 0,0:19:37.31,0:19:40.29,Italics,Orhun,0,0,0,,Bu delilik!
+Dialogue: 0,0:19:40.83,0:19:43.62,Italics,Orhun,0,0,0,,Ama bu yüzden...
+Dialogue: 0,0:19:46.40,0:19:47.37,Main,Selma,0,0,0,,Onun kılıcı!
+Dialogue: 0,0:19:50.75,0:19:53.47,Main,Orhun,0,0,0,,Görünüşe göre ikimiz de son nefesimizi veriyoruz, ha?
+Dialogue: 0,0:19:53.47,0:19:55.80,Main,Orhun,0,0,0,,Bunu bitirelim.
+Dialogue: 0,0:19:58.13,0:19:59.63,Main,Orhun,0,0,0,,Yıkım!
+Dialogue: 0,0:20:10.53,0:20:12.08,Main,Selma,0,0,0,,Bu baskı...
+Dialogue: 0,0:20:12.08,0:20:13.90,Main,Selma,0,0,0,,Sihirli güç inanılmaz!
+Dialogue: 0,0:20:15.00,0:20:16.90,Main,Selma,0,0,0,,O nedir?
+Dialogue: 0,0:20:21.40,0:20:23.43,Main,Logan,0,0,0,,Koyu siyah bir büyük kılıç...
+Dialogue: 0,0:20:23.43,0:20:24.91,Main,Caroline,0,0,0,,Nasıl bu kadar büyük olabilir?
+Dialogue: 0,0:20:26.09,0:20:27.73,Italics,Orhun,0,0,0,,“Yıkım.”
+Dialogue: 0,0:20:28.54,0:20:33.83,Italics,Orhun,0,0,0,,Yüksek derecede yoğunlaştırılmış büyüyü bir kılıca dönüştüren bir büyü.
+Dialogue: 0,0:20:34.67,0:20:40.14,Italics,Orhun,0,0,0,,Etkisi olmasa bile, gücü özel seviye büyülerin çok üzerindedir.
+Dialogue: 0,0:20:45.93,0:20:47.46,Main,Orhun,0,0,0,,Yansıtıcı Duvar!
+Dialogue: 0,0:21:05.78,0:21:07.03,Main,Orhun,0,0,0,,Ağırlık Artır
+Dialogue: 0,0:21:10.27,0:21:12.04,Main,Orhun,0,0,0,,Darbe
+Dialogue: 0,0:21:51.58,0:21:52.84,Main,Rookies,0,0,0,,Wow!
+Dialogue: 0,0:21:52.84,0:21:53.92,Main,Rookies,0,0,0,,Kurtulduk!
+Dialogue: 0,0:21:53.92,0:21:55.55,Main,Rookies,0,0,0,,O, Kara Ejderhayı yendi!
