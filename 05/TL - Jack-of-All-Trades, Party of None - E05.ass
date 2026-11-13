@@ -1,0 +1,400 @@
+[Script Info]
+Title: pn-SomeSubs - Jack-of-All-Trades, Party of None
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main,Arial Black,79,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Italics,Arial Black,79,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Flashback,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Flashback_Italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Narration,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback_Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.41,0:00:10.24,Sign_Basic,Sign,0,0,0,,HER İŞİ YAPAN, HİÇBİR PARTİYE ÜYESİ OLMAYAN
+Dialogue: 0,0:00:10.53,0:00:17.79,Sign_Basic,Sign,0,0,0,,HER İŞİ YAPAN, HİÇBİR PARTİYE ÜYESİ OLMAYAN
+Dialogue: 0,0:01:29.98,0:01:33.98,Sign_Basic,Sign,0,0,0,,BÖLÜM 5: HER ŞEYİ BİLEN ADAMIN KÖTÜ HİSSİYATI GERÇEKLEŞİR
+Dialogue: 0,0:01:34.36,0:01:38.99,Main,Orhun,0,0,0,,{\pos(404,296)}Çevirmen: Hana\NEncoder: SendemiBruüts\NEncoder: Hana
+Dialogue: 0,0:01:34.36,0:01:38.99,Main,Orhun,0,0,0,,Son gün için hedefimiz, 36. kattan 50. kata kadar zindanı temizlemek.
+Dialogue: 0,0:01:39.44,0:01:41.27,Main,Orhun,0,0,0,,51. kata ulaştığımızda, şunu kullanacağız
+Dialogue: 0,0:01:41.27,0:01:43.99,Main,Orhun,0,0,0,,ışınlanma kristallerimizi kullanarak geri dönüp günü bitirelim.
+Dialogue: 0,0:01:43.99,0:01:46.12,Main,Sophia,0,0,0,,Tamam, elimizden geleni yapacağız!
+Dialogue: 0,0:01:49.09,0:01:51.05,Italics,Orhun,0,0,0,,Bu his nedir?
+Dialogue: 0,0:01:52.06,0:01:53.29,Italics,Orhun,0,0,0,,Plan aynı kalıyor.
+Dialogue: 0,0:01:53.29,0:01:56.88,Italics,Orhun,0,0,0,,Yeni gelenlerin başa çıkamayacağı canavarlarla biz ilgileneceğiz.
+Dialogue: 0,0:01:56.88,0:01:59.96,Italics,Orhun,0,0,0,,ve biz refakatçiler de patron dövüşlerine katılacağız.
+Dialogue: 0,0:02:00.56,0:02:02.97,Italics,Orhun,0,0,0,,Bu yapılabilir olmalı.
+Dialogue: 0,0:02:03.62,0:02:08.89,Italics,Orhun,0,0,0,,Ama nedense, bugün Büyük Zindan'dan korkunç bir şey hissediyorum.
+Dialogue: 0,0:02:13.32,0:02:16.03,Italics,Orhun,0,0,0,,Bana bakışından mı?
+Dialogue: 0,0:02:16.29,0:02:18.17,Main,Caroline,0,0,0,,Hey, hey! Efendim!
+Dialogue: 0,0:02:19.17,0:02:21.71,Main,Caroline,0,0,0,,Bugün ne tür canavarlar göreceğiz?
+Dialogue: 0,0:02:21.71,0:02:24.54,Main,Caroline,0,0,0,,Onları Öldürmek için sabırsızlanıyorum! Ya sen?
+Dialogue: 0,0:02:26.31,0:02:29.84,Main,Orhun,0,0,0,,Caroline, her seferinde canavarlara öylece saldırmaya devam edemezsin.
+Dialogue: 0,0:02:29.84,0:02:32.67,Main,Orhun,0,0,0,,Bir Defender olduğunuzu unutmamalısınız.
+Dialogue: 0,0:02:32.67,0:02:36.53,Main,Caroline,0,0,0,,Ama bu durumda diğer herkesin daha fazla çalışması gerekir!
+Dialogue: 0,0:02:36.53,0:02:40.30,Main,Caroline,0,0,0,,Ön saflarda savaşmak istiyorum!
+Dialogue: 0,0:02:40.56,0:02:45.43,Main,Caroline,0,0,0,,Bu yüzden dövüşme konusunda biraz daha tavsiye istiyorum...
+Dialogue: 0,0:02:45.81,0:02:48.83,Main,Orhun,0,0,0,,Bir birey olarak yapabileceklerinizin bir sınırı vardır.
+Dialogue: 0,0:02:48.83,0:02:53.19,Main,Orhun,0,0,0,,Henüz yeniyseniz, kendinizi bir ekibin parçası olarak görmeye başlamalısınız.
+Dialogue: 0,0:02:54.29,0:02:55.44,Main,Caroline,0,0,0,,Hiç eğlenceli değilsin.
+Dialogue: 0,0:02:55.44,0:02:58.75,Main,Logan,0,0,0,,Orhun sana tavsiye verecek kadar nazik davranıyor.
+Dialogue: 0,0:02:58.75,0:03:02.20,Main,Logan,0,0,0,,Ünlü Albert bile birlikte çalışmanın önemli olduğunu söylemiştir.
+Dialogue: 0,0:03:02.58,0:03:05.95,Main,Orhun,0,0,0,,Albert derken, Albert Sensible'ı mı kastediyorsun?
+Dialogue: 0,0:03:06.29,0:03:07.70,Main,Logan,0,0,0,,Onu tanıyor musun?
+Dialogue: 0,0:03:10.01,0:03:13.07,Main,Orhun,0,0,0,,O, Night Sky Silver Rabbits takımının tartışmasız asıydı.
+Dialogue: 0,0:03:13.07,0:03:14.95,Main,Orhun,0,0,0,,Herkes onu tanır.
+Dialogue: 0,0:03:15.62,0:03:22.47,Main,Orhun,0,0,0,,Geçen yıl 92. katta Kara Ejderha ile savaşırken öldüğünü duydum..
+Dialogue: 0,0:03:22.79,0:03:26.35,Main,Logan,0,0,0,,O hala Silver Rabbits'teki herkesin kahramanıdır.
+Dialogue: 0,0:03:26.35,0:03:30.73,Main,Caroline,0,0,0,,Ama o, bir arkadaşını korurken öldü.
+Dialogue: 0,0:03:30.73,0:03:34.32,Main,Caroline,0,0,0,,Aslında onu koruması gereken kişi Defender'dı.
+Dialogue: 0,0:03:34.32,0:03:35.11,Main,Logan,0,0,0,,Hey...
+Dialogue: 0,0:03:35.45,0:03:39.68,Main,Caroline,0,0,0,,Ölürse herkesin gülümsemesi kaybolacağını biliyordu...
+Dialogue: 0,0:03:40.14,0:03:42.62,Main,Caroline,0,0,0,,Eğer o ölürse, geriye hiçbir şey kalmayacaktı...
+Dialogue: 0,0:03:43.37,0:03:48.27,Main,Caroline,0,0,0,,Yani, koruduğunuz insanları kendinizden uzak tutmanız yeterlidir.
+Dialogue: 0,0:03:48.85,0:03:51.82,Main,Caroline,0,0,0,,Eğer cephede tek başıma savaşırsam,
+Dialogue: 0,0:03:51.82,0:03:54.68,Main,Caroline,0,0,0,,diğerleri tehlikeye girmeyecek.
+Dialogue: 0,0:03:55.45,0:03:56.80,Main,Sophia,0,0,0,,Caroline...
+Dialogue: 0,0:03:58.11,0:03:59.78,Italics,Orhun,0,0,0,,Yüzündeki ifade...
+Dialogue: 0,0:03:59.78,0:04:03.25,Italics,Orhun,0,0,0,,Dışarıdan bakan biri olarak, \N bu işe karışmamam daha iyi gibi görünüyor.
+Dialogue: 0,0:04:04.26,0:04:05.56,Main,Orhun,0,0,0,,Anladım.
+Dialogue: 0,0:04:05.56,0:04:08.01,Main,Orhun,0,0,0,,Bugün sana güveniyoruz, Caroline.
+Dialogue: 0,0:04:08.98,0:04:10.72,Main,Caroline,0,0,0,,Evet, bana bırak!
+Dialogue: 0,0:04:10.72,0:04:12.27,Main,Sophia,0,0,0,,Oh, Orhun!
+Dialogue: 0,0:04:12.27,0:04:15.18,Main,Sophia,0,0,0,,Benim de sana söylemek istediğim bir şey vardı.
+Dialogue: 0,0:04:16.02,0:04:20.44,Main,Sophia,0,0,0,,Bende eksik olan şey nedir?
+Dialogue: 0,0:04:20.44,0:04:24.41,Main,Sophia,0,0,0,,Daha güçlü olmak için neye ihtiyacım var?
+Dialogue: 0,0:04:25.19,0:04:26.66,Main,Orhun,0,0,0,,Hmm...
+Dialogue: 0,0:04:26.66,0:04:28.23,Main,Logan,0,0,0,,Bu haksızlık, Sophia!
+Dialogue: 0,0:04:28.23,0:04:32.30,Main,Logan,0,0,0,,Orhun, bana da daha güçlü olmak için ne yapmam gerektiğini söyle!
+Dialogue: 0,0:04:32.82,0:04:34.54,Main,Orhun,0,0,0,,Tamam Tamam
+Dialogue: 0,0:04:34.54,0:04:37.54,Sign_Basic,Orhun,0,0,0,,{\pos(960,270)}GÜNEY BÜYÜK ZİNDAN 36. KAT
+Dialogue: 0,0:04:38.67,0:04:39.57,Main,Selma,0,0,0,,Orhun!
+Dialogue: 0,0:04:40.05,0:04:41.63,Main,Selma,0,0,0,,Bugün son gün.
+Dialogue: 0,0:04:41.63,0:04:43.38,Main,Selma,0,0,0,,Dikkatli olalım.
+Dialogue: 0,0:04:43.38,0:04:44.51,Main,Orhun,0,0,0,,Evet.
+Dialogue: 0,0:04:45.21,0:04:47.34,Main,Selma,0,0,0,,Görünüşe göre seni sevmişler.
+Dialogue: 0,0:04:48.00,0:04:49.29,Main,Orhun,0,0,0,,Evet
+Dialogue: 0,0:04:50.53,0:04:54.49,Main,Orhun,0,0,0,,O gazete makalesinden sonra endişelendim.
+Dialogue: 0,0:04:54.49,0:04:56.85,Main,Orhun,0,0,0,,ama beni kabul etmiş gibi görünüyorlar.
+Dialogue: 0,0:04:57.25,0:04:59.86,Main,Selma,0,0,0,,Logan ve Caroline ikisi de başa çıkması zor olabilirler.
+Dialogue: 0,0:04:59.86,0:05:02.03,Main,Selma,0,0,0,,ama parlak bir gelecekleri var.
+Dialogue: 0,0:05:02.03,0:05:04.24,Main,Selma,0,0,0,,Onlara iyi bak.
+Dialogue: 0,0:05:04.71,0:05:08.29,Main,Selma,0,0,0,,Oh, Albert'ten bahsediyordun, değil mi?
+Dialogue: 0,0:05:08.29,0:05:09.24,Main,Orhun,0,0,0,,Tabi
+Dialogue: 0,0:05:09.76,0:05:14.03,Main,Selma,0,0,0,,Onun kaybı bizim için büyük bir darbe oldu.
+Dialogue: 0,0:05:14.03,0:05:16.83,Main,Selma,0,0,0,,Bu yüzden Kahramanlar Partisi \N
+Dialogue: 0,0:05:16.83,0:05:19.63,Main,Selma,0,0,0,,Büyük Zindanı fethetmede öncü rol.
+Dialogue: 0,0:05:20.16,0:05:23.62,Main,Orhun,0,0,0,,Kara Ejder de bizim için zorlu bir rakipti.
+Dialogue: 0,0:05:23.62,0:05:28.51,Main,Orhun,0,0,0,,Senin onu kaybettiğin gibi, biz de birini kolayca kaybetmiş olabiliriz.
+Dialogue: 0,0:05:28.78,0:05:32.39,Main,Selma,0,0,0,,Albert, her zaman güvenebileceğiniz biriydi.
+Dialogue: 0,0:05:32.39,0:05:39.02,Main,Selma,0,0,0,,Hala onun bıraktığı boşluğu doldurmaya çalışıyoruz, ama bu çok zor...
+Dialogue: 0,0:05:39.34,0:05:41.90,Main,Orhun,0,0,0,,Umarım iyi birini bulursun!
+Dialogue: 0,0:05:42.80,0:05:44.55,Main,Selma,0,0,0,,Aptal numarası yapıyorsun, ha?
+Dialogue: 0,0:05:45.12,0:05:46.28,Main,Selma,0,0,0,,Gerçekten, peki ya bu konuda ne dersiniz?
+Dialogue: 0,0:05:46.67,0:05:50.35,Main,Orhun,0,0,0,,Bir tarafın iki Büyücüye ihtiyacı yoktur.
+Dialogue: 0,0:05:50.35,0:05:53.79,Main,Orhun,0,0,0,,Özellikle de bunlardan biri kıtadaki en iyi büyücü ise.
+Dialogue: 0,0:05:54.34,0:05:57.46,Main,Selma,0,0,0,,Klan liderimiz de aynı şeyi söyledi.
+Dialogue: 0,0:05:57.46,0:06:01.12,Main,Selma,0,0,0,,Ama sen bizimle kılıç ustası olarak gelmek istemiştin.
+Dialogue: 0,0:06:01.12,0:06:05.30,Main,Selma,0,0,0,,Zemin patronu savaşı sırasında ne yapabileceğini görmek için izleyeceğim..
+Dialogue: 0,0:06:07.30,0:06:10.30,Sign_Basic,Selma,0,0,0,,{\pos(960,270)}GÜNEY BÜYÜK ZİNDAN 40. KAT
+Dialogue: 0,0:06:09.51,0:06:12.00,Main,Selma,0,0,0,,Burada gruplara ayrılacağız.
+Dialogue: 0,0:06:12.00,0:06:14.43,Main,Selma,0,0,0,,Kat patronunun hemen önünde buluşuruz.
+Dialogue: 0,0:06:14.76,0:06:17.65,Main,Selma,0,0,0,,Birinci, ikinci ve üçüncü gruplar, Bernard ile gidin.
+Dialogue: 0,0:06:17.65,0:06:19.52,Main,Selma,0,0,0,,Dörtten dörde kadar...
+Dialogue: 0,0:06:22.71,0:06:25.65,Main,Sophia,0,0,0,,\N Grup 10'un tek başına olması biraz yalnızlık hissettiriyor.
+Dialogue: 0,0:06:25.65,0:06:27.89,Main,Logan,0,0,0,,Bu sadece bizden ne kadar çok şey beklediklerini gösteriyor.
+Dialogue: 0,0:06:27.89,0:06:31.82,Main,Sophia,0,0,0,,Ama biraz gerginim, \N çünkü sadece biz varız.
+Dialogue: 0,0:06:32.10,0:06:35.62,Main,Orhun,0,0,0,,Zindanda birçok farklı yol vardır.
+Dialogue: 0,0:06:35.62,0:06:39.33,Main,Orhun,0,0,0,,Ayrılmayı ve kat patronunu bulmayı \Nöğrenmen gerekecek.
+Dialogue: 0,0:06:39.33,0:06:41.58,Main,Logan,0,0,0,,Yani bunun için eğitim yapıyoruz, öyle mi?
+Dialogue: 0,0:06:41.58,0:06:45.59,Main,Caroline,0,0,0,,Ama burada kaybolma fikri hoşuma gitmiyor...
+Dialogue: 0,0:06:46.00,0:06:49.42,Main,Orhun,0,0,0,,Bu nedenle önceden bilgi toplamak önemlidir.
+Dialogue: 0,0:06:49.42,0:06:53.23,Main,Orhun,0,0,0,,Tüm maceracılar, zemini haritalamak için birden fazla \N keşif gezisi yaparlar.
+Dialogue: 0,0:06:53.23,0:06:55.03,Main,Orhun,0,0,0,,doğru yolu bulmak,
+Dialogue: 0,0:06:55.03,0:06:57.55,Main,Orhun,0,0,0,,ve bu bilgileri başkalarıyla paylaşın.
+Dialogue: 0,0:06:57.55,0:07:00.60,Main,Orhun,0,0,0,,Bu yüzden daha büyük \N klanları avantajlıdır.
+Dialogue: 0,0:07:00.60,0:07:05.06,Main,Caroline,0,0,0,,O zaman sizinle bazı bilgileri\Npaylaşmamız gerekecek!
+Dialogue: 0,0:07:05.06,0:07:10.49,Main,Caroline,0,0,0,,Sonuçta, \N Büyük Zindan'ın derinliklerine herkesten daha fazla indin!
+Dialogue: 0,0:07:11.66,0:07:12.75,Main,Logan,0,0,0,,Doğru.
+Dialogue: 0,0:07:12.75,0:07:15.55,Main,Logan,0,0,0,,Alt katlar ve en alt katlar hakkında bize bilgi verin!
+Dialogue: 0,0:07:15.55,0:07:17.37,Main,Logan,0,0,0,,Onlar nasıl insanlar?
+Dialogue: 0,0:07:17.69,0:07:22.72,Main,Orhun,0,0,0,,Hmm, alt katlar 76. kattan başlıyor.
+Dialogue: 0,0:07:22.72,0:07:24.72,Main,Orhun,0,0,0,,Karla kaplı bir dağ gibidirler.
+Dialogue: 0,0:07:24.72,0:07:27.88,Main,Orhun,0,0,0,,Derinlere indiğinizde, bir kar fırtınası başlar...
+Dialogue: 0,0:07:28.38,0:07:29.86,Main,Caroline,0,0,0,,Canavarlar nasıldır?
+Dialogue: 0,0:07:29.86,0:07:31.77,Main,Caroline,0,0,0,,Güçlüler mi? Süper güçlüler mi?
+Dialogue: 0,0:07:31.77,0:07:33.68,Main,Orhun,0,0,0,,Şey, buz kertenkeleleri var...
+Dialogue: 0,0:07:32.64,0:07:35.34,Main,Sophia,0,0,0,,{\pos(948,924)}En alt katlar 91. kattan başlıyor!
+Dialogue: 0,0:07:35.34,0:07:36.77,Main,Sophia,0,0,0,,Onlar nasıl insanlar?
+Dialogue: 0,0:07:36.77,0:07:39.42,Main,Orhun,0,0,0,,Bir bataklık. Orada çürümüş...
+Dialogue: 0,0:07:38.04,0:07:39.89,Main,Caroline,0,0,0,,Canavarlar nasıldır?
+Dialogue: 0,0:07:39.89,0:07:41.41,Main,Caroline,0,0,0,,Peki ya kat şefleri?
+Dialogue: 0,0:07:41.41,0:07:43.78,Main,Orhun,0,0,0,,Kişi başına bir soru!
+Dialogue: 0,0:07:45.56,0:07:49.03,Main,Eleonora,0,0,0,,Oh, Luna! Bu acele ne?
+Dialogue: 0,0:07:49.03,0:07:51.65,Main,Luna,0,0,0,,Eleonora, guild master'ı buraya getir, hemen.!
+Dialogue: 0,0:07:52.12,0:07:55.41,Main,Eleonora,0,0,0,,Toplantıda. Biraz bekleyebilirseniz...
+Dialogue: 0,0:07:55.41,0:07:57.26,Main,Luna,0,0,0,,Zaman yok!
+Dialogue: 0,0:07:57.26,0:08:03.54,Main,Luna,0,0,0,,\N zindandaki herkesi hemen yüzeye ışınlamamız gerekiyor!
+Dialogue: 0,0:08:06.85,0:08:09.55,Main,Sophia,0,0,0,,Bir şeyler... ters gibi.
+Dialogue: 0,0:08:09.94,0:08:13.58,Main,Logan,0,0,0,,Evet, hiç canavar görmedik.
+Dialogue: 0,0:08:13.58,0:08:17.30,Main,Logan,0,0,0,,Bu kadar büyük bir odada, en az bir tane olmalı...
+Dialogue: 0,0:08:17.30,0:08:20.26,Main,Caroline,0,0,0,,Bu hiç de eğlenceli değil.
+Dialogue: 0,0:08:20.26,0:08:22.31,Main,Caroline,0,0,0,,Çıkın ortaya, canavarlar!
+Dialogue: 0,0:08:23.13,0:08:27.62,Main,Logan,0,0,0,,Orhun, 40. kat genelde böyle mi?
+Dialogue: 0,0:08:27.62,0:08:30.19,Main,Orhun,0,0,0,,Hayır, aslında...
+Dialogue: 0,0:08:30.80,0:08:35.88,Italics,Orhun,0,0,0,,Bu, zindana girmeden önce hissettiğim aynı kötü his...
+Dialogue: 0,0:08:36.48,0:08:39.45,Italics,Orhun,0,0,0,,Sanki canavarlar \N bir şeyden korkuyorlarmış gibi.
+Dialogue: 0,0:08:39.45,0:08:41.58,Main,Sophia,0,0,0,,Bu çok ürkütücü...
+Dialogue: 0,0:08:42.41,0:08:45.58,Main,Caroline,0,0,0,,Savaşmak istiyorum! Savaşmak istiyorum! Savaşmak istiyorum!
+Dialogue: 0,0:08:47.58,0:08:49.29,Main,Caroline,0,0,0,,Şu anda bir tane var.!
+Dialogue: 0,0:08:49.29,0:08:50.55,Main,Orhun,0,0,0,,Bekle, Caroline!
+Dialogue: 0,0:08:53.85,0:08:54.93,Main,Orhun,0,0,0,,Çeviklik Azaldı!
+Dialogue: 0,0:09:03.76,0:09:06.16,Main,Caroline,0,0,0,,Anladım!
+Dialogue: 0,0:09:07.06,0:09:09.15,Main,Orhun,0,0,0,,Sana tek başına kaçma demiştim.
+Dialogue: 0,0:09:09.46,0:09:13.33,Main,Logan,0,0,0,,Azure goblinleri inanılmaz derecede hızlı ve güçlüdür.
+Dialogue: 0,0:09:13.33,0:09:15.84,Main,Logan,0,0,0,,Orhun onu zayıflatmasaydı...
+Dialogue: 0,0:09:15.84,0:09:19.28,Main,Caroline,0,0,0,,Kimin umurunda? Yendin onu!
+Dialogue: 0,0:09:19.58,0:09:21.41,Main,Orhun,0,0,0,,Bu sefer yaptın.
+Dialogue: 0,0:09:21.41,0:09:23.67,Main,Orhun,0,0,0,,Savunma partinin çekirdeğidir.
+Dialogue: 0,0:09:23.67,0:09:25.19,Main,Orhun,0,0,0,,Tehlikedeyseniz,
+Dialogue: 0,0:09:25.19,0:09:28.04,Main,Orhun,0,0,0,,Logan ve Sophia seni kurtarmak için ellerinden gelen her şeyi yapacaklar.
+Dialogue: 0,0:09:28.40,0:09:31.41,Main,Orhun,0,0,0,,Ve yoldaşlarını tehlikeye atarsın.
+Dialogue: 0,0:09:31.41,0:09:33.80,Main,Caroline,0,0,0,,Tamam, haklısın, ama...
+Dialogue: 0,0:09:36.56,0:09:40.43,Main,Caroline,0,0,0,,Üzgünüm, öyle demek istemedim.
+Dialogue: 0,0:09:40.43,0:09:42.57,Main,Orhun,0,0,0,,Oh, tamam.
+Dialogue: 0,0:09:42.57,0:09:46.55,Main,Orhun,0,0,0,,Dodge tipi Savunucular, “aktif savunma” adı verilen bir savunma türüne sahiptir.
+Dialogue: 0,0:09:46.55,0:09:48.06,Main,Orhun,0,0,0,,Sana öğreteceğim.
+Dialogue: 0,0:09:48.80,0:09:49.69,Main,Caroline,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:09:50.00,0:09:53.35,Main,Orhun,0,0,0,,Sadece savunmaya odaklanmanı söylersem dinlemeyeceğini biliyorum, değil mi?
+Dialogue: 0,0:09:53.35,0:09:54.21,Main,Caroline,0,0,0,,Evet, evet!
+Dialogue: 0,0:09:54.21,0:09:55.79,Main,Caroline,0,0,0,,Peki nasıl çalışıyor?
+Dialogue: 0,0:09:55.79,0:09:57.23,Main,Caroline,0,0,0,,Söyle bana, hemen!
+Dialogue: 0,0:09:57.23,0:10:01.59,Main,Orhun,0,0,0,,Bu, düşmanın saldırılarını çekip onları kilitlemek için kullanılan bir yöntemdir.
+Dialogue: 0,0:10:01.59,0:10:03.60,Main,Caroline,0,0,0,,Onları kilitlemek mi?
+Dialogue: 0,0:10:03.60,0:10:07.21,Main,Orhun,0,0,0,,Her canlı, saldırıya geçmeden önce fiziksel olarak hazırlık yapar.
+Dialogue: 0,0:10:07.82,0:10:13.02,Main,Orhun,0,0,0,,Örneğin, yumruk atmadan önce \N adım atarak.
+Dialogue: 0,0:10:13.02,0:10:14.74,Main,Orhun,0,0,0,,O anda onların bacaklarına kesersen,
+Dialogue: 0,0:10:14.74,0:10:17.22,Main,Orhun,0,0,0,,ilerleyip saldırı yapamayacaklar.
+Dialogue: 0,0:10:18.99,0:10:22.57,Main,Orhun,0,0,0,,Yani saldırmadan hemen önce onların \N hareketlerini okuyabilirseniz,
+Dialogue: 0,0:10:22.57,0:10:25.13,Main,Orhun,0,0,0,,sonra saldırı için ihtiyaç duydukları hayati noktaya vururlar,
+Dialogue: 0,0:10:25.13,0:10:26.85,Main,Orhun,0,0,0,,onların saldırmasını engelleyebilirsiniz.
+Dialogue: 0,0:10:26.85,0:10:28.34,Main,Caroline,0,0,0,,Wow!
+Dialogue: 0,0:10:28.34,0:10:31.10,Main,Caroline,0,0,0,,Artık cephede savaşabilirim, değil mi?
+Dialogue: 0,0:10:31.40,0:10:33.45,Main,Orhun,0,0,0,,Amacınız onları yenmek değil.
+Dialogue: 0,0:10:33.45,0:10:36.63,Main,Orhun,0,0,0,,Senin görevin olan bir Savunmacı olduğunu unutmamalısın.
+Dialogue: 0,0:10:36.63,0:10:40.05,Main,Orhun,0,0,0,,düşmanın dikkatini çekmek ve saldırmasını engellemek için.
+Dialogue: 0,0:10:40.05,0:10:41.66,Main,Caroline,0,0,0,,Tamam, anladım!
+Dialogue: 0,0:10:41.66,0:10:42.99,Main,Caroline,0,0,0,,Teşekkürler, bayım!
+Dialogue: 0,0:10:42.99,0:10:45.24,Main,Logan,0,0,0,,Şimdi bana bir şeyler öğret!
+Dialogue: 0,0:10:46.97,0:10:49.75,Main,Guildmaster,0,0,0,,Tam olarak ne oldu, Oliver?
+Dialogue: 0,0:10:53.56,0:10:55.63,Main,Luna,0,0,0,,Sizden zorla ışınlanma talep etmek istiyoruz.
+Dialogue: 0,0:10:55.63,0:10:58.53,Main,Guildmaster,0,0,0,,Ne istediğini biliyor musun?
+Dialogue: 0,0:10:58.53,0:11:01.94,Main,Guildmaster,0,0,0,,O teleportun mana maliyeti inanılmaz.
+Dialogue: 0,0:11:01.94,0:11:03.75,Main,Guildmaster,0,0,0,,Acil bir durum olmadıkça kullanamayız.
+Dialogue: 0,0:11:03.75,0:11:06.14,Main,Guildmaster,0,0,0,,Gerçekten çok kötü bir şey olmadıkça....
+Dialogue: 0,0:11:06.44,0:11:10.06,Main,Luna,0,0,0,,Kara Ejderha, 92. katın kat patronu,
+Dialogue: 0,0:11:10.06,0:11:14.52,Main,Luna,0,0,0,,büyük olasılıkla \N üst, orta veya alt katlardan birine taşınmıştır.
+Dialogue: 0,0:11:14.52,0:11:16.64,Main,Guildmaster,0,0,0,,Ne?
+Dialogue: 0,0:11:20.73,0:11:24.23,Main,Guildmaster,0,0,0,,Kara Ejderha, değişken bir geçitten uçtu mu?!
+Dialogue: 0,0:11:24.23,0:11:25.45,Main,Luna,0,0,0,,Bu doğru.
+Dialogue: 0,0:11:25.94,0:11:28.58,Main,Guildmaster,0,0,0,,Ve nereye gittiğini bilmiyor musun?
+Dialogue: 0,0:11:28.88,0:11:30.72,Main,Luna,0,0,0,,Özür dilerim.
+Dialogue: 0,0:11:30.72,0:11:33.68,Main,Luna,0,0,0,,Zemin şefinin \N sihirli eşyaları kullanabileceğini hiç bilmiyorduk...
+Dialogue: 0,0:11:33.68,0:11:38.07,Main,Luna,0,0,0,,\N ne zaman ve nerede görüneceğini \Nbilmek imkansız!
+Dialogue: 0,0:11:38.67,0:11:44.47,Main,Luna,0,0,0,,Birisi \N zaten bununla karşılaşmış olabilir!
+Dialogue: 0,0:11:44.47,0:11:48.72,Main,Luna,0,0,0,,Sizden acilen bir güç \N teleportu talep ediyoruz! Hayatları kurtarmak için!
+Dialogue: 0,0:11:49.04,0:11:53.31,Main,Eleonora,0,0,0,,Lonca ustası, kurallara göre önce bunu tartışmak için bir toplantı yapmamız gerekiyor...
+Dialogue: 0,0:11:53.31,0:11:56.17,Main,Luna,0,0,0,,Bunun için zaman yok!
+Dialogue: 0,0:11:56.17,0:12:00.33,Main,Luna,0,0,0,,Zindandaki insanlar ne olduğunu bilmiyorlar!
+Dialogue: 0,0:12:03.15,0:12:05.07,Main,Orhun,0,0,0,,Tavsiye mi istiyorsun, Logan?
+Dialogue: 0,0:12:05.07,0:12:08.44,Main,Logan,0,0,0,,Debufflar hakkında daha fazla\N bilgi edinmek istiyorum.
+Dialogue: 0,0:12:08.44,0:12:10.49,Main,Orhun,0,0,0,,Debufflar zordur.
+Dialogue: 0,0:12:10.49,0:12:12.08,Main,Logan,0,0,0,,Yani bana söylemeyecek misin?
+Dialogue: 0,0:12:12.47,0:12:17.46,Main,Orhun,0,0,0,,Düşmanı zayıflatan debufflar, gelişmiş bir destek büyüsü türüdür.
+Dialogue: 0,0:12:18.12,0:12:20.03,Main,Orhun,0,0,0,,Eminim farkındasındır,
+Dialogue: 0,0:12:20.03,0:12:23.15,Main,Orhun,0,0,0,,Debufflar, bufflardan daha fazla \N hedefinin durumundan etkilenir.
+Dialogue: 0,0:12:23.15,0:12:26.34,Main,Orhun,0,0,0,,Onların büyü direncinin tam olarak ne olduğunu anlamanız gerekir.
+Dialogue: 0,0:12:26.34,0:12:28.85,Main,Orhun,0,0,0,,ve büyünü buna göre ayarla.
+Dialogue: 0,0:12:29.36,0:12:32.45,Main,Orhun,0,0,0,,Ve kat patronları, aynı zamanda \N güçlü canavarlar
+Dialogue: 0,0:12:32.45,0:12:34.90,Main,Orhun,0,0,0,,61. kattan başlayan daha derin \N alanlarda bulabilirsiniz.
+Dialogue: 0,0:12:34.90,0:12:37.23,Main,Orhun,0,0,0,,onlardan çok etkilenmezler.
+Dialogue: 0,0:12:37.59,0:12:39.98,Main,Orhun,0,0,0,,Onları kullanabilen ileri düzey maceracılar bile genellikle kullanmazlar.
+Dialogue: 0,0:12:39.98,0:12:42.61,Main,Orhun,0,0,0,,çünkü etkili değiller.
+Dialogue: 0,0:12:43.04,0:12:44.27,Main,Orhun,0,0,0,,Onları kullanabilirsiniz,
+Dialogue: 0,0:12:44.27,0:12:46.96,Main,Orhun,0,0,0,,ama tam olarak ne kadar büyü direnci olduğunu öğrenmen gerekecek
+Dialogue: 0,0:12:46.96,0:12:49.64,Main,Orhun,0,0,0,,\N alt ve en alt katlardaki her canavarın.
+Dialogue: 0,0:12:49.64,0:12:51.37,Main,Logan,0,0,0,,Ve ben hazır değilim...
+Dialogue: 0,0:12:51.87,0:12:55.48,Main,Orhun,0,0,0,,Öncelikli hedefiniz, sahip olduğunuz güçlendirmeleri ustaca kullanmayı öğrenmek olmalıdır.
+Dialogue: 0,0:12:55.48,0:12:58.25,Main,Orhun,0,0,0,,ve daha fazla deneyim kazanmak.
+Dialogue: 0,0:12:58.63,0:13:00.25,Main,Logan,0,0,0,,Tamam.
+Dialogue: 0,0:13:00.25,0:13:04.16,Main,Orhun,0,0,0,,Sana bunun yerine büyü yapmanın eğlenceli bir yolunu öğreteceğim.
+Dialogue: 0,0:13:04.16,0:13:05.40,Main,Orhun,0,0,0,,Arkana bak.
+Dialogue: 0,0:13:11.20,0:13:12.14,Main,Logan,0,0,0,,O neydi?
+Dialogue: 0,0:13:12.53,0:13:16.02,Main,Orhun,0,0,0,,Tuzak büyüsü. Düşmanı tuzağa düşürmek için.
+Dialogue: 0,0:13:16.02,0:13:17.84,Main,Logan,0,0,0,,Bunu ne zaman ayarladın?
+Dialogue: 0,0:13:17.84,0:13:19.79,Main,Orhun,0,0,0,,Sadece şimdi kullanmadım.
+Dialogue: 0,0:13:19.79,0:13:22.32,Main,Orhun,0,0,0,,Bunca zamandır kullanıyorum.
+Dialogue: 0,0:13:22.32,0:13:24.03,Main,Logan,0,0,0,,Hiç bilmiyordum.
+Dialogue: 0,0:13:24.38,0:13:27.43,Main,Orhun,0,0,0,,Arkadan saldırıya uğrama riskini azaltabilirseniz,
+Dialogue: 0,0:13:27.43,0:13:31.31,Main,Orhun,0,0,0,,parti sadece önündeki düşmanlara odaklanabilir, değil mi?
+Dialogue: 0,0:13:31.31,0:13:32.29,Main,Logan,0,0,0,,Doğru.
+Dialogue: 0,0:13:35.88,0:13:40.56,Main,Orhun,0,0,0,,Az önce yaptığım gibi tuzaklar kullanarak düşmanın saldırı yollarını kısıtlamak
+Dialogue: 0,0:13:40.56,0:13:42.91,Main,Orhun,0,0,0,,ve savaş alanını \N kendi avantajına çevir
+Dialogue: 0,0:13:42.91,0:13:45.55,Main,Orhun,0,0,0,,büyücünün işinin bir başka parçasıdır.
+Dialogue: 0,0:13:45.88,0:13:50.26,Main,Logan,0,0,0,,Bir büyücünün görevi, savaş alanını bizim lehimize çevirmek, değil mi?
+Dialogue: 0,0:13:50.26,0:13:52.31,Main,Logan,0,0,0,,Evet, anladım!
+Dialogue: 0,0:13:52.74,0:13:57.44,Italics,Logan,0,0,0,,Vay canına! O gerçekten benim olmak istediğim türden bir büyücü!
+Dialogue: 0,0:13:58.78,0:14:00.91,Main,Orhun,0,0,0,,Ve son olarak, Sophia.
+Dialogue: 0,0:14:02.08,0:14:04.69,Main,Guildmaster,0,0,0,,Güç ışınlamasını hazırlamaya başlayacağız.
+Dialogue: 0,0:14:05.05,0:14:07.78,Main,Guildmaster,0,0,0,,Ama bu sihirli büyü yeterince büyük.
+Dialogue: 0,0:14:07.78,0:14:10.82,Main,Guildmaster,0,0,0,,zindandaki her \N maceracıyı ışınlamak için.
+Dialogue: 0,0:14:10.82,0:14:15.45,Main,Guildmaster,0,0,0,,Büyüyü oluşturmak ve manayı hazırlamak zaman alacaktır.
+Dialogue: 0,0:14:15.45,0:14:18.03,Main,Man,0,0,0,,Oliver, bu senin sorumluluğunda olacak.
+Dialogue: 0,0:14:18.03,0:14:19.58,Main,Man,0,0,0,,bunun olmasına izin verdiğiniz için.
+Dialogue: 0,0:14:21.08,0:14:23.01,Main,Anneli,0,0,0,,{\pos(584,164)}CVN: Benimmi suç aq sus konuşma
+Dialogue: 0,0:14:21.08,0:14:23.01,Main,Anneli,0,0,0,,Bu bizim suçumuz değil!
+Dialogue: 0,0:14:23.01,0:14:24.46,Main,Derick,0,0,0,,{\pos(540,236)}CVN: Neyse bişey derdimde
+Dialogue: 0,0:14:23.01,0:14:24.46,Main,Derick,0,0,0,,Biz yanlış bir şey yapmadık!
+Dialogue: 0,0:14:25.23,0:14:26.71,Main,Man2,0,0,0,,Ve siz kendinize...
+Dialogue: 0,0:14:26.71,0:14:29.35,Main,Guildmaster,0,0,0,,Büyüye odaklan!
+Dialogue: 0,0:14:29.35,0:14:32.14,Main,Guildmaster,0,0,0,,Birçok hayat tehlikede...
+Dialogue: 0,0:14:32.96,0:14:34.35,Italics,Luna,0,0,0,,Orhun...
+Dialogue: 0,0:14:34.74,0:14:38.60,Main,Orhun,0,0,0,,Hmm... ihtiyacınız olan şey \N Paralel Yapı.
+Dialogue: 0,0:14:39.01,0:14:41.88,Main,Sophia,0,0,0,,Paralel Yapı?
+Dialogue: 0,0:14:41.88,0:14:45.60,Main,Orhun,0,0,0,,Aynı anda iki veya daha fazla büyü yapma yeteneği.
+Dialogue: 0,0:14:45.60,0:14:49.16,Main,Orhun,0,0,0,,Her ileri düzey büyücü \N bunu yapabilmelidir.
+Dialogue: 0,0:14:49.90,0:14:52.12,Main,Sophia,0,0,0,,Bu çok zor görünüyor.
+Dialogue: 0,0:14:52.12,0:14:57.00,Main,Orhun,0,0,0,,Öyle değil. Bir kez alıştığınızda, herkes aynı anda ikisini birden yapabilir.
+Dialogue: 0,0:14:57.00,0:15:01.02,Main,Orhun,0,0,0,,Bazı insanlar bir seferde düzinelerce yapabilir.
+Dialogue: 0,0:15:01.02,0:15:02.38,Main,Sophia,0,0,0,,Onlarca mı?!
+Dialogue: 0,0:15:02.72,0:15:06.80,Main,Sophia,0,0,0,,Peki, Paralel \N Yapı neden bu kadar önemli?
+Dialogue: 0,0:15:06.80,0:15:09.25,Main,Sophia,0,0,0,,Sadece kullanabilmek bile yeterlidir diye düşünüyorum.
+Dialogue: 0,0:15:09.25,0:15:12.39,Main,Sophia,0,0,0,,Özel rütbe büyüsü, ileri düzey bir büyücü için yeterlidir...
+Dialogue: 0,0:15:12.72,0:15:14.59,Main,Orhun,0,0,0,,Zindanın derinliklerine indiğinizde,
+Dialogue: 0,0:15:14.59,0:15:18.14,Main,Orhun,0,0,0,,Birçok canavar, tek bir özel seviye büyü ile yenilemez.
+Dialogue: 0,0:15:18.76,0:15:22.60,Main,Orhun,0,0,0,,Ve bunları \N zinciri halinde ateşleseniz bile, hazırlamak zaman alır.
+Dialogue: 0,0:15:22.60,0:15:26.15,Main,Orhun,0,0,0,,Ve onları hazırlarken, güçsüzsün.
+Dialogue: 0,0:15:26.15,0:15:29.44,Main,Orhun,0,0,0,,İşte burada \N Paralel Yapı devreye girer.
+Dialogue: 0,0:15:29.44,0:15:35.54,Main,Orhun,0,0,0,,İlk büyü yarıya geldiğinde ikinci büyüye başlayabiliyorsanız \N
+Dialogue: 0,0:15:35.54,0:15:39.54,Main,Orhun,0,0,0,,büyülerinizi daha verimli bir şekilde yapabilirsiniz.
+Dialogue: 0,0:15:39.54,0:15:40.83,Main,Sophia,0,0,0,,Bu doğru!
+Dialogue: 0,0:15:40.83,0:15:44.49,Main,Sophia,0,0,0,,Daha az kesinti süresi olmasını çok isterim.
+Dialogue: 0,0:15:44.49,0:15:48.05,Main,Sophia,0,0,0,,Alt katlardaki canavarlar o kadar güçlü mü?
+Dialogue: 0,0:15:48.31,0:15:52.80,Main,Orhun,0,0,0,,Onları sadece bir dizi güçlü büyüyle yenemezsiniz.
+Dialogue: 0,0:15:53.15,0:15:54.93,Main,Sophia,0,0,0,,Bu doğru mu?
+Dialogue: 0,0:15:55.20,0:15:58.39,Main,Orhun,0,0,0,,Ayrıca, daha zayıf, orta seviyeli \N büyüleri birlikte kullanmayı da seçebilirsiniz.
+Dialogue: 0,0:15:58.39,0:16:01.04,Main,Orhun,0,0,0,,partinizin diğer saldırılarıyla birlikte.
+Dialogue: 0,0:16:01.04,0:16:03.69,Main,Orhun,0,0,0,,Her türlü büyü, nasıl kullandığınıza bağlı olarak yararlı olabilir.
+Dialogue: 0,0:16:03.69,0:16:05.77,Main,Sophia,0,0,0,,Bunu bilmek harika!
+Dialogue: 0,0:16:05.77,0:16:09.72,Main,Orhun,0,0,0,,Orta katlarda savaşmak için zaten yeterince güçlüsün.
+Dialogue: 0,0:16:09.72,0:16:12.74,Main,Orhun,0,0,0,, Gece Gökyüzü Gümüş Tavşanları'ndaki  büyüklerinizden öğrenin.
+Dialogue: 0,0:16:12.74,0:16:15.29,Main,Orhun,0,0,0,,Selma'nın memnuniyetle kabul edeceğinden eminim.
+Dialogue: 0,0:16:15.29,0:16:17.45,Main,Sophia,0,0,0,,E-Evet.
+Dialogue: 0,0:16:17.77,0:16:24.71,Main,Sophia,0,0,0,,Ama kız kardeşime öğretmektense bana öğretmeni tercih ederim... belki.
+Dialogue: 0,0:16:25.12,0:16:26.08,Main,Orhun,0,0,0,,{\pos(508,216)}CVN: Yok Komşu kızı öğretcek
+Dialogue: 0,0:16:25.12,0:16:26.08,Main,Orhun,0,0,0,,Ben mi?
+Dialogue: 0,0:16:27.30,0:16:29.59,Main,Sophia,0,0,0,,Bu uygun değil mi?
+Dialogue: 0,0:16:30.28,0:16:32.77,Main,Orhun,0,0,0,,Sana öğretebilirim, sanırım, ama...
+Dialogue: 0,0:16:33.81,0:16:35.27,Italics,Selma,0,0,0,,Orhun!
+Dialogue: 0,0:16:36.39,0:16:38.85,Main,Orhun,0,0,0,,Selma sorun olmadığını söylüyorsa!
+Dialogue: 0,0:16:38.85,0:16:40.56,Main,Sophia,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:16:40.56,0:16:42.11,Main,Sophia,0,0,0,,Teşekkürler!
+Dialogue: 0,0:16:42.11,0:16:44.85,Main,Sophia,0,0,0,,Kız kardeşim ne istersem yapar, yani sorun olmaz!
+Dialogue: 0,0:16:45.20,0:16:46.88,Italics,Orhun,0,0,0,,Elbette.
+Dialogue: 0,0:16:47.78,0:16:49.67,Main,Man,0,0,0,,Büyü hazır.
+Dialogue: 0,0:16:49.67,0:16:52.11,Main,Woman,0,0,0,,Onu mana ile güçlendirmeye başlayacağız.
+Dialogue: 0,0:16:52.57,0:16:56.09,Main,Guildmaster,0,0,0,,Şarj olur olmaz, \N zorla ışınlamaya başlayacağız.
+Dialogue: 0,0:16:56.79,0:17:00.74,Main,Guildmaster,0,0,0,,Kahramanlar Partisi'nin Kara Ejderha'yı yenmesini istiyorum.
+Dialogue: 0,0:17:00.74,0:17:01.87,Main,Derick,0,0,0,,Yenilgi
+Dialogue: 0,0:17:01.87,0:17:07.39,Main,Anneli,0,0,0,,Hala ilk seferinde bununla mücadele etmenin etkisinden kurtulamadık...
+Dialogue: 0,0:17:07.39,0:17:08.04,Main,Anneli,0,0,0,,Değil mi?
+Dialogue: 0,0:17:08.04,0:17:09.27,Main,Luna,0,0,0,,Tamam.
+Dialogue: 0,0:17:09.27,0:17:10.42,Main,Luna,0,0,0,,Hemen yola çıkacağız.
+Dialogue: 0,0:17:10.42,0:17:12.22,Main,Derick,0,0,0,,Hey! Öyle yapamazsın...
+Dialogue: 0,0:17:12.22,0:17:15.93,Main,Luna,0,0,0,,Lonca ustası... Bir ricam var.
+Dialogue: 0,0:17:24.56,0:17:27.24,Main,Selma,0,0,0,,Yeni işe alınanlar güvenli bölgede kalacaklar.
+Dialogue: 0,0:17:27.24,0:17:30.07,Main,Selma,0,0,0,,Biz refakatçiler, kat şefiyle tek başımıza ilgileneceğiz.
+Dialogue: 0,0:17:31.87,0:17:35.93,Main,Orhun,0,0,0,,Bu iyi bir fırsat. \N Nasıl savaştığımızı izleyin.
+Dialogue: 0,0:17:43.76,0:17:46.00,Main,Bernard,0,0,0,,Orhun, sana güveniyoruz.
+Dialogue: 0,0:17:46.00,0:17:48.65,Main,Orhun,0,0,0,,Savaşa konsantre olabilmen için seni destekleyeceğim.
+Dialogue: 0,0:17:48.65,0:17:50.64,Main,Orhun,0,0,0,,Onu birkaç dakika içinde alt edelim.
+Dialogue: 0,0:17:50.64,0:17:52.46,Main,Anthem,0,0,0,,Birkaç dakika mı?
+Dialogue: 0,0:18:14.19,0:18:17.45,Main,Caroline,0,0,0,,Bana anlattığı şey buydu!
+Dialogue: 0,0:18:17.89,0:18:19.67,Main,Logan,0,0,0,,Aktif savunma, ha?
+Dialogue: 0,0:18:19.67,0:18:21.28,Main,Caroline,0,0,0,,Wow!
+Dialogue: 0,0:18:21.28,0:18:23.83,Main,Caroline,0,0,0,,Ben de öyle bir Defender olmak istiyorum!
+Dialogue: 0,0:18:29.08,0:18:30.33,Main,Logan,0,0,0,,Onun kaçışını engelledi!
+Dialogue: 0,0:18:30.33,0:18:32.34,Main,Logan,0,0,0,,Yani patronun nasıl hareket edeceğini biliyor muydu?
+Dialogue: 0,0:18:34.09,0:18:35.62,Main,Sophia,0,0,0,,{\pos(496,212)}CVN: Yapımı Lan yoksa..
+Dialogue: 0,0:18:34.09,0:18:35.62,Main,Sophia,0,0,0,,Paralel Yapı!
+Dialogue: 0,0:18:35.62,0:18:37.72,Main,Sophia,0,0,0,,Yani kardeşim aynı anda beş tane yapabilir mi?
+Dialogue: 0,0:18:49.12,0:18:50.86,Main,Sophia,0,0,0,,Bir anda bitti...
+Dialogue: 0,0:18:50.86,0:18:54.75,Main,Caroline,0,0,0,,Hiç kimsenin düşmanın hareketlerini bu şekilde kilitlediğini görmemiştim...
+Dialogue: 0,0:18:54.75,0:18:57.21,Main,Logan,0,0,0,,Yani savaşı kendi lehine çeviriyor...
+Dialogue: 0,0:18:57.21,0:18:59.24,Main,Logan,0,0,0,,Tamam, anladım.
+Dialogue: 0,0:18:59.24,0:19:03.17,Main,Caroline,0,0,0,,Bu yüzden grubun geri kalanı saldırıya tamamen odaklanabildi.
+Dialogue: 0,0:19:03.17,0:19:05.45,Main,Logan,0,0,0,,Gerçekten bir takım olarak çalışıyorlardı.
+Dialogue: 0,0:19:05.45,0:19:07.75,Main,Caroline,0,0,0,,Takım olarak, ha?
+Dialogue: 0,0:19:08.02,0:19:10.18,Italics,Sophia,0,0,0,,Tek bir hareket bile boşa gitmedi...
+Dialogue: 0,0:19:10.18,0:19:13.00,Italics,Sophia,0,0,0,,Demek gelişmiş bir \N partisi böyle bir şey.
+Dialogue: 0,0:19:13.41,0:19:18.01,Italics,Sophia,0,0,0,,Onlar gibi bir maceracı olmak istiyorum!
+Dialogue: 0,0:19:19.25,0:19:22.31,Main,Oliver,0,0,0,,Luna, neden lonca başkanına sordun?
+Dialogue: 0,0:19:22.31,0:19:26.01,Main,Oliver,0,0,0,,önce 40 ila 50. katlardaki insanları çıkarmak mı?
+Dialogue: 0,0:19:26.51,0:19:28.31,Main,Luna,0,0,0,,Çünkü Orhun muhtemelen aşağıdadır.
+Dialogue: 0,0:19:30.31,0:19:32.98,Main,Anneli,0,0,0,,Bu her işi yapan adamın bununla ne ilgisi var?
+Dialogue: 0,0:19:33.31,0:19:35.28,Main,Luna,0,0,0,,Hala anlamadın mı?
+Dialogue: 0,0:19:35.28,0:19:38.99,Main,Luna,0,0,0,,Şu anda, biz en zayıf S-Sınıfı grubuz.
+Dialogue: 0,0:19:39.29,0:19:41.74,Main,Luna,0,0,0,,Kara Ejderhayı yenmemiz imkansız.
+Dialogue: 0,0:19:41.74,0:19:44.24,Main,Derick,0,0,0,,En zayıf mı? Bu ne cüret?!
+Dialogue: 0,0:19:44.24,0:19:45.85,Main,Luna,0,0,0,,Mümkün olduğunca açık konuşacağım.
+Dialogue: 0,0:19:45.85,0:19:48.91,Main,Luna,0,0,0,,Orhun olmadan savaşamayız.
+Dialogue: 0,0:19:49.24,0:19:53.41,Main,Luna,0,0,0,,Hepimizin bu durumdan kurtulup kurtulmayacağımız ona bağlı.
+Dialogue: 0,0:19:53.92,0:19:57.42,Sign_Basic,Luna,0,0,0,,{\pos(960,270)}GÜNEY BÜYÜK ZİNDAN 50. KAT
+Dialogue: 0,0:19:59.17,0:20:01.26,Main,Selma,0,0,0,,Orhun, hepsi senin sayende.
+Dialogue: 0,0:20:02.16,0:20:04.11,Main,Selma,0,0,0,,Eğer pençelerini kesebilirsek,
+Dialogue: 0,0:20:04.11,0:20:06.56,Main,Selma,0,0,0,,geriye kalan tek şey kabuğu kırmak.
+Dialogue: 0,0:20:06.56,0:20:09.01,Main,Selma,0,0,0,,Hadi çabucak yenip eve gidelim.
+Dialogue: 0,0:20:09.01,0:20:10.43,Main,Selma,0,0,0,,Bu gece bir parti vereceğiz.
+Dialogue: 0,0:20:10.43,0:20:12.69,Main,Orhun,0,0,0,,Kolaymış gibi söylüyorsun.
+Dialogue: 0,0:20:13.69,0:20:15.56,Main,Selma,0,0,0,,Senin için bu çok kolay.
+Dialogue: 0,0:20:15.56,0:20:17.21,Main,Orhun,0,0,0,,Evet, evet...
+Dialogue: 0,0:20:18.57,0:20:20.63,Main,Bernard,0,0,0,,Emin misin, iyi misin?
+Dialogue: 0,0:20:20.63,0:20:23.54,Main,Bernard,0,0,0,,Gigant Yengeç'in kabuğu inanılmaz derecede serttir.
+Dialogue: 0,0:20:23.54,0:20:25.20,Main,Orhun,0,0,0,,Evet. İşte başlıyorum.
+Dialogue: 0,0:20:25.20,0:20:26.96,Main,Sophia,0,0,0,,Orhun, dikkatli ol!
+Dialogue: 0,0:20:26.96,0:20:28.70,Main,Caroline,0,0,0,,Yapabilirsin, Efendim!
+Dialogue: 0,0:20:33.60,0:20:35.28,Main,Orhun,0,0,0,,Çarpma!
+Dialogue: 0,0:20:38.92,0:20:40.81,Main,Anthem,0,0,0,,Nasıl bu kadar güçlü olabilir?
+Dialogue: 0,0:20:40.81,0:20:44.05,Main,Bernard,0,0,0,,Gerçekten tek vuruşta \N pençesini kesti!
+Dialogue: 0,0:20:49.41,0:20:50.81,Italics,Orhun,0,0,0,,"Etki"
+Dialogue: 0,0:20:51.32,0:20:55.69,Italics,Orhun,0,0,0,,Ekipmanınızın gücünü ve dayanıklılığını zorla artıran orijinal büyüm,
+Dialogue: 0,0:20:55.69,0:21:01.79,Italics,Orhun,0,0,0,,aynı zamanda sihrinizi de, tek bir \N an için, yüz defaya kadar.
+Dialogue: 0,0:21:02.60,0:21:05.52,Italics,Orhun,0,0,0,,Çünkü bu, tesadüfen bulduğum bir tür hile \N
+Dialogue: 0,0:21:05.52,0:21:08.63,Italics,Orhun,0,0,0,,\N sihrimle bir sorunu çözmeye çalışırken, onu kullanmaktan biraz suçluluk duyuyorum.
+Dialogue: 0,0:21:08.63,0:21:11.02,Italics,Orhun,0,0,0,,Ama bu, en derin katlarda hayatta kalmak için ihtiyacım olan şey.
+Dialogue: 0,0:21:11.70,0:21:13.47,Main,Selma,0,0,0,,Aferin, Orhun!
+Dialogue: 0,0:21:13.47,0:21:14.77,Main,Selma,0,0,0,,Şimdi onu indireceğiz!
+Dialogue: 0,0:21:14.77,0:21:15.83,Main,Selma,0,0,0,,Herkes saldırsın!
+Dialogue: 0,0:21:22.87,0:21:25.34,Italics,Selma,0,0,0,,Tam da umduğum gibi!
+Dialogue: 0,0:21:33.81,0:21:35.62,Main,Selma,0,0,0,,Son üç gündür iyi iş çıkardınız!
+Dialogue: 0,0:21:35.62,0:21:37.10,Main,Selma,0,0,0,,Eve gidiyoruz.
+Dialogue: 0,0:21:37.10,0:21:37.85,Main,All,0,0,0,,Tamam
+Dialogue: 0,0:21:38.84,0:21:41.61,Italics,Orhun,0,0,0,,Sanırım işim bitti.
+Dialogue: 0,0:21:44.36,0:21:45.96,Main,Caroline,0,0,0,,Bayım!
+Dialogue: 0,0:21:45.96,0:21:47.74,Italics,Orhun,0,0,0,,Hiçbir şey olmamasına sevindim.
+Dialogue: 0,0:22:02.05,0:22:03.50,Main,Orhun,0,0,0,,Kara Ejderha mı?!
+Dialogue: 0,0:22:03.82,0:22:04.98,Main,Orhun,0,0,0,,İmkansız!
