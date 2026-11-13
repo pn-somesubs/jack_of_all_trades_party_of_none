@@ -1,0 +1,324 @@
+[Script Info]
+Title: pn-SomeSubs - Jack-of-All-Trades, Party of None
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 384
+PlayResY: 288
+YCbCr Matrix: None
+LayoutResX: 384
+LayoutResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,16,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\an7}Çevirmen:{\c&HD6FF&} KINGxKLASIK {\c}\NRedaktör:{\c&HD6FF&} KINGxKLASIK {\c}\NEncode:{\c&HD6FF&} KINGxKLASIK {\c}\NSomeSub iyi seyirler diler
+Dialogue: 0,0:00:01.20,0:00:02.89,Default,,0,0,0,,Gövdesi hasar aldı ama...
+Dialogue: 0,0:00:02.89,0:00:04.95,Default,,0,0,0,,Yenmek için hâlen zaman lazım
+Dialogue: 0,0:00:14.42,0:00:15.66,Default,,0,0,0,,Bu...
+Dialogue: 0,0:00:18.66,0:00:20.29,Default,,0,0,0,,Kendini yeniledi!
+Dialogue: 0,0:00:20.93,0:00:23.29,Default,,0,0,0,,O kadarını yapabiliyor mu ki?!
+Dialogue: 0,0:00:23.29,0:00:24.72,Default,,0,0,0,,Bu kadarı da...
+Dialogue: 0,0:00:24.72,0:00:26.29,Default,,0,0,0,,Yalan olduğunu söyleyin!
+Dialogue: 0,0:00:27.01,0:00:29.30,Default,,0,0,0,,Başlanğıca geri döndük
+Dialogue: 0,0:00:34.61,0:00:36.22,Default,,0,0,0,,Böyle bir zamanda...
+Dialogue: 0,0:00:55.00,0:01:20.00,Default,,0,0,0,,{\an8}Ç.n:Opening 02:35 iyi seyirler
+Dialogue: 0,0:02:25.03,0:02:29.00,Default,,0,0,0,,{\c&H5700F5&}{\b1}{\i1}{an8}BÖLÜM 12: HER İŞİ BİLEN ADAM ARKADAŞLARINI KORUYOR{\i0}{\b0}{\c}
+Dialogue: 0,0:02:42.18,0:02:44.18,Default,,0,0,0,,Azıcık daha dayan, sophie!
+Dialogue: 0,0:02:44.49,0:02:47.68,Default,,0,0,0,,Carol'da kendini yenileme var, iyi olucaktır!
+Dialogue: 0,0:02:47.68,0:02:48.68,Default,,0,0,0,,Ama...
+Dialogue: 0,0:02:48.68,0:02:53.54,Default,,0,0,0,,Hocamız bir durum ne kadar kötü olsada yine de pes etmez!
+Dialogue: 0,0:02:53.54,0:02:55.69,Default,,0,0,0,,Bir maceracının ilk önceliğinin
+Dialogue: 0,0:02:55.80,0:02:57.38,Default,,0,0,0,,sağ salim geri dönmek olduğunu söyledi!
+Dialogue: 0,0:02:57.38,0:02:59.45,Default,,0,0,0,,Bize söylediği buydu!
+Dialogue: 0,0:02:59.78,0:03:02.82,Default,,0,0,0,,Biz hocamızın... Öğrencileriyiz!
+Dialogue: 0,0:03:02.82,0:03:05.83,Default,,0,0,0,,Evet, Kesinlikle sağ salim geri dönelim!
+Dialogue: 0,0:03:06.13,0:03:07.58,Default,,0,0,0,,Güç yüksel!
+Dialogue: 0,0:03:07.58,0:03:10.21,Default,,0,0,0,,Direnme yüksel! Sihir yüksel!
+Dialogue: 0,0:03:15.88,0:03:17.89,Default,,0,0,0,,Yıldırım okları!
+Dialogue: 0,0:03:24.80,0:03:25.72,Default,,0,0,0,,Böyle bir şey...
+Dialogue: 0,0:03:26.01,0:03:26.97,Default,,0,0,0,,Kaç, Sophie!
+Dialogue: 0,0:03:26.97,0:03:28.47,Default,,0,0,0,,Kaçamayacaksınız!
+Dialogue: 0,0:03:37.98,0:03:40.17,Default,,0,0,0,,Hocamın söylediği tuzaktı!
+Dialogue: 0,0:03:40.17,0:03:42.49,Default,,0,0,0,,Senin haraket etme şeklini anlamak kolay!
+Dialogue: 0,0:03:53.18,0:03:54.46,Default,,0,0,0,,Log!
+Dialogue: 0,0:03:54.46,0:03:56.94,Default,,0,0,0,,Götün kalkmasın lan, göt velet!
+Dialogue: 0,0:03:56.94,0:04:00.26,Default,,0,0,0,,Yaşayabilseydin dahada güçlenebilirdin ama...
+Dialogue: 0,0:04:00.26,0:04:02.55,Default,,0,0,0,,Yazık oldu
+Dialogue: 0,0:04:02.55,0:04:04.15,Default,,0,0,0,,Ne yapmalıyım?
+Dialogue: 0,0:04:04.15,0:04:06.74,Default,,0,0,0,,Böyle giderse Log öldürülecek!
+Dialogue: 0,0:04:06.74,0:04:08.06,Default,,0,0,0,,Ne yaparsam?
+Dialogue: 0,0:04:08.62,0:04:12.56,Default,,0,0,0,,Biz yem olacaktık, değil mi?
+Dialogue: 0,0:04:12.88,0:04:14.81,Default,,0,0,0,,Bir tanesi yeterlidir
+Dialogue: 0,0:04:15.24,0:04:16.94,Default,,0,0,0,,Duydun onu
+Dialogue: 0,0:04:16.94,0:04:18.07,Default,,0,0,0,,Görüşürüz
+Dialogue: 0,0:04:20.60,0:04:22.98,Default,,0,0,0,,Yapmaa!
+Dialogue: 0,0:04:28.38,0:04:32.20,Default,,0,0,0,,Ne? Bedenim... Haraket etmiyor!
+Dialogue: 0,0:04:32.79,0:04:34.71,Default,,0,0,0,,Hey, noldu sana?
+Dialogue: 0,0:04:44.96,0:04:46.26,Default,,0,0,0,,Anladım...
+Dialogue: 0,0:04:46.78,0:04:49.82,Default,,0,0,0,,Bu zamana kadar hissettiğim bu garip hiss...
+Dialogue: 0,0:04:50.85,0:04:53.10,Default,,0,0,0,,Bu, benim özel becerim!
+Dialogue: 0,0:04:54.87,0:04:57.33,Default,,0,0,0,,Uç!
+Dialogue: 0,0:05:04.74,0:05:05.94,Default,,0,0,0,,İyileş!
+Dialogue: 0,0:05:06.72,0:05:08.33,Default,,0,0,0,,Azıcık daha dayan!
+Dialogue: 0,0:05:09.75,0:05:11.12,Default,,0,0,0,,Kurtardın beni!
+Dialogue: 0,0:05:11.12,0:05:12.96,Default,,0,0,0,,Az öncekide neydi?
+Dialogue: 0,0:05:12.96,0:05:14.62,Default,,0,0,0,,Benim özel becerim
+Dialogue: 0,0:05:17.02,0:05:22.09,Default,,0,0,0,,Sizi... Siktiğimin oruspu çocukları!
+Dialogue: 0,0:05:22.09,0:05:25.09,Default,,0,0,0,,Sizi geberteceğim!
+Dialogue: 0,0:05:25.09,0:05:27.88,Default,,0,0,0,,Gubia artık ne yapıyorsun?
+Dialogue: 0,0:05:27.88,0:05:31.47,Default,,0,0,0,,Sion çok kızgın olduğundan, hemen onları öldür
+Dialogue: 0,0:05:31.77,0:05:34.41,Default,,0,0,0,,Hiç de kızgın falan değilim
+Dialogue: 0,0:05:34.41,0:05:37.60,Default,,0,0,0,,Neden bu kadar uzun sürdüğünü merak ediyorum
+Dialogue: 0,0:05:38.97,0:05:40.98,Default,,0,0,0,,Şimdi onları öldüreceğim bekle ve gör!
+Dialogue: 0,0:05:43.04,0:05:43.78,Default,,0,0,0,,Sophie!
+Dialogue: 0,0:05:43.78,0:05:46.24,Default,,0,0,0,,Bütün büyümüzle savaşacağız!
+Dialogue: 0,0:05:51.99,0:05:55.20,Default,,0,0,0,,Şimdi, ne olursa olsun hayatta kalacağım,
+Dialogue: 0,0:05:55.20,0:05:58.79,Default,,0,0,0,,Ve bir kez daha ablamı ve orhunu göreceğim!
+Dialogue: 0,0:06:11.51,0:06:13.28,Default,,0,0,0,,Bu sayıda ne böyle!
+Dialogue: 0,0:06:13.28,0:06:14.64,Default,,0,0,0,,İnanılmaz!
+Dialogue: 0,0:06:14.64,0:06:17.27,Default,,0,0,0,,O demek gerçekten de ciddileşti
+Dialogue: 0,0:06:19.05,0:06:20.27,Default,,0,0,0,,Tamamlanmadı...
+Dialogue: 0,0:06:20.73,0:06:22.79,Default,,0,0,0,,Şimdi geri adım atmanın zamanı değil!
+Dialogue: 0,0:06:23.46,0:06:24.82,Default,,0,0,0,,Değişim!
+Dialogue: 0,0:06:32.55,0:06:34.24,Default,,0,0,0,,Birinci form
+Dialogue: 0,0:06:34.61,0:06:36.04,Default,,0,0,0,,Mont Eins!
+Dialogue: 0,0:06:45.17,0:06:48.54,Default,,0,0,0,,ilahi flaş
+Dialogue: 0,0:06:50.55,0:06:53.80,Default,,0,0,0,,Orhun'un bahsettiği yeni büyü bu muydu?
+Dialogue: 0,0:06:54.46,0:06:56.70,Default,,0,0,0,,Ne kadarda etkili!
+Dialogue: 0,0:06:58.81,0:07:00.19,Default,,0,0,0,,Yendik mi?!
+Dialogue: 0,0:07:06.44,0:07:08.69,Default,,0,0,0,,Yalan... Tekrar mı?
+Dialogue: 0,0:07:08.69,0:07:10.95,Default,,0,0,0,,Bunun sonu yok!
+Dialogue: 0,0:07:12.39,0:07:15.82,Default,,0,0,0,,Onu yenmenin bir tek yolu var...
+Dialogue: 0,0:07:15.82,0:07:17.50,Default,,0,0,0,,Tek vuruşta yenmek!
+Dialogue: 0,0:07:19.71,0:07:22.41,Default,,0,0,0,,Büyülü duvar! Tam güç!
+Dialogue: 0,0:07:31.55,0:07:32.68,Default,,0,0,0,,Lider!
+Dialogue: 0,0:07:42.69,0:07:44.29,Default,,0,0,0,,Dördüncü form
+Dialogue: 0,0:07:45.69,0:07:47.44,Default,,0,0,0,,Mont Vier!
+Dialogue: 0,0:07:55.99,0:07:59.66,Default,,0,0,0,,Herkesin umutlarının, boşa gitmesine izin vermeyeceğim!
+Dialogue: 0,0:08:12.93,0:08:15.97,Default,,0,0,0,,İşini bitirdi, or..hun...
+Dialogue: 0,0:08:17.68,0:08:19.38,Default,,0,0,0,,Lider!
+Dialogue: 0,0:08:17.68,0:08:19.38,Default,,0,0,0,,Selma!
+Dialogue: 0,0:08:27.52,0:08:29.98,Default,,0,0,0,,Kaç, sophie!
+Dialogue: 0,0:08:29.98,0:08:31.58,Default,,0,0,0,,Log!
+Dialogue: 0,0:08:31.58,0:08:32.74,Default,,0,0,0,,Çocuk oyuncağı
+Dialogue: 0,0:08:33.74,0:08:35.74,Default,,0,0,0,,Tüm zamanım ziyan oldu
+Dialogue: 0,0:08:36.24,0:08:38.50,Default,,0,0,0,,Senin özel becerin var demek?
+Dialogue: 0,0:08:38.50,0:08:42.65,Default,,0,0,0,,Özlleiğin sorun olmadan önce, seni burada geberteceğim
+Dialogue: 0,0:08:43.49,0:08:47.17,Default,,0,0,0,,Olamaz... Artık kazanamam
+Dialogue: 0,0:08:48.51,0:08:50.80,Default,,0,0,0,,Yapacak birşey yok gibi
+Dialogue: 0,0:08:51.19,0:08:54.54,Default,,0,0,0,,Umut vâdeden filizleri çiçek açmadan önce koparmak bizim işimiz
+Dialogue: 0,0:08:54.54,0:08:56.30,Default,,0,0,0,,Öldürsek iyi olur
+Dialogue: 0,0:08:56.30,0:08:58.80,Default,,0,0,0,,Hemen işini bitirsene be
+Dialogue: 0,0:08:59.46,0:09:00.88,Default,,0,0,0,,Korkuyorum...
+Dialogue: 0,0:09:00.88,0:09:04.18,Default,,0,0,0,,İstemiyorum... Ölmek istemiyorum
+Dialogue: 0,0:09:04.18,0:09:06.31,Default,,0,0,0,,Kurtar beni, Abla!
+Dialogue: 0,0:09:08.81,0:09:11.71,Default,,0,0,0,,Kurtar beni, Orhun!
+Dialogue: 0,0:09:28.86,0:09:30.72,Default,,0,0,0,,Orhun...
+Dialogue: 0,0:09:31.31,0:09:32.96,Default,,0,0,0,,Geç kaldığım için özür dilerim
+Dialogue: 0,0:09:40.20,0:09:42.91,Default,,0,0,0,,İyi dayandın, helal sana
+Dialogue: 0,0:09:45.98,0:09:47.23,Default,,0,0,0,,uzay sıçraması
+Dialogue: 0,0:09:52.39,0:09:53.98,Default,,0,0,0,,Hocam...
+Dialogue: 0,0:09:54.33,0:09:55.60,Default,,0,0,0,,Artık güvendesin
+Dialogue: 0,0:09:56.19,0:09:57.80,Default,,0,0,0,,Kalanını bana bırak
+Dialogue: 0,0:10:02.71,0:10:04.63,Default,,0,0,0,,Azıcık daha bekleyin
+Dialogue: 0,0:10:04.63,0:10:06.25,Default,,0,0,0,,Hızlıca bitireceğim
+Dialogue: 0,0:10:06.65,0:10:08.50,Default,,0,0,0,,Kızmış gibi görünüyorsun
+Dialogue: 0,0:10:08.50,0:10:10.31,Default,,0,0,0,,Evet, kızdım
+Dialogue: 0,0:10:10.31,0:10:13.25,Default,,0,0,0,,Size, kendime
+Dialogue: 0,0:10:14.02,0:10:16.26,Default,,0,0,0,,Onları koruyacağıma söz vermiştim oysaki!
+Dialogue: 0,0:10:16.75,0:10:20.64,Default,,0,0,0,,Bu yüzden onları tehlikeden koruyamadığım için çok kızgınım!
+Dialogue: 0,0:10:20.94,0:10:23.01,Default,,0,0,0,,Neden onları yaraladınız?
+Dialogue: 0,0:10:23.01,0:10:25.45,Default,,0,0,0,,Sen ejderha avcısı'sın değil mi?
+Dialogue: 0,0:10:25.45,0:10:27.30,Default,,0,0,0,,Evet, öyle hissettiriyorsun
+Dialogue: 0,0:10:27.30,0:10:29.14,Default,,0,0,0,,Benim sorularımï cevapla
+Dialogue: 0,0:10:29.52,0:10:33.33,Default,,0,0,0,,Sebebi ejderha avcısıyla ilişkileri olduğundan
+Dialogue: 0,0:10:33.33,0:10:37.09,Default,,0,0,0,,Seni ortaya çıkarmak için onları kullanmayı düşünüyorduk
+Dialogue: 0,0:10:37.09,0:10:39.82,Default,,0,0,0,,İşe yaradığı için mutluyum
+Dialogue: 0,0:10:39.82,0:10:41.66,Default,,0,0,0,,Dalğa mı geçiyorsun...
+Dialogue: 0,0:10:42.03,0:10:43.86,Default,,0,0,0,,Bundan paçanı kurtaramayacaksın!
+Dialogue: 0,0:10:43.86,0:10:47.90,Default,,0,0,0,,Ölümün acısını hissedeceksin, kendini hazırla!
+Dialogue: 0,0:10:48.66,0:10:50.47,Default,,0,0,0,,Eğlenceli gibi görünüyor
+Dialogue: 0,0:10:51.04,0:10:54.07,Default,,0,0,0,,Ejderha avcısı'nın kafasını alalım
+Dialogue: 0,0:10:54.07,0:10:58.51,Default,,0,0,0,,Biz Amunthoth'ta diğer insanlarla savaşmada uzmanız
+Dialogue: 0,0:10:58.51,0:11:00.39,Default,,0,0,0,,Hemde üçe karşı bir
+Dialogue: 0,0:11:00.39,0:11:02.30,Default,,0,0,0,,Gojo satoru olmadığından kazanamazsın
+Dialogue: 0,0:11:02.64,0:11:04.05,Default,,0,0,0,,Bilmem
+Dialogue: 0,0:11:07.78,0:11:09.30,Default,,0,0,0,,Herkes, geri çekilsin!
+Dialogue: 0,0:11:09.30,0:11:10.06,Default,,0,0,0,,Çok geç!
+Dialogue: 0,0:11:10.06,0:11:11.56,Default,,0,0,0,,Ağırlık yükseltmesi!
+Dialogue: 0,0:11:15.00,0:11:16.69,Default,,0,0,0,,Bir anda ağırlaştım...
+Dialogue: 0,0:11:17.23,0:11:18.57,Default,,0,0,0,,Haraket edemiyorum!
+Dialogue: 0,0:11:18.57,0:11:21.74,Default,,0,0,0,,toprak şoku!
+Dialogue: 0,0:11:37.99,0:11:41.34,Default,,0,0,0,,Öylesine küçük bir bedenle böyle bir saldırıyı engelleyebiliyor musun?
+Dialogue: 0,0:11:41.34,0:11:45.61,Default,,0,0,0,,O üçünü yenmek çok kolaydı değil mi?
+Dialogue: 0,0:11:45.61,0:11:47.88,Default,,0,0,0,,Seni öldürmek yazık olur
+Dialogue: 0,0:11:49.22,0:11:50.39,Default,,0,0,0,,Kar fırtınası mı?
+Dialogue: 0,0:11:50.39,0:11:51.92,Default,,0,0,0,,Özel rütbe büyü mü?
+Dialogue: 0,0:11:51.92,0:11:53.60,Default,,0,0,0,,O ne hız öyle!
+Dialogue: 0,0:12:01.20,0:12:04.13,Default,,0,0,0,,Hocamız geri mi püskürtülüyor?
+Dialogue: 0,0:12:04.13,0:12:05.87,Default,,0,0,0,,Yalan olmalı...
+Dialogue: 0,0:12:05.87,0:12:08.87,Default,,0,0,0,,Orhun, elinden geleni yap!
+Dialogue: 0,0:12:09.56,0:12:12.36,Default,,0,0,0,,Garip, büyüyü hızlı aktifleştiriyor
+Dialogue: 0,0:12:12.36,0:12:15.38,Default,,0,0,0,,Hiç kimse özel rütbeli bir büyüyü bu kadar hızlı aktifleştiremez
+Dialogue: 0,0:12:15.72,0:12:18.59,Default,,0,0,0,,Sanki aktifleştirmek için gerekli olan\Ntüm addımları atlıyor gibi
+Dialogue: 0,0:12:18.59,0:12:19.88,Default,,0,0,0,,Tam olarak ne yapıyor?
+Dialogue: 0,0:12:20.80,0:12:24.03,Default,,0,0,0,,Benim saldırılarımdan yara almadan kurtulman...
+Dialogue: 0,0:12:24.03,0:12:27.05,Default,,0,0,0,,İyimişsin he, ejderha avcısı
+Dialogue: 0,0:12:27.54,0:12:28.81,Default,,0,0,0,,Sende öyle
+Dialogue: 0,0:12:28.81,0:12:31.93,Default,,0,0,0,,Gücünüz Amunthoth'a israf oluyor
+Dialogue: 0,0:12:32.25,0:12:37.56,Default,,0,0,0,,Bizler, senin gibi birisinin bize yardım etmek istediğini düşünüyoruz
+Dialogue: 0,0:12:37.56,0:12:40.61,Default,,0,0,0,,Katilin birisine yardım edemeyeceğim için üzgünüm
+Dialogue: 0,0:12:40.61,0:12:44.00,Default,,0,0,0,,Sana baktığımda birisini hatırlıyorum
+Dialogue: 0,0:12:44.00,0:12:46.88,Default,,0,0,0,,Çocukken öldü ne de olsa
+Dialogue: 0,0:12:46.88,0:12:50.59,Default,,0,0,0,,Şu an hayatta olsaydı belki senin gibi olabilirdi
+Dialogue: 0,0:12:51.89,0:12:54.26,Default,,0,0,0,,Neden maceracıları öldürüyorsun?
+Dialogue: 0,0:12:54.83,0:12:58.05,Default,,0,0,0,,Bende insan öldürmek istemiyorum
+Dialogue: 0,0:12:58.05,0:12:59.96,Default,,0,0,0,,Ama original yenildi
+Dialogue: 0,0:13:00.35,0:13:02.94,Default,,0,0,0,,ve replika düşmanların eline geçti
+Dialogue: 0,0:13:02.94,0:13:07.75,Default,,0,0,0,,Zaman kazanmak bizim tek umutumuz
+Dialogue: 0,0:13:07.75,0:13:09.71,Default,,0,0,0,,Tam olarak neyden bahsediyorsun?
+Dialogue: 0,0:13:09.71,0:13:12.35,Default,,0,0,0,,Sen bizi anlayamazsın
+Dialogue: 0,0:13:12.35,0:13:14.86,Default,,0,0,0,,Anlayabileceğimide sanmam
+Dialogue: 0,0:13:14.86,0:13:17.60,Default,,0,0,0,,Teroristin söylediklerine inanmam
+Dialogue: 0,0:13:17.96,0:13:20.88,Default,,0,0,0,,Ayrım gözetmeksizin cinayet işlemek, sizin "zaman kazanma" yönteminiz mi?
+Dialogue: 0,0:13:20.88,0:13:22.71,Default,,0,0,0,,Bundan başka yapacak yol yoksa eğer
+Dialogue: 0,0:13:22.71,0:13:24.11,Default,,0,0,0,,Hemen pes et o zaman
+Dialogue: 0,0:13:25.28,0:13:27.24,Default,,0,0,0,,Kapa çeneni, iğrenç haşere!
+Dialogue: 0,0:13:27.24,0:13:31.74,Default,,0,0,0,,Sizin gibiler dünyayı yıkıma daha da yaklaştırıyor!
+Dialogue: 0,0:13:37.60,0:13:39.07,Default,,0,0,0,,Bu kadarı yeter
+Dialogue: 0,0:13:44.09,0:13:47.51,Default,,0,0,0,,"Patlatma"? Bir seferde bu kadar çok büyü yapabiliyor mu?
+Dialogue: 0,0:13:56.56,0:14:00.66,Default,,0,0,0,,Az çok eğlenceliydi, ama yinede benim zaferim
+Dialogue: 0,0:14:00.66,0:14:04.48,Default,,0,0,0,,Bu kadar patlama büyüsünden hayatta kalamazsın
+Dialogue: 0,0:14:04.48,0:14:05.84,Default,,0,0,0,,Üzgünüm
+Dialogue: 0,0:14:05.84,0:14:08.51,Default,,0,0,0,,Bu dünyayı kurtarmak için
+Dialogue: 0,0:14:08.51,0:14:10.14,Default,,0,0,0,,Senin ölümün boşa git-
+Dialogue: 0,0:14:16.25,0:14:18.25,Default,,0,0,0,,Kılıncı kalkana dönüştü!
+Dialogue: 0,0:14:21.25,0:14:22.41,Default,,0,0,0,,Hocam!
+Dialogue: 0,0:14:22.41,0:14:23.77,Default,,0,0,0,,Sıfırıncı form!
+Dialogue: 0,0:14:23.77,0:14:25.03,Default,,0,0,0,,Mont Null!
+Dialogue: 0,0:14:30.24,0:14:34.76,Default,,0,0,0,,Kazandığını sandığın anı bekliyordum
+Dialogue: 0,0:14:36.90,0:14:38.46,Default,,0,0,0,,Kötü değil
+Dialogue: 0,0:14:40.01,0:14:41.67,Default,,0,0,0,,Kaçmana izin vermeyeceğim!
+Dialogue: 0,0:14:49.71,0:14:54.12,Default,,0,0,0,,Bu büyü... Yoksa... Orhun?
+Dialogue: 0,0:14:54.12,0:14:56.92,Default,,0,0,0,,Bu da ne? Kim o?
+Dialogue: 0,0:15:00.72,0:15:02.54,Default,,0,0,0,,Bu da ne böyle?
+Dialogue: 0,0:15:03.64,0:15:06.55,Default,,0,0,0,,Hayır, bu kadar şeyi anlıyorum
+Dialogue: 0,0:15:06.55,0:15:10.60,Default,,0,0,0,,Bu kesinlikle o yaşlı adamın ve o berbat kadının işi olmalı...
+Dialogue: 0,0:15:12.56,0:15:14.14,Default,,0,0,0,,Dalğa geçme lan!
+Dialogue: 0,0:15:14.14,0:15:16.92,Default,,0,0,0,,Ne zamana kadar benimle dalga geçmeye devam edecekler?!
+Dialogue: 0,0:15:20.30,0:15:23.83,Default,,0,0,0,,Kimsin... Sen?
+Dialogue: 0,0:15:27.43,0:15:29.11,Default,,0,0,0,,Duralım, orhun
+Dialogue: 0,0:15:29.11,0:15:31.92,Default,,0,0,0,,Artık savaşmak istemiyorum
+Dialogue: 0,0:15:31.92,0:15:34.07,Default,,0,0,0,,Seninle savaşamam
+Dialogue: 0,0:15:34.45,0:15:36.39,Default,,0,0,0,,Beni bırakamaz mısın?
+Dialogue: 0,0:15:36.39,0:15:38.90,Default,,0,0,0,,Diğerlerini de bırakacağım
+Dialogue: 0,0:15:38.90,0:15:40.46,Default,,0,0,0,,Bir anda ne oldu?
+Dialogue: 0,0:15:40.46,0:15:42.58,Default,,0,0,0,,Ve neden böyle konuşuyorsun?
+Dialogue: 0,0:15:42.58,0:15:44.50,Default,,0,0,0,,Sen beni biliyor musun?
+Dialogue: 0,0:15:44.50,0:15:46.09,Default,,0,0,0,,Tam olarak anlamıyorum!
+Dialogue: 0,0:15:46.55,0:15:48.81,Default,,0,0,0,,Anlayacaksın, bir gün
+Dialogue: 0,0:15:50.86,0:15:52.21,Default,,0,0,0,,Büyüm kayboldu?
+Dialogue: 0,0:15:59.33,0:16:01.31,Default,,0,0,0,,Artık geri mi çekiliyorlar?
+Dialogue: 0,0:16:01.31,0:16:03.40,Default,,0,0,0,,Savaşa dahil olurlarsa...
+Dialogue: 0,0:16:05.11,0:16:06.91,Default,,0,0,0,,Orhun, güvende misin?!
+Dialogue: 0,0:16:06.91,0:16:08.11,Default,,0,0,0,,Sophia?
+Dialogue: 0,0:16:09.57,0:16:11.50,Default,,0,0,0,,Gitme zamanı galiba
+Dialogue: 0,0:16:11.50,0:16:14.26,Default,,0,0,0,,Güney Büyük Zindanından çıkacağız
+Dialogue: 0,0:16:14.26,0:16:16.74,Default,,0,0,0,,Bu ben ve Orhun arasında bir söz
+Dialogue: 0,0:16:17.25,0:16:20.19,Default,,0,0,0,,Eğer Selma ve diğerleri arasında büyük bir kavga çıkarsa,
+Dialogue: 0,0:16:20.19,0:16:22.25,Default,,0,0,0,,Kayıplar yaşayacağımızdan eminim!
+Dialogue: 0,0:16:22.77,0:16:26.45,Default,,0,0,0,,Gitmelerini çok daha fazla tercih ederim
+Dialogue: 0,0:16:26.45,0:16:27.66,Default,,0,0,0,,Teşekkür ederim
+Dialogue: 0,0:16:28.25,0:16:33.51,Default,,0,0,0,,Umut ediyorum ki gelecek buluşmamızda bir birimizi öldürme amacında olmarız
+Dialogue: 0,0:16:38.76,0:16:41.58,Default,,0,0,0,,O zaman görüşürüz, Orhun
+Dialogue: 0,0:16:50.54,0:16:53.74,Default,,0,0,0,,Sophia! Şükürler olsun!
+Dialogue: 0,0:16:53.74,0:16:56.59,Default,,0,0,0,,Abla atıyor
+Dialogue: 0,0:17:02.67,0:17:04.25,Default,,0,0,0,,Orhun!
+Dialogue: 0,0:17:04.72,0:17:08.41,Default,,0,0,0,,Teşekkür ederim, tekrar bizi kurtardın
+Dialogue: 0,0:17:08.41,0:17:12.13,Default,,0,0,0,,Hayır sizi tehlikeye soktuğum için ben özür dilerim
+Dialogue: 0,0:17:12.13,0:17:13.85,Default,,0,0,0,,Neyden bahsediyorsun?
+Dialogue: 0,0:17:13.85,0:17:16.89,Default,,0,0,0,,Küçük kız kardeşimin hayatta olması senin sayende
+Dialogue: 0,0:17:16.89,0:17:18.16,Default,,0,0,0,,Doğru ya!
+Dialogue: 0,0:17:18.16,0:17:22.00,Default,,0,0,0,,Sen gelmeseydin, herkesin gülümsemesi kaybolurdu
+Dialogue: 0,0:17:22.00,0:17:23.58,Default,,0,0,0,,Teşekkür ederim!
+Dialogue: 0,0:17:23.58,0:17:28.29,Default,,0,0,0,,Bu arada hocam, az önceki kadını biliyor muydunuz?
+Dialogue: 0,0:17:30.14,0:17:32.44,Default,,0,0,0,,Hayır, bilmiyorum
+Dialogue: 0,0:17:35.85,0:17:38.51,Default,,0,0,0,,Yaşıyor! Orhun yaşıyor!
+Dialogue: 0,0:17:38.51,0:17:40.12,Default,,0,0,0,,Bu günü kaç kez hayal ettim?
+Dialogue: 0,0:17:40.12,0:17:42.29,Default,,0,0,0,,Kaç defa ihanete uğradım?
+Dialogue: 0,0:17:42.92,0:17:45.53,Default,,0,0,0,,Ama bir maceracıya dönüştü...
+Dialogue: 0,0:17:45.53,0:17:48.08,Default,,0,0,0,,Tekrar buluşacağız, ama düşman olarak
+Dialogue: 0,0:17:48.08,0:17:50.46,Default,,0,0,0,,Avcı ve avlanan gibi
+Dialogue: 0,0:17:51.24,0:17:52.71,Default,,0,0,0,,O gözler...
+Dialogue: 0,0:17:52.71,0:17:56.30,Default,,0,0,0,,Neden orhun bana öyle gözlerle baktı?
+Dialogue: 0,0:17:56.30,0:17:58.09,Default,,0,0,0,,Neden?
+Dialogue: 0,0:17:58.09,0:18:01.20,Default,,0,0,0,,Evimi çaldılar, geçmişimi çaldılar,
+Dialogue: 0,0:18:01.20,0:18:04.12,Default,,0,0,0,,Birlikte geçirmemiz gereken zamanı bile çaldılar
+Dialogue: 0,0:18:04.12,0:18:06.31,Default,,0,0,0,,Ama hâlâ yeterli olmadığını mı söylüyorsun?!
+Dialogue: 0,0:18:06.82,0:18:09.87,Default,,0,0,0,,O kadını asla bağışlamayacağım!
+Dialogue: 0,0:18:09.87,0:18:15.36,Default,,0,0,0,,Onu cehennemin dibine kadar kovalayacağım ve doğduğuna pişman olmasını sağlayacağım
+Dialogue: 0,0:18:15.36,0:18:18.72,Default,,0,0,0,,Seni umutsuzluğun uçurumuna sürükleyeceğim
+Dialogue: 0,0:18:18.72,0:18:23.08,Default,,0,0,0,,Ölüm için yalvaracaksın ama ölüm gelmeyecek!
+Dialogue: 0,0:18:24.33,0:18:27.61,Default,,0,0,0,,Onunla benim aramdaki fark ne?
+Dialogue: 0,0:18:28.18,0:18:31.33,Default,,0,0,0,,Onun yapıp da benim yapamadığım ne?
+Dialogue: 0,0:18:32.15,0:18:33.27,Default,,0,0,0,,Ne?
+Dialogue: 0,0:18:34.59,0:18:37.89,Default,,0,0,0,,Çok çalışıyorsun, Oliver
+Dialogue: 0,0:18:37.89,0:18:39.34,Default,,0,0,0,,Philly?
+Dialogue: 0,0:18:40.24,0:18:43.80,Default,,0,0,0,,Bu antreman, siyah ejderhayı yenmek için mi?
+Dialogue: 0,0:18:43.80,0:18:45.91,Default,,0,0,0,,Yoksa onun için mi?
+Dialogue: 0,0:18:46.43,0:18:48.85,Default,,0,0,0,,Kendimden utandığım için
+Dialogue: 0,0:18:49.31,0:18:51.89,Default,,0,0,0,,Siyah ejderhayı kendi başına yenmek
+Dialogue: 0,0:18:51.89,0:18:55.28,Default,,0,0,0,,Hiç kimse bunu bu zamana kadar yapamadı
+Dialogue: 0,0:18:55.28,0:19:00.32,Default,,0,0,0,,Herkes ona yeni kahraman diyor
+Dialogue: 0,0:19:00.32,0:19:01.43,Default,,0,0,0,,Anladım
+Dialogue: 0,0:19:02.31,0:19:06.89,Default,,0,0,0,,Duyduğuma göre yakında bir turnuva varmış
+Dialogue: 0,0:19:06.89,0:19:09.51,Default,,0,0,0,,Orhun'u bu ellerle yeneceğim!
+Dialogue: 0,0:19:09.51,0:19:12.63,Default,,0,0,0,,Kahramana bunu kanıtlayacağım!
+Dialogue: 0,0:19:12.96,0:19:15.88,Default,,0,0,0,,Oliverden beklendiği gibi
+Dialogue: 0,0:19:15.88,0:19:18.06,Default,,0,0,0,,Heyecanla bekliyorum
+Dialogue: 0,0:19:19.07,0:19:22.22,Default,,0,0,0,,Orhun siyah ejderhayı tek başına yendi
+Dialogue: 0,0:19:22.22,0:19:25.67,Default,,0,0,0,,Mümkün değil, mümkün olmaması gerek!
+Dialogue: 0,0:19:25.67,0:19:28.14,Default,,0,0,0,,Ama bu gerçeklik
+Dialogue: 0,0:19:28.48,0:19:32.33,Default,,0,0,0,,Bu da onun başka bir yol bulduğu anlamına geliyor
+Dialogue: 0,0:19:32.33,0:19:37.21,Default,,0,0,0,,Siyah ejderhayı yenecek kadar güç elde etti
+Dialogue: 0,0:19:40.22,0:19:44.13,Default,,0,0,0,,Ne zamana kadar saklayabileceksin! Bu ap-açık ortada!
+Dialogue: 0,0:19:44.13,0:19:47.34,Default,,0,0,0,,Maceracı olmayı asla tercih etmeyecek bir kişi
+Dialogue: 0,0:19:47.34,0:19:49.36,Default,,0,0,0,,derinliklerde bulunan patronu alt ediyor
+Dialogue: 0,0:19:49.36,0:19:53.54,Default,,0,0,0,,Ve belki de Büyük Zindanı temizleyebilir!
+Dialogue: 0,0:19:53.85,0:19:55.70,Default,,0,0,0,,Minnettarım
+Dialogue: 0,0:19:56.60,0:19:58.79,Default,,0,0,0,,Bu çok ironik
+Dialogue: 0,0:19:58.79,0:20:02.44,Default,,0,0,0,,O benim için çalışacak!
+Dialogue: 0,0:20:05.83,0:20:11.65,Default,,0,0,0,,Öyleyse böyle devam et! Kurtarıcım ol, Orhun Dura!
+Dialogue: 0,0:20:11.65,0:20:17.94,Default,,0,0,0,,Ve sonra geçmişte bana yaptıklarını unutacağım
+Dialogue: 0,0:20:19.71,0:20:21.51,Default,,0,0,0,,Dans et, orhun!
+Dialogue: 0,0:20:21.51,0:20:25.64,Default,,0,0,0,,Ölüm gününe kadar rüyandan uyanma!
+Dialogue: 0,0:20:27.84,0:20:31.96,Default,,0,0,0,,O olsun! bu olsun! Benim için dans ettiğin sürece sorun yok!
+Dialogue: 0,0:22:07.59,0:22:09.97,Default,,0,0,0,,Geçen sefer için özür dilerim
+Dialogue: 0,0:22:10.36,0:22:13.70,Default,,0,0,0,,Eminim ki hiçbiriniz o dövüşün gidişatından memnun değildiniz
+Dialogue: 0,0:22:13.70,0:22:16.34,Default,,0,0,0,,Kendi gücünüzün ne kadar olduğunun farkına varmışsınızdır
+Dialogue: 0,0:22:16.34,0:22:17.73,Default,,0,0,0,,Bende öyle
+Dialogue: 0,0:22:18.08,0:22:22.44,Default,,0,0,0,,Hayır, hoca bizi kurtardı, değil mi?
+Dialogue: 0,0:22:22.44,0:22:25.52,Default,,0,0,0,,Hoca gelmeseydi biz orada....
+Dialogue: 0,0:22:25.52,0:22:26.80,Default,,0,0,0,,Doğru!
+Dialogue: 0,0:22:26.80,0:22:30.74,Default,,0,0,0,,Orhun sayesinde şuanda hayattayız!
+Dialogue: 0,0:22:30.74,0:22:33.28,Default,,0,0,0,,Ama bu tamamen tesadüftü
+Dialogue: 0,0:22:33.28,0:22:34.64,Default,,0,0,0,,Az kalsın kaybedecektik
+Dialogue: 0,0:22:35.12,0:22:37.10,Default,,0,0,0,,O anda savaşa devam etseydim,
+Dialogue: 0,0:22:37.10,0:22:38.75,Default,,0,0,0,,Hepimiz ölmüştük
+Dialogue: 0,0:22:39.37,0:22:42.89,Default,,0,0,0,,Hatta Selam ve 1-cu Ünite de
+Dialogue: 0,0:22:42.89,0:22:44.94,Default,,0,0,0,,Ablam da mı?
+Dialogue: 0,0:22:44.94,0:22:48.01,Default,,0,0,0,,Onlar o kadar güçlü
+Dialogue: 0,0:22:48.36,0:22:49.90,Default,,0,0,0,,Özellikle de o kadın
+Dialogue: 0,0:22:50.62,0:22:53.54,Default,,0,0,0,,Bu zamana kadar hep en güçlüsü oluğumu düşünüyordum
+Dialogue: 0,0:22:54.26,0:22:57.45,Default,,0,0,0,,Şimdiki zamanda bile korumak istediklerimi koruyamıyorum
+Dialogue: 0,0:22:58.07,0:23:00.09,Default,,0,0,0,,Daha da güçlenmeliyim
+Dialogue: 0,0:23:01.20,0:23:03.91,Default,,0,0,0,,Bizler yenilginin tadına baktık
+Dialogue: 0,0:23:03.91,0:23:06.53,Default,,0,0,0,,Yine de hepimiz hayattayız
+Dialogue: 0,0:23:07.08,0:23:10.91,Default,,0,0,0,,Yenildiğin sürece tekrardan başlayabilirsin
+Dialogue: 0,0:23:11.36,0:23:13.87,Default,,0,0,0,,O yüzden hiç bir zaman geri çekilme
+Dialogue: 0,0:23:13.87,0:23:15.16,Default,,0,0,0,,Tamam!
+Dialogue: 0,0:23:16.61,0:23:18.41,Default,,0,0,0,,O zaman, hadi gidelim!
